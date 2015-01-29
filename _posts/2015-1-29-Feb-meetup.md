@@ -1,7 +1,8 @@
 ---
 layout: post
-title: February 19 Announcement: Web & Application PROfessionals Meetup
+title: February 19 Announcement - Web & Application PROfessionals Meetup
 ---
+
 
 ## February 19 Announcement: Web & Application PROfessionals Meetup
 
