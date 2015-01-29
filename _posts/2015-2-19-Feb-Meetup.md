@@ -9,18 +9,18 @@ The __Long Beach Web Professionals__ group meets monthly to showcase our cool te
 
 ### TALKS THIS MONTH
 
-* Aaron Pederson -
-*
+* Aaron Pederson - Let's talk about SASS
+* TBD
 
 
 >  MAIN PRESENTATION
 >  Let's talk about SASS ||  Presentation by [Aaron Pedersen](http://twitter.com/aaronpedersen)
 >
-> The "coding" concepts behind SASS leave many front-end developer resistant to the language and process. In this talk, Aaron will cover the basic concepts and show you how easy it is to get up and running with SASS and how to integrate it into your development workflow. As an example, we ill checking out the lbtech.github.io repository, making some modifications and pushing those changes to github. The goal of this talk is to show you how the language can help speed up development and bring more organization and beauty (yes code can be pretty) to your css code base.
-
-[About Aaron Pedersen](http://twitter.com/aaronpedersen)
-
-As co-founder and principle at DevelopmentArc, a boutique development firm and parent company of Pedanco, Aaron Pedersen’s passion lies in helping businesses streamline process making teams work more effectively through innovative technology solutions. A published author, expert speaker, and sought-after business consultant and trainer, Aaron works with a wide range of companies, from Fortune 500 corporations and multi-chain hospitality companies to emerging brands and seed-round startups including Toyota Motor Sports, DHAP Digital, Adobe, KitchenNetwork, CoreLogic, PWC, Yahoo, and FitStar.
+> The "coding" concepts behind [SASS](http://sass-lang.com/install) leave many front-end developer resistant to the language and process. In this talk, Aaron will cover the basic concepts and show you how easy it is to get up and running with SASS and how to integrate it into your development workflow. As an example, we'll be checking out the [lbtech.github.io](https://github.com/lbtech/lbtech.github.io) repository, making some modifications and pushing those changes to github. The goal of this talk is to show you how the language can help speed up development and bring more organization and beauty (yes code can be pretty) to your css code base.
+>
+> [About Aaron Pedersen](http://twitter.com/aaronpedersen)
+>
+> As co-founder and principle at [DevelopmentArc](http://www.developmentarc.com/), a boutique development firm and parent company of [Pedanco](https://pedanco.com/), Aaron Pedersen’s passion lies in helping businesses streamline process making teams work more effectively through innovative technology solutions. A published author, expert speaker, and sought-after business consultant and trainer, Aaron works with a wide range of companies, from Fortune 500 corporations and multi-chain hospitality companies to emerging brands and seed-round startups including Toyota Motor Sports, DHAP Digital, Adobe, KitchenNetwork, CoreLogic, PWC, Yahoo, and FitStar.
 
 ---
 
