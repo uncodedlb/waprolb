@@ -1,12 +1,11 @@
 ---
 layout: post
-title: February 19 Announcement - Web & Application PROfessionals Meetup
+title: Feb 19, 2015 Meetup (TBD) - Web & Application Professionals Meetup
 ---
 
+> Note: This is a work in progress.  If you're interested to speak, sponsor, or otherwise help, please [contact Mike](/about).
 
-## February 19 Announcement: Web & Application PROfessionals Meetup
-
-The __Long Beach Web Professionals__ group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
+The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
 
 ### TALKS THIS MONTH
 
