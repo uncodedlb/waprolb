@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Feb 19, 2015 Meetup (TBD) - Web & Application Professionals Meetup
+published: true
 ---
 
 > Note: This is a work in progress.  If you're interested to speak, sponsor, or otherwise help, please [contact Mike](/about).
