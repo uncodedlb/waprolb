@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feb 19, 2015 Meetup (TBD) - Web & Application Professionals Meetup
+title: "Feb 19, 2015 Meetup (TBD) - Web & Application Professionals Meetup"
 published: true
 ---
 
@@ -11,7 +11,7 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 ### TALKS THIS MONTH
 
 * Aaron Pederson - Let's talk about SASS
-* TBD
+* Mariano Crivello - Digital Effin Strategies
 
 
 >  MAIN PRESENTATION
@@ -23,6 +23,14 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 >
 > As co-founder and principle at [DevelopmentArc](http://www.developmentarc.com/), a boutique development firm and parent company of [Pedanco](https://pedanco.com/), Aaron Pedersen’s passion lies in helping businesses streamline process making teams work more effectively through innovative technology solutions. A published author, expert speaker, and sought-after business consultant and trainer, Aaron works with a wide range of companies, from Fortune 500 corporations and multi-chain hospitality companies to emerging brands and seed-round startups including Toyota Motor Sports, DHAP Digital, Adobe, KitchenNetwork, CoreLogic, PWC, Yahoo, and FitStar.
 
+
+>  THUNDER TALK
+>  Digital Effin Strategies ||  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)
+>
+>
+> [About Mariano Crivello](https://twitter.com/MarianoCrivello)
+>
+>
 ---
 
 
