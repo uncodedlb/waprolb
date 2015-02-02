@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 The Long Beach __Web & App dev Professionals (WAPRO)__ group [meets monthly](http://meetup.com/lbtech) to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
@@ -11,6 +12,12 @@ This site is hosted from our [github repository](https://github.com/lbtech/lbtec
 ## Contact Info
 
 Mike Stewart | [Media Done Right](http://www.MediaDoneRight.com/contact) | twitter: [@MediaDoneRight](https://twitter.com/MediaDoneRight) | 562-999-2724 voice / text
+
+## Connect With Us
+
+- IRC:  [#LBTech](http://webchat.freenode.net/?nick=LBTech-guest&channels=%23css%2C%23sass%2C%23less%2C%23node.js%2C%23drupal%2C%23nginx%2C%23LBTech&prompt=1&uio=OT10cnVlJjEwPXRydWU3a) -- realtime help
+- Twitter:  [@LongBeachTech](https://twitter.com/longbeachtech) -- hastag #WAPro / #LBTech
+- GitHub:  https://github.com/LBTech -- Shared public repo's for collaboration
 
 ##  Call for Presentations
 
