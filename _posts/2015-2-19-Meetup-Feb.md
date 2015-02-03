@@ -11,7 +11,7 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 ### TALKS THIS MONTH
 
 * Aaron Pederson - Let's talk about SASS
-* Mariano Crivello - Digital Effin Strategies
+* Mariano Crivello - Digital Effin Strategy
 
 
 >  MAIN PRESENTATION
@@ -25,12 +25,27 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 
 
 >  THUNDER TALK
->  Digital Effin Strategies ||  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)
+>  Digital Effin Strategy ||  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)
 >
 >
 > [About Mariano Crivello](https://twitter.com/MarianoCrivello)
+> about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
 >
+> We have been called architects, developers, designers, guru's, nerds, 
+> The IT gal or guy, code monkey, marketing dude, seo wiz and more... 
+> 
+> but who we are... 
+> at our core...
+> 
+> is a digital strategist. 
+> 
+> We are people who strategize the use of technology to effect change.
+> And we are damn good at it. 
 >
+> This is your personally catered pep rally. 
+> 
+> Please attend.
+
 ---
 
 
