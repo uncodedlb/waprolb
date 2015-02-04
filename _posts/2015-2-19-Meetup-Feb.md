@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feb 19, 2015 Meetup (TBD) - Web & Application Professionals Meetup"
+title: "Feb 19, 2015 Meetup - Web & Application Professionals Meetup"
 published: true
 ---
 
