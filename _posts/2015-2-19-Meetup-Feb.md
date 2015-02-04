@@ -4,40 +4,30 @@ title: "Feb 19, 2015 Meetup (TBD) - Web & Application Professionals Meetup"
 published: true
 ---
 
-> Note: This is a work in progress.  If you're interested to speak, sponsor, or otherwise help, please [contact Mike](/about).
-
-The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
+The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
 
 ### TALKS THIS MONTH
 
 * Aaron Pederson - Let's talk about SASS
 * Mariano Crivello - Digital Effin Strategy
 
+Our kickoff meeting was January at [WE Labs](http://welabs.us).  We had presentations and sharing from people that discussed their work utilizing **Drupal, Jekyll, Node.js, Yeoman, Varnish, PHP, CME, and Bootstrap**, on projects for **SpaceX.com, Riot Games League of Legends, X Prize, and others**. It was a great way to start 2015, but, we're just getting started in Long Beach!  **What I know from experience:** Some of my best projects and connections have come through my involvement in community events.  Don't miss out!
 
->  MAIN PRESENTATION
+This Month we change venue to [Gunn-Jerkins](http://gunnjerkins.com) (near LGB airport).  We'll be back to WE Labs soon enough, but this month is an opportunity to visit one of best creative agency's in Long Beach while we wow you with at least two more great talks, and everything the community brings to share.
+
+>  MAIN PRESENTATION  
 >  Let's talk about SASS ||  Presentation by [Aaron Pedersen](http://twitter.com/aaronpedersen)
 >
 > The "coding" concepts behind [SASS](http://sass-lang.com/install) leave many front-end developer resistant to the language and process. In this talk, Aaron will cover the basic concepts and show you how easy it is to get up and running with SASS and how to integrate it into your development workflow. As an example, we'll be checking out the [lbtech.github.io](https://github.com/lbtech/lbtech.github.io) repository, making some modifications and pushing those changes to github. The goal of this talk is to show you how the language can help speed up development and bring more organization and beauty (yes code can be pretty) to your css code base.
 >
-> [About Aaron Pedersen](http://twitter.com/aaronpedersen)
->
+> [About Aaron Pedersen](http://twitter.com/aaronpedersen)  
 > As co-founder and principle at [DevelopmentArc](http://www.developmentarc.com/), a boutique development firm and parent company of [Pedanco](https://pedanco.com/), Aaron Pedersen’s passion lies in helping businesses streamline process making teams work more effectively through innovative technology solutions. A published author, expert speaker, and sought-after business consultant and trainer, Aaron works with a wide range of companies, from Fortune 500 corporations and multi-chain hospitality companies to emerging brands and seed-round startups including Toyota Motor Sports, DHAP Digital, Adobe, KitchenNetwork, CoreLogic, PWC, Yahoo, and FitStar.
 
 
->  THUNDER TALK
+>  THUNDER TALK  
 >  Digital Effin Strategy ||  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)
 >
->
-> [About Mariano Crivello](https://twitter.com/MarianoCrivello)
-> about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
->
-> We have been called architects, developers, designers, guru's, nerds, 
-> The IT gal or guy, code monkey, marketing dude, seo wiz and more... 
-> 
-> but who we are... 
-> at our core...
-> 
-> is a digital strategist. 
+> We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist. 
 > 
 > We are people who strategize the use of technology to effect change.
 > And we are damn good at it. 
@@ -45,9 +35,11 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 > This is your personally catered pep rally. 
 > 
 > Please attend.
+>
+> [About Mariano Crivello](https://twitter.com/MarianoCrivello)
+> about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
 
 ---
-
 
 ![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
 
@@ -56,8 +48,9 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 
 * Setup and Introductions (10min)
 * Community News and Job Announcements (10min)
-* Main Presentation (45min)
-* Short Presentaiton (aka Thunder Talk) and/or open-mic & Lightning Talks and/or Q&A (20min)
+* Main Presentation (30min)
+* Short Presentation (aka Thunder Talk) (20min)
+* Open-mic & Lightning Talks and/or Q&A (20min)
 * Networking and post-meetup venue dubya (20min)
 
 
@@ -65,12 +58,11 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 ### VENUE & MEETUP INFO  
 
 **Note:** We alternate meetup locations monthly.  
-DATE:
-TIME:
-LOCATION:  
-MAP LINK:
-PARKING:
-
+DATE:  Feb 19, 2015
+TIME:  7p sharp ... 6:30 early arrivals and setup
+LOCATION: [Gunn Jerkens Marketing Communications](http://gunnjerkens.com/contact), 3950 Cover Street, Long Beach, CA 90808
+MAP LINK: [Map](https://www.google.com/maps/place/Gunn+Jerkens+Marketing+Communications/@33.827577,-118.147347,17z/data=!3m1!4b1!4m2!3m1!1s0x80dd3247d56715a3:0x5c717668a98f1038)
+PARKING: Free.
 
 
 
@@ -94,4 +86,5 @@ DEVELOPMENT - [Bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) / [CSS]
 [Work Evolution Labratories, (WE Labs)](http://welabs.us) offers an 8,000 sqft coworking cumminty in Downtown Long Beach and graciously offered us space for the meetup.  If you're not a member and would like to check them out, they also host [$5 co-working Friday](http://www.welabs.us/events/eventdetail/962/-/5-friday) from 9a-close, checkout the details!  
 
 
-Organizer [Mike Stewart]() runs a botique web development firm, [Media Done Right](http://www.MediaDoneRight.com) based in Long Beach. He is also a resident.  Media Done Right will provide light snacks for the meetup.
+Organizer [Mike Stewart]() runs a botique web development firm, [Media Done Right](http://www.MediaDoneRight.com) based in Long Beach. He is also a resident.  
+Gunn-Jerkins will provide light snacks & refreshments for the meetup.
