@@ -53,7 +53,7 @@ This Month we change venue to [Gunn-Jerkins](http://gunnjerkins.com) (near LGB a
 * Open-mic & Lightning Talks and/or Q&A (20min)
 * Networking and post-meetup venue dubya (20min)
 
-
+![GunnJerkins Offices]({{ site.url }}/images/GunnJerkins-Offices.jpg)
 
 ### VENUE & MEETUP INFO  
 
