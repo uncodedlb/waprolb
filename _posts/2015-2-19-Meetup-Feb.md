@@ -17,7 +17,7 @@ This Month we change venue to [Gunn-Jerkins](http://gunnjerkins.com) (near LGB a
 ![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
 
 **MAIN PRESENTATION**  
-Let's talk about SASS _||  Presentation by [Aaron Pedersen](http://twitter.com/aaronpedersen)_  
+Let's talk about SASS _|  Presentation by [Aaron Pedersen](http://twitter.com/aaronpedersen)_  
 
 The "coding" concepts behind [SASS](http://sass-lang.com/install) leave many front-end developer resistant to the language and process. In this talk, Aaron will cover the basic concepts and show you how easy it is to get up and running with SASS and how to integrate it into your development workflow. As an example, we'll be checking out the [lbtech.github.io](https://github.com/lbtech/lbtech.github.io) repository, making some modifications and pushing those changes to github. The goal of this talk is to show you how the language can help speed up development and bring more organization and beauty (yes code can be pretty) to your css code base.
 >
@@ -26,7 +26,7 @@ The "coding" concepts behind [SASS](http://sass-lang.com/install) leave many fro
 
 
 **THUNDER TALK**  
-Digital Effin Strategy _||  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)_  
+Digital Effin Strategy _|  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)_  
 
 We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist. 
 
@@ -40,7 +40,7 @@ Please attend.
 > about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
 
 
-![GunnJerkins Offices]({{ site.url }}/images/GunnJerkins-Offices.jpg)
+![GunnJerkins Offices](http://wapro.lbtech.org/images/GunnJerkins-Offices.jpg)
 
 
 ### AGENDA  
