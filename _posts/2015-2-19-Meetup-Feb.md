@@ -14,6 +14,8 @@ Our kickoff meeting was January at [WE Labs](http://welabs.us).  We had presenta
 
 This Month we change venue to [Gunn-Jerkins](http://gunnjerkins.com) (near LGB airport).  We'll be back to WE Labs soon enough, but this month is an opportunity to visit one of best creative agency's in Long Beach while we wow you with at least two more great talks, and everything the community brings to share.
 
+![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
+
 **MAIN PRESENTATION**  
 Let's talk about SASS _||  Presentation by [Aaron Pedersen](http://twitter.com/aaronpedersen)_  
 
@@ -37,29 +39,28 @@ Please attend.
 > [About Mariano Crivello](https://twitter.com/MarianoCrivello)  
 > about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
 
----
-
-![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
-
-
-### AGENDA  
-* Setup and Introductions (10min)
-* Community News and Job Announcements (10min)
-* Main Presentation (30min)
-* Short Presentation (aka Thunder Talk) (20min)
-* Open-mic & Lightning Talks and/or Q&A (20min)
-* Networking and post-meetup venue dubya (20min)
 
 ![GunnJerkins Offices]({{ site.url }}/images/GunnJerkins-Offices.jpg)
 
 
+### AGENDA  
+- Setup and Introductions (10min)
+- Community News and Job Announcements (10min)
+- Main Presentation (30min)
+- Short Presentation (aka Thunder Talk) (20min)
+- Open-mic & Lightning Talks and/or Q&A (20min)
+- Networking and post-meetup venue dubya (20min)
+
+
+
+
 ### VENUE & MEETUP INFO  
 **Note:** We alternate meetup locations monthly.  
-DATE:  Feb 19, 2015  
-TIME:  7p sharp ... 6:30 early arrivals and setup  
-LOCATION: [Gunn Jerkens Marketing Communications](http://gunnjerkens.com/contact), 3950 Cover Street, Long Beach, CA 90808  
-MAP LINK: [Map](https://www.google.com/maps/place/Gunn+Jerkens+Marketing+Communications/@33.827577,-118.147347,17z/data=!3m1!4b1!4m2!3m1!1s0x80dd3247d56715a3:0x5c717668a98f1038)  
-PARKING: Free.
+- DATE:  Feb 19, 2015  
+- TIME:  7p sharp ... 6:30 early arrivals and setup  
+- LOCATION: [Gunn Jerkens Marketing Communications](http://gunnjerkens.com/contact), 3950 Cover Street, Long Beach, CA 90808  
+- MAP LINK: [Map](https://www.google.com/maps/place/Gunn+Jerkens+Marketing+Communications/@33.827577,-118.147347,17z/data=!3m1!4b1!4m2!3m1!1s0x80dd3247d56715a3:0x5c717668a98f1038)  
+- PARKING: Free.
 
 
 
