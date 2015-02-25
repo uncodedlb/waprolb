@@ -1,5 +1,6 @@
 ---
 published: true
+title: "March 19, 2015 Meetup - Web & Application Professionals Meetup"
 layout: post
 ---
 
