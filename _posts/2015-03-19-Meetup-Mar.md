@@ -7,16 +7,26 @@ layout: post
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
 
 ### TALKS THIS MONTH   
+* Mariano Crivello - Digital Effin Strategy  
 * TBD - interested in presenting?  [contact me](/about)
-* TBD  
 
 
 ![awesome]()  
 
 **MAIN PRESENTATION**  
- _|  Presentation by []()_  
+Digital Effin Strategy _|  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)_  
 
->
+We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist. 
+
+We are people who strategize the use of technology to effect change. And we are damn good at it.  
+
+This is your personally catered pep rally.  
+
+Please attend.  
+
+> [About Mariano Crivello](https://twitter.com/MarianoCrivello)  
+> about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
+
 
 
 **THUNDER TALK**  
