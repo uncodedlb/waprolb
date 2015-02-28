@@ -15,7 +15,7 @@ Mike Stewart | [Media Done Right](http://www.MediaDoneRight.com/contact) | twitt
 
 ## Connect With Us
 
-- IRC:  [#LBTech](http://webchat.freenode.net/?nick=LBTech-guest&channels=%23css%2C%23sass%2C%23less%2C%23node.js%2C%23io.js%2C%23drupal%2C%23nginx%2C%23LBTech&prompt=1&uio=OT10cnVlJjEwPXRydWU3a) -- realtime help
+- IRC:  [#LBTech](http://webchat.freenode.net/?nick=LBTech-guest&channels=%23css%2C%23sass%2C%23less%2C%23atom%2C%23node.js%2C%23io.js%2C%23drupal%2C%23nginx%2C%23LBTech&prompt=1&uio=OT10cnVlJjEwPXRydWU3a) -- realtime help
 - Twitter:  [@LongBeachTech](https://twitter.com/longbeachtech) -- hastag #WAPro / #LBTech
 - GitHub:  https://github.com/LBTech -- Shared public repo's for collaboration
 
