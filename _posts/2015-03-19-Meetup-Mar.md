@@ -8,8 +8,11 @@ layout: post
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
 
-### TALKS THIS MONTH   
+### TALKS THIS MONTH
 * Mariano Crivello - Digital Effin Strategy  
+* Jeff Hall - iOS Development
+* Theresa Cornwell - What's so important about MEAN PIES? And other useful acronyms ...
+* Mike Stewart - The latest on mobile and web convergence, in a nutshell
 * TBD - interested in presenting?  [contact me](/about)
 
 
@@ -18,7 +21,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 **MAIN PRESENTATION**  
 Digital Effin Strategy _|  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)_  
 
-We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist. 
+We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist.
 
 We are people who strategize the use of technology to effect change. And we are damn good at it.  
 
@@ -50,8 +53,8 @@ Please attend.
 - DATE:  March 19, 2015
 - TIME:  7p
 - LOCATION:  WE Labs
-- MAP LINK: 
-- PARKING: 
+- MAP LINK:
+- PARKING:
 
 
 
