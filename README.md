@@ -1,7 +1,6 @@
-# [lbtech.github.io website](https://lbtech.github.io)
+# [WAPRO website repo](https://lbtech.github.io)
 
-
-The website is based on, [Jekyll-now](https://github.com/jekyll/jekyll) which is also based on ([Jekyll](https://github.com/jekyll/jekyll)).  This repo is for our website, http://wapro.lbtech.org, and for communication within the group.
+The Web and Application Professionals (WAPRO) website is based on, [Jekyll-now](https://github.com/jekyll/jekyll) which is also based on ([Jekyll](https://github.com/jekyll/jekyll)).  This repo is for our website, http://wapro.lbtech.org, and for communication within the group.  New posts are in the `_posts` folder, in markdown format.
 
 Want to contribute ideas, design, fixes, enhancements, or just a place to work on some shared code?  Join us.  How? Post an issue in the queue and request access.  Any member can then give you full access to jump in and help out.
 
