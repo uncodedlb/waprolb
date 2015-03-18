@@ -4,7 +4,7 @@ title: "March 19, 2015 Meetup - Web & Application Professionals Meetup"
 layout: post
 ---
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
+The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org
 
 ### TALKS THIS MONTH
 * Mariano Crivello - Digital Effin Strategy  

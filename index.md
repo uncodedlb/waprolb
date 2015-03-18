@@ -7,7 +7,7 @@ published: true
 
 The Long Beach __Web & App dev Professionals (WAPRO)__ group [meets monthly](http://meetup.com/lbtech) to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
 
-This site is hosted from our [github repository](https://github.com/lbtech/lbtech.github.io).  We use it because we like _all things internet_ ... plus its an easy way for us to collaborate and learn together.  Want to join us?  Find out the next time we plan to [meetup or gather](http://meetup.com/lbtech).  Or, [Fork one of our repos](https://github.com/lbtech), and submit a pull request.  You could also just share your github user to someone listed on our [github organization](https://github.com/lbtech).
+This site is hosted from our [github repository](https://github.com/lbtech/lbtech.github.io).  We use it because we like _all things internet_ ... plus its an easy way for us to collaborate and learn together.  Want to join us?  Find [our next meeting](/news/) or visit the [LBTech meetup.com page](http://meetup.com/lbtech).  Or, [Fork one of our repos](https://github.com/lbtech), and submit a pull request.  You could also just share your github user to someone listed on our [github organization](https://github.com/lbtech).
 
 ## Contact Info
 
