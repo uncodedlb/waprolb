@@ -2,7 +2,7 @@
 layout: page
 title:
 permalink: /hi/
-published: false
+published: true
 ---
 
 Use the [Sign-in Form](https://docs.google.com/forms/d/1lQ2UTzq6ytiFp1RuRz_NXDYLvBwnRnT-lI1UqiKjOC0/viewform) to confirm your attendance at the meetup.  If you have problems with the iframe, [use the link](https://docs.google.com/forms/d/1lQ2UTzq6ytiFp1RuRz_NXDYLvBwnRnT-lI1UqiKjOC0/viewform).
