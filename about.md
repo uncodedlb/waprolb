@@ -19,6 +19,11 @@ Mike Stewart | [Media Done Right](http://www.MediaDoneRight.com/contact) | twitt
 - Twitter:  [@LongBeachTech](https://twitter.com/longbeachtech) -- hastag #WAPro / #LBTech
 - GitHub:  https://github.com/LBTech -- Shared public repo's for collaboration
 
+## Get Involved!
+
+* [Contributing](https://github.com/lbtech/code-of-conduct/blob/master/CONTRIBUTING.md) - [File an issue](https://github.com/lbtech/lbtech.github.io/issues/new) or otherwise contact one of us and we'll add your github user account.  From there, jump in!
+* [Code of Conduct](https://github.com/lbtech/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) - Based on [Contributor Covenant](http://contributor-covenant.org/).
+
 ##  Call for Presentations
 
 We want you to come share your awesome project with us.  If you are local to Long Beach, or will be in the area, and would like to present on a topic, please contact me.  We are interested in learning about everything cool that makes us think or makes us better at Web Development, (Web & Mobile) Application development, or Mobile development -- or ideally where these technologies converge.
