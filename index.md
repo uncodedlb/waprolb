@@ -17,4 +17,5 @@ For the latest on our meetups, please visit our page on [meetup.com/lbtech](http
 Help people find us, [download a flyer](/images/wapro-promotion-flyer.pdf), email or print it, and then post it a public place, such as a coffee shop, campus, or workplace.
 
 ### Promo
+The types of technology and projects we discuss in our meetup is aimed at and presented by professionals working in the field of website and/or mobile application development.
 [![flyer](/images/wapro-promotion-flyer.svg)](/images/wapro-promotion-flyer.pdf)
