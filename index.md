@@ -17,5 +17,5 @@ This site is new as of spring 2015, and is temporary. We're in the process of re
 Help people find us, [download a flyer](/images/wapro-promotion-flyer.pdf), email or print it, and then post it a public place, such as a coffee shop, campus, or workplace.
 
 ### Promo
-The types of technology and projects we discuss in our meetup is aimed at and presented by professionals working in the field of website and/or mobile application development.  (note the image is in an inkscpe SVG format, and may not work in all browssers.  Please click the image to see the PDF version).
+The types of technology and projects we discuss in our meet-up is aimed at and presented by professionals working in the field of website and/or mobile application development.  (Note the image below is in an [Inkscape SVG format](http://inkscape.org), and may not work in all browsers.  Please click the image to see the PDF version).
 [![flyer](/images/wapro-promotion-flyer.svg)](/images/wapro-promotion-flyer.pdf)
