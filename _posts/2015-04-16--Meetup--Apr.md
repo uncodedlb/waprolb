@@ -4,7 +4,7 @@ title: "April 16, 2015 Meetup - Web & Application Professionals Meetup #WAPRO"
 layout: post
 ---
 
-> Note: This is skeleton WIP and not yet posted... If you're speaking, please feel free to copy this skeleton for a new month and fill out with your presentation topic & personal bio.
+> Note: This is skeleton WIP and not yet posted... If you're speaking, please feel free to [edit this meetup skeleton](https://github.com/lbtech/lbtech.github.io/edit/master/_posts/2015-04-16--Meetup--Apr.md) with your presentation topic & personal bio.
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
 
@@ -13,7 +13,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 * Presenter Name - TITLE / TEASER of presentation
 * Presenter Name - TITLE / TEASER of presentation
 * Presenter Name - TITLE / TEASER of presentation
-* TBD - interested in presenting?  [contact me](/about)
+* TBD - interested in presenting? I think we have all our speakers lined up for April, but May is open [contact me](/about)
 
 Ful details of presentations below.
 
