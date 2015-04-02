@@ -7,27 +7,14 @@ published: true
 
 The Long Beach __Web & App dev Professionals (WAPRO)__ group [meets monthly](http://meetup.com/lbtech) to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
 
-This site is hosted from our [github repository](https://github.com/lbtech/lbtech.github.io).  We use it because we like _all things internet_ ... plus its an easy way for us to collaborate and learn together.  Want to join us?  Find [our next meeting](/news/) or visit the [LBTech meetup.com page](http://meetup.com/lbtech).  Or, [Fork one of our repos](https://github.com/lbtech), and submit a pull request.  You could also just share your github user to someone listed on our [github organization](https://github.com/lbtech).
+For the latest on our meetups, please visit our page on [meetup.com/lbtech](http://www.meetup.com/lbtech). Some of our [past meetups](http://www.meetup.com/lbtech/#past) include photos.  We do not have our own Facebook, google+ or twitter accounts ... yet?  Please let us know if you'd like to be involved and help.
 
-## Contact Info
+**Disclaimer:** Our site is new as of spring 2015.  It is also temporary... we're in the process of redesigning the website and rebuilding it together.  Want to help?  Read below on how to contribute.
 
-Mike Stewart | [Media Done Right](http://www.MediaDoneRight.com/contact) | twitter: [@MediaDoneRight](https://twitter.com/MediaDoneRight) | 562-999-2724 voice / text
-
-## Connect With Us
-
-- IRC:  [#LBTech](http://webchat.freenode.net/?nick=LBTech-guest&channels=%23css%2C%23sass%2C%23less%2C%23atom%2C%23node.js%2C%23io.js%2C%23drupal%2C%23nginx%2C%23LBTech&prompt=1&uio=OT10cnVlJjEwPXRydWU3a) -- realtime help
-- Twitter:  [@LongBeachTech](https://twitter.com/longbeachtech) -- hastag #WAPro / #LBTech
-- GitHub:  https://github.com/LBTech -- Shared public repo's for collaboration
-
-##  Call for Presentations
-
-We want you to come share your awesome project with us.  If you are local to Long Beach, or will be in the area, and would like to present on a topic, please contact me.  We are interested in learning about everything cool that makes us think or makes us better at Web Development, (Web & Mobile) Application development, or Mobile development -- or ideally where these technologies converge.
-
-
-## Call for Sponsors
-
-We _totally_ get hungry and thirsty at these things.  Sometimes we even need a venue for a meetup.  If you're looking to **earn some Karma by picking-up a tab or providing space** for our meetup, _then you're totally our type of friend!_  As a group we'll  _Thank You_ and give you recognition. Maybe that means a company logo or message on a slide, or possibly we'll let you address the group?  But thats about it.  We're here to geek out not listen to some lame sales-pitch.  Sorry, we just felt it should be clear that we're looking for a fairly easy, No-Strings-Attached NSA type of thang.  _wink wink, nudge nudge._  Ok, the last part was meant to be funny, but the point is: Sponsors are awesome, we want 'em! But it should mostly be about your Karma and us getting free grub, not you buying an audience or pillaging our talent.  On the other hand, there's a possibilty it'll lead to us getting to know you more or (dare say it) **"liking you."**  But no promises, okay?
 
 ## Help Promote
 
 Help people find us, [download a flyer](/images/wapro-promotion-flyer.pdf), email or print it, and then post it a public place, such as a coffee shop, campus, or workplace.
+
+### Promo
+[![flyer](/images/wapro-promotion-flyer.svg)](/images/wapro-promotion-flyer.pdf)
