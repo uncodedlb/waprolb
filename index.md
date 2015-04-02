@@ -9,7 +9,7 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group [meets monthly](htt
 
 For the latest on our meetups, please visit our page on [meetup.com/lbtech](http://www.meetup.com/lbtech). Some of our [past meetups](http://www.meetup.com/lbtech/#past) include photos.  We do not have our own Facebook, google+ or twitter accounts ... yet?  Please let us know if you'd like to be involved and help.
 
-**Disclaimer:** Our site is new as of spring 2015.  It is also temporary... we're in the process of redesigning the website and rebuilding it together.  Want to help?  Read below on how to contribute.
+This site is new as of spring 2015, and is temporary. We're in the process of redesigning the website and rebuilding it together.  Want to help?  Read below on how to contribute.
 
 
 ## Help Promote
