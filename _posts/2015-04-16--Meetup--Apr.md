@@ -1,18 +1,18 @@
 ---
 published: true
-title: "April 23, 2015 Meetup - Web & Application Professionals Meetup"
+title: "April 16, 2015 Meetup - Web & Application Professionals Meetup #WAPRO"
 layout: post
 ---
 
-> Note: This is skeleton WIP and not yet posted... If you're speaking, please feel free to edit and insert your info
+> Note: This is skeleton WIP and not yet posted... If you're speaking, please feel free to copy this skeleton for a new month and fill out with your presentation topic & personal bio.
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
 
 
 ### TALKS THIS MONTH  
-* TITLE / TEASER  [PRESENTER](TWITTERURL)
-* TITLE / TEASER  [PRESENTER](TWITTERURL)
-* TITLE / TEASER  [PRESENTER](TWITTERURL)
+* Presenter Name - TITLE / TEASER of presentation
+* Presenter Name - TITLE / TEASER of presentation
+* Presenter Name - TITLE / TEASER of presentation
 * TBD - interested in presenting?  [contact me](/about)
 
 Ful details of presentations below.
@@ -25,14 +25,17 @@ Ful details of presentations below.
 - Networking and post-meetup venue dubya (20min)
 
 
-![VENUE PHOTO]()
+![GunnJerkins Offices](http://wapro.lbtech.org/images/GunnJerkins-Offices.jpg)
 
 
 ### VENUE & MEETUP INFO  
 **Note:** We alternate meetup locations monthly.  
-- DATE:  Thursday April 16, 2015
-- TIME: 7-9p  
-- LOCATION:  Gunn-Jerkins
+- DATE:  Thursday Apr 16, 2015  
+- TIME:  7-9p  
+- LOCATION: [Gunn Jerkens Marketing Communications](http://gunnjerkens.com/contact), 3950 Cover Street, Long Beach, CA 90808  
+- MAP LINK: [Map](https://www.google.com/maps/place/Gunn+Jerkens+Marketing+Communications/@33.827577,-118.147347,17z/data=!3m1!4b1!4m2!3m1!1s0x80dd3247d56715a3:0x5c717668a98f1038)  
+- PARKING: Free.
+
 
 
 ### ABOUT  
@@ -40,34 +43,34 @@ Our meetups are FREE and everyone is welcome.  Our goal, in essence, is to share
 
 We have a preference towards open-source software, especially server-side.  This year we will have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Below are some potential topics for future meetups, or at least conversation starters when we get together:
 
-**PRESENTATION 1**  
+**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
 TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
 
-DESCRIPTION
+Presentation description goes here.
 
 > [SPEAKER NAME](ONLINE LINK)  
-> BIO 
+> HEADSHOT & BIO  
 
-**PRESENTATION 2**  
+**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
 TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
 
-DESCRIPTION
+Presentation description goes here.
 
 > [SPEAKER NAME](ONLINE LINK)  
-> BIO 
+> HEADSHOT & BIO  
 
-**PRESENTATION 3**  
+**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
 TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
 
-DESCRIPTION
+Presentation description goes here.
 
 > [SPEAKER NAME](ONLINE LINK)  
-> BIO 
+> HEADSHOT & BIO  
 
-**PRESENTATION 4**  
+**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
 TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
 
-DESCRIPTION
+Presentation description goes here.
 
 > [SPEAKER NAME](ONLINE LINK)  
 > BIO 
@@ -75,3 +78,4 @@ DESCRIPTION
 
 ### SPONSORS  
 
+[Gunn-Jerkins](http://gunnjerkins.com) is a full service Creative Marketing & Communications firm based in Long Beach. [Gunn-Jerkins](http://gunnjerkins.com) is providing the awesome venue for the meetup near Long Beach Airport.
