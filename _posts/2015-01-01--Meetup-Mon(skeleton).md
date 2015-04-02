@@ -4,7 +4,7 @@ title: "Month 01, 2015 Meetup - Web & Application Professionals Meetup #WAPRO"
 layout: post
 ---
 
-> Note: This is skeleton WIP and not yet posted... If you're speaking, please feel free to copy this skeleton for a new month and fill out with your presentation topic & personal bio.
+> Note: This is skeleton WIP and not yet posted... If you're speaking, please feel free to [copy this skeleton to a new month](https://github.com/lbtech/lbtech.github.io/tree/master/_posts) and fill out with your presentation topic & personal bio.
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
 
