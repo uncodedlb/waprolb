@@ -29,10 +29,14 @@ Ful details of presentations below.
 
 
 ### VENUE & MEETUP INFO  
-**Note:** We alternate meetup locations monthly.  
+
 - DATE:  Thursday Apr 16, 2015  
 - TIME:  7-9p  
-- LOCATION: [Gunn Jerkens Marketing Communications](http://gunnjerkens.com/contact), 3950 Cover Street, Long Beach, CA 90808  
+- LOCATION:  
+[Gunn Jerkens Marketing Communications](http://gunnjerkens.com/contact),  
+3950 Cover Street  
+Long Beach, CA 90808.  
+**Note:** We alternate meetup locations monthly.  
 - MAP LINK: [Map](https://www.google.com/maps/place/Gunn+Jerkens+Marketing+Communications/@33.827577,-118.147347,17z/data=!3m1!4b1!4m2!3m1!1s0x80dd3247d56715a3:0x5c717668a98f1038)  
 - PARKING: Free.
 
