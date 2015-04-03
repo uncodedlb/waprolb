@@ -10,9 +10,9 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 
 ### TALKS THIS MONTH  
-* Presenter Name - TITLE / TEASER of presentation
-* Presenter Name - TITLE / TEASER of presentation
-* Presenter Name - TITLE / TEASER of presentation
+* Presenter Name - TITLE or TEASER of presentation
+* Presenter Name - TITLE or TEASER of presentation
+* Presenter Name - TITLE or TEASER of presentation
 * TBD - interested in presenting?  [contact me](/about)
 
 Ful details of presentations below.
@@ -41,36 +41,42 @@ Our meetups are FREE and everyone is welcome.  Our goal, in essence, is to share
 We have a preference towards open-source software, especially server-side.  This year we will have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Below are some potential topics for future meetups, or at least conversation starters when we get together:
 
 **PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
+TITLE  
 
-Presentation description goes here.
+Presentation description goes here.  
 
-> [SPEAKER NAME](ONLINE LINK)  
-> HEADSHOT & BIO  
-
-**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
-
-Presentation description goes here.
-
-> [SPEAKER NAME](ONLINE LINK)  
-> HEADSHOT & BIO  
+> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> BIO  
 
 **PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
+TITLE  
 
-Presentation description goes here.
+Presentation description goes here.  
 
-> [SPEAKER NAME](ONLINE LINK)  
-> HEADSHOT & BIO  
+> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> BIO  
 
 **PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
+TITLE  
 
-Presentation description goes here.
+Presentation description goes here.  
 
-> [SPEAKER NAME](ONLINE LINK)  
-> BIO 
+> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> BIO  
+
+**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
+TITLE  
+
+Presentation description goes here.  
+
+> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> BIO  
+
+
 
 
 ### SPONSORS  
