@@ -43,37 +43,49 @@ Our meetups are FREE and everyone is welcome.  Our goal, in essence, is to share
 
 We have a preference towards open-source software, especially server-side.  This year we will have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Below are some potential topics for future meetups, or at least conversation starters when we get together:
 
-**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
+**PRESENTATION**  
+ON BEING A PYTHONISTA AND DJANGONAUT  
 
-Presentation description goes here.
+Description: Python has never quite been the hot language du jour, but it has a large and loyal following both on and of the web. It’s equally at home as a systems scripting tool, advanced maths environment, and Web application language. The language syntax and design philosophy favors simplicity and idiomatic style. As briefly as possible I’ll take you on a tour of the Python ecosystem, particularly as it relates to Web application development.
 
-> [SPEAKER NAME](ONLINE LINK)  
-> HEADSHOT & BIO  
+> ### Roger Howard [@rogerhoward](http://twitter.com/rogerhoward)
+> <div class="headshot"><img src="/images/people/roger-howard.jpg" alt="headshot"></div>
+> Has spent over 15 years in large organizations such as Playboy, Fox, The Getty, and Blizzard Entertainment providing technology leadership, hands on engineering, and process innovation.  
+>  
+> My specialties generally center around the design and delivery of large collections of data and digital media in museums, photo agencies, video game studios, and other high-volume media environments.  
+>  
+> These days I work independently as a programmer, consultant, and occasional technical writer.  
 
-**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
 
-Presentation description goes here.
-
-> [SPEAKER NAME](ONLINE LINK)  
-> HEADSHOT & BIO  
-
-**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
-
-Presentation description goes here.
-
-> [SPEAKER NAME](ONLINE LINK)  
-> HEADSHOT & BIO  
 
 **PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
-TITLE _|  Presentation by [SPEAKER NAME](TWITTER|BIO LINK)_  
+TITLE  
 
-Presentation description goes here.
+Presentation description goes here.  
 
-> [SPEAKER NAME](ONLINE LINK)  
-> BIO 
+> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> BIO  
+
+
+**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
+TITLE  
+
+Presentation description goes here.  
+
+> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> BIO  
+
+**PRESENTATION | DEMO | SHOWCASE | PANEL (choose one)**  
+TITLE  
+
+Presentation description goes here.  
+
+> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> BIO  
+
 
 
 ### SPONSORS  
