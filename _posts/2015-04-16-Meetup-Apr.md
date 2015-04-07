@@ -47,13 +47,13 @@ We have a preference for open-source software, especially server-side.  This yea
 
 
 **PRESENTATION**  
-[ANSIBLE](http://www.ansible.com/):  EASIER, FASTER, AND MORE RELIABLE THAN PUPPET OR CHEF
+[ANSIBLE](http://www.ansible.com/): Bringing sanity to configuration management
 
-DEVOPs master and all-around Drupal ninja, Ashok Modi, will be sharing about how he uses Ansible for easy safe deployments and maintenance of servers.
+DEVOPs enthusiast and all-around generalist, Ashok Modi will be sharing about how he uses Ansible for easy safe deployments and maintenance of servers.
 
 > ### Ashok Modi [@btmash](http://twitter.com/btmash)
 > <img src="/images/people/btmash.jpg" alt="headshot" class="headshot">
-> Currently a Computer Systems Analyst for the [Cherry Hill Company](http://chillco.com/). My primary duties involve working on the web presence of Libraries, EDUs, and other non-profits and intimately working with various technologies to bring their goals to fruition. Outside Cherry Hill, I dedicate some of my time in working on a freelance basis and, whenever possible, contributing back what I learn and/or create back to the open source community. Right now (and for the past 8 years), that community happens to be Drupal whereby you can find out a lot more about projects where I have contributed back at http://drupal.org/user/60422.
+> Currently a Computer Systems Analyst for the [Cherry Hill Company](http://chillco.com/). His primary duties involve working on the web presence of Libraries, EDUs, and other non-profits and intimately working with various technologies to bring their goals to fruition. Outside Cherry Hill, he dedicates some of his time in working on a freelance basis and, whenever possible, contributing back what he learns and/or creates back to the open source community.
 
 
 
