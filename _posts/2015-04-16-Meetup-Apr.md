@@ -90,7 +90,7 @@ Tom will show how to build an app in NODEJS that can be deployed on Heroku and u
 
 > ### TOM FRIEDHOF [@tomfriedhof](http://twitter.com/tomfriedhof)
 > <img src="/images/people/tom-friedhof.jpg" alt="headshot" class="headshot">
-> Tom Friedhof is the founder of [ActiveLamp](http://activelamp.com/), a SoCal based web shop that specializes in Drupal, Symfony, NodeJS, Ansible, Jekyll, and Chef to deploy.  https://www.drupal.org/user/62769.  ActiveLAMP clients include the likes of Riot Games, Xprize, AARP, CesarsWay, UCLA, and more!
+> Tom Friedhof is the founder of [ActiveLAMP](http://activelamp.com/), a SoCal based web shop that specializes in Drupal, Symfony, NodeJS, Ansible, Jekyll, and Chef to deploy.  https://www.drupal.org/user/62769.  ActiveLAMP clients include the likes of Riot Games, Xprize, AARP, CesarsWay, UCLA, and more!
 
 
 
