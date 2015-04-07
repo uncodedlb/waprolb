@@ -8,7 +8,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 
 ### TALKS THIS MONTH  
-* [Ashok Modi](https://twitter.com/btmash) - [ANSIBLE](http://www.ansible.com/):  EASIER, FASTER, AND MORE RELIABLE THAN PUPPET OR CHEF
+* [Ashok Modi](https://twitter.com/btmash) - [ANSIBLE](http://www.ansible.com/):  Bringing sanity to configuration management
 * [Jake Schmitz](https://twitter.com/schmitzmade) - DON'T DRINK THE KOOL AID, DRINK THE [ELIXIR](http://elixir-lang.org/)
 * [Roger Howard](https://twitter.com/rogerhoward) - ON BEING A PYTHONISTA AND DJANGONAUT
 * [Tom Friedhof](https://twitter.com/tomfriedhof) - [NODEJS](https://nodejs.org/) + [JEKYLL](http://jekyllrb.com/) + [HEROKU](https://www.heroku.com)
