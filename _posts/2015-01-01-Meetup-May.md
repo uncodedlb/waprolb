@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Month 01, 2015 Meetup - Web & Application Professionals Meetup #WAPRO"
+title: "May 21, 2015 Meetup - Web & Application Professionals Meetup #WAPRO"
 layout: post
 ---
 
