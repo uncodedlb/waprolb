@@ -25,7 +25,7 @@
   margin-right:10px;
   margin-bottm:10px;
   }
-.headshot:after {
+.headshot:after, .info:after {
   content: "";
   display: table;
   clear: both;
@@ -38,3 +38,10 @@
   background: #F3F3F3;
   overflow:hidden;
 }
+.twitter-embedded {
+  width:50%;
+  max-width:100%;
+  float:right;
+  margin-left:10px;
+  margin-bottom:10px;
+  }

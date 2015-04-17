@@ -30,6 +30,8 @@ footer-links:
   irc: lbtech
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
+twitter:
+  highlight: <!--blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/hashtag/LBTECH?src=hash">#LBTECH</a> is happening!&#10;&#10;APR 16 <a href="http://t.co/tPFCHRtWM3">http://t.co/tPFCHRtWM3</a>&#10;&#10;<a href="https://twitter.com/hashtag/WAPRO?src=hash">#WAPRO</a> <a href="https://twitter.com/activelamp">@activelamp</a> <a href="https://twitter.com/schmitzmade">@schmitzmade</a> <a href="https://twitter.com/rogerhoward">@rogerhoward</a> <a href="https://twitter.com/btmash">@btmash</a> <a href="http://t.co/M2ijIYoMo5">pic.twitter.com/M2ijIYoMo5</a></p>&mdash; Mike Stewart (@MediaDoneRight) <a href="https://twitter.com/MediaDoneRight/status/587790944751104000">April 14, 2015</a></blockquote-->
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: wapro
 
