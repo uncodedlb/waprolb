@@ -1,10 +1,10 @@
 ---
-published: false
-title: "May 21, 2015 Meetup - Web & Application Professionals Meetup #WAPRO"
+published: true
+title: "Web & Application Professionals Meetup #WAPRO - May 21, 2015 Meetup"
 layout: post
 ---
 
-> Note: This is skeleton WIP and not yet posted... If you're speaking, please feel free to [copy this skeleton to a new month](https://github.com/lbtech/lbtech.github.io/tree/master/_posts) and fill out with your presentation topic & personal bio.
+> Note: This is a placeholder and not the actual event post. If you're speaking, or want to fix something, please [Edit here](https://github.com/lbtech/lbtech.github.io/blob/master/_posts/2015-01-01-Meetup-May.md) and fill out with your presentation topic & personal bio. You could also clone, edit, push the changes...
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org
 
