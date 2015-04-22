@@ -10,7 +10,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 
 ### TALKS THIS MONTH  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
+- Allen Eubank - [MeteorJS](http://meteor.com), A Demo and Walkthrough
 - Presenter Name - TITLE OR TEASER OF PRESENTATION  
 - Presenter Name - TITLE OR TEASER OF PRESENTATION  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
@@ -43,14 +43,14 @@ Our goal, in essence, is to share and learn about the technology that ignites ou
 
 We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.lbtech.org](http://wapro.lbtech.org)
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
+**Presentation**  
+[MeteorJS](http://meteor.com), A Demo and Walkthrough
 
-Presentation description goes here.  
+Demo a Meteor application. Learn about the 7 principles of Meteor and why Meteor rocks as a platform for the web.
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+> ### Allen Eubank [@alleneubank](http://twitter.com/alleneubank)  
+> <img src="/images/people/allen-eubank.jpg" alt="Allen Eubank" class="headshot">
+Tinkers with software. Contributes to open source. Solves client problems at [Basis Worldwide](http://basisworldwide.com). Prints peoples favorite memories on [Memorita](http://memorita.com). Passion is helping people.
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
 TITLE  
