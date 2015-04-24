@@ -11,7 +11,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 ### TALKS THIS MONTH  
 - Allen Eubank - [MeteorJS](http://meteor.com), A Demo and Walkthrough
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
+- Daniel Romero - [MeteorJS](http://meteor.com), What Happens After an Awesome Demo?
 - Presenter Name - TITLE OR TEASER OF PRESENTATION  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
 
@@ -52,14 +52,14 @@ Demo a Meteor application. Learn about the 7 principles of Meteor and why Meteor
 > <img src="/images/people/allen-eubank.jpg" alt="Allen Eubank" class="headshot">
 Tinkers with software. Contributes to open source. Solves client problems at [Basis Worldwide](http://basisworldwide.com). Prints peoples favorite memories on [Memorita](http://memorita.com). Passion is helping people.
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
+**Demo**  
+What Happens After an Awesome [MeteorJS](http://meteor.com) Demo?
 
-Presentation description goes here.  
+Meteor is a new technology with a huge package selection. Let's take that awesome MeteorJS demo and deploy it, make it super fast, checkout its performance, and make it SEO friendly.
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+> ### Daniel Romero [@dannys_io](TWITTER)  
+> <img src="/images/people/Danny-Romero.jpg" alt="Daniel Romero" class="headshot">
+> Former Chipotle Cook turned Junior Web Developer with emphasis on the Front End. Trying to find a good gig. Visuals is my thing. Finding ways to learn from others and share what I know.
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
 TITLE  
