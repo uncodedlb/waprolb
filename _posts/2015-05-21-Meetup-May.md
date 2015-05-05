@@ -6,6 +6,9 @@ layout: post
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org
 
+### RSVP
+
+- [j.mp/WAPRO-1505-rsvp](http://j.mp/WAPRO-1505-rsvp)
 
 ### TALKS THIS MONTH  
 - Allen Eubank - [MeteorJS](http://meteor.com), A DEMO AND WALKTHROUGH
@@ -16,6 +19,8 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 ### PRIZES
 
 - We have prizes!  Join us for your chance to win books!  Examples: **"Mastering iOS Frameworks: Beyond the Basics", "Learning AngularJS", "Apache Cordova 4 Programming", "Swift for Programmers", "NoSQL for Mere Mortals", "Ruby Way, The: Solutions and Techniques", "Practical Guide to Ubuntu", "iOS 8 Application Development"
+
+
 
 --------
 
@@ -80,3 +85,12 @@ Python has never quite been the hot language du jour, but it has a large and loy
 ### SPONSORS  
 
 TBA
+
+### RSVP  
+
+- [j.mp/WAPRO-1505-rsvp](http://j.mp/WAPRO-1505-rsvp)
+
+### PLEASE SHARE  
+
+[j.mp/WAPRO-1505](http://j.mp/WAPRO-1505)  #WAPRO #lbtech @longbeachtech
+
