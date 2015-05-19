@@ -11,10 +11,11 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 - [j.mp/WAPRO-1505-rsvp](http://j.mp/WAPRO-1505-rsvp)
 
 ### TALKS THIS MONTH  
-- Allen Eubank - [MeteorJS](http://meteor.com), A DEMO AND WALKTHROUGH
-- Daniel Romero - [MeteorJS](http://meteor.com), WHAT HAPPENS AFTER AN AWESOME DEMO?
-- [Roger Howard](https://twitter.com/rogerhoward) - ON BEING A PYTHONISTA AND DJANGONAUT
-- Lightning Talks ... FIVE MINUTE TALKS BY THE CROWD.  COME PREPARED TO SHARE.  
+- Allen Eubank - [MeteorJS](https://twitter.com/alleneubank), A DEMO AND WALKTHROUGH
+- Daniel Romero - [MeteorJS](hhttps://twitter.com/Dannys_IO), WHAT HAPPENS AFTER AN AWESOME DEMO?
+- [Roger Howard](https://twitter.com/rogerhoward), ON BEING A PYTHONISTA AND DJANGONAUT
+- [Mike Land](https://twitter.com/wearelanding) - RAPID iOS PROTOTYPING WITH SWIFT
+- Lightning Talks ... FIVE MINUTE TALKS BY EVERYONE THAT WANTS TO SHARE SOMETHING AWESOME.  
 
 ### PRIZES
 
@@ -80,6 +81,14 @@ Python has never quite been the hot language du jour, but it has a large and loy
 >
 > These days I work independently as a programmer, consultant, and occasional technical writer.
 
+**Presentation**  
+RAPID iOS PROTOTYPING WITH SWIFT
+
+Let's fire up Xcode and build and iOS prototype application in under 10 minutes...no coding necessary. Forget about using those trendy prototyping frameworks that try to provide a "real" iOS feel, our prototype will be fully NATIVE with no limitations.
+
+> ### Mike Land [@wearelanding](https://twitter.com/wearelanding)
+> <div class="headshot"><img src="/images/people/cat.jpg" alt="headshot"></div>
+> Designer, Developer, Builder, Mike runs [Landing](http://WeAreLanding.com), a software and web development agency based in Newport Beach, CA
 
 
 ### SPONSORS  
@@ -93,4 +102,3 @@ TBA
 ### PLEASE SHARE  
 
 [j.mp/WAPRO-1505](http://j.mp/WAPRO-1505)  #WAPRO #lbtech @longbeachtech
-
