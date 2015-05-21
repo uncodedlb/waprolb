@@ -34,7 +34,7 @@
           <nav>
             <a href="{{ site.baseurl }}/news">Meetups</a>
             <a href="{{ site.baseurl }}/about">About</a>
-            <!--a href="{{ site.baseurl }}/hi">I'm Here</a-->
+            {% if site.signin-link %}<a href="{{ site.baseurl }}/hi">I'm Here</a>{% endif %}
           </nav>
         </header>
       </div>
