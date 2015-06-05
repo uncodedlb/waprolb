@@ -10,8 +10,9 @@ This site is hosted from our [github repository](https://github.com/lbtech/lbtec
 
 ## Contact Info
 
-Mike Stewart | [Media Done Right](http://www.MediaDoneRight.com/contact) | twitter: [@MediaDoneRight](https://twitter.com/MediaDoneRight) | 562-999-2724 voice / text
-Mike organizes the monthly WAPRO meetup.  He also participates with James Hall at some of the weekly Saturday Code & Coffee meetup.  Please connect with him if you're interested in presenting, have an announcement, or other feedback.
+Mike Stewart | t: [@MediaDoneRight](https://twitter.com/MediaDoneRight) | <a href="tel:+15629992724">562-999-2724</a> voice / text  
+
+Mike organizes the monthly WAPRO meetup.  Please connect with him if you're interested in presenting, have an announcement, or other feedback.
 
 
 ### Connect With Us
