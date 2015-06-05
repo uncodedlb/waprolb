@@ -11,9 +11,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 ### TALKS THIS MONTH
 - James Polanco - React, WHY I MOVED TO REACT
-- Presenter Name - TITLE OR TEASER OF PRESENTATION
-- Presenter Name - TITLE OR TEASER OF PRESENTATION
-- TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)
+- Chris Charlton - GITflow, I THINK YOU'RE DOING IT WRONG
 
 RSVP:  [j.mp/WAPRO-1506-rsvp](http://j.mp/WAPRO-1506-rsvp)
 
@@ -52,42 +50,24 @@ Our goal, in essence, is to share and learn about the technology that ignites ou
 
 We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.lbtech.org](http://wapro.lbtech.org)
 
-**Presentation**
+**PRESENTATION**
 [React](https://facebook.github.io/react/), WHY I MOVED TO REACT
 
 A brief look at React and why it won me over as my next UI framework. We'll also examine how React can benefit larger teams and encourages large scale development.
 
 > ### James Polanco [@jamespolanco](https://twitter.com/jamespolanco)
-> <img src="https://pbs.twimg.com/profile_images/433008910765551617/QNJB6L3K_400x400.jpeg" alt="headshot" class="headshot">
+> <img src="/images/people/jamespolanco.jpeg" alt="headshot" class="headshot">  
 > In his role as co-founder and CTO of DevelopmentArc, James strives to take powerful business ideas and integrate them into elegant technological experiences to help clients achieve their overall strategic goals. Since 1996, James has helped plan, guide and create interactive and web-based solutions for companies including Adobe, Toyota Motor Sports, BlueKai, VMWare, Macromedia, and DHAP Digital. James is also an international speaker, presenting on technology implementations & processes and a published author on the topic of full team product development and company workflows.
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**
-TITLE
 
-Presentation description goes here.
+**PRESENTATION**  
+[GITFlow](), I THINK YOU'RE DOING IT WRONG  
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO
+GIT.  #workflow.  #secretsauce.  
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**
-TITLE
-
-Presentation description goes here.
-
-> ### SPEAKER NAME [@SPEAKER](TWITTER)
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO
-
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**
-TITLE
-
-Presentation description goes here.
-
-> ### SPEAKER NAME [@SPEAKER](TWITTER)
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO
-
+> ### Chris Charlton [@charltonweb](https://twitter.com/charltonweb)
+> <img src="/images/people/charlton_avatar.png" alt="headshot" class="headshot">  
+> Published Tech Author. Programming Community Astronaut. I built http://SpaceX.com . Talents: #TechR&D #Gaming #Code #Events #Writing  
 
 
 
