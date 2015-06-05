@@ -41,7 +41,7 @@ Long Beach, CA 90808
 - MAP LINK: [Map](https://goo.gl/maps/FdT79)
 - Directions from 405 FWY at Lakewood: [Directions](https://goo.gl/maps/mevZS)
 - Instructions: Gunn-Jerkins building is on the South-East corner of Cover + Schaufele. Enter driveway on Shaufele (just South of Cover), then first building on left at the SE corner of the building. If you have any trouble finding the office, please call: 562-499-6707.
-- [Please RSVP](http://www.meetup.com/lbtech/events/223046990/)
+- [Please RSVP](http://www.meetup.com/lbtech/events/223046990/)  
 **Note:** We alternate meetup locations monthly.
 
 
