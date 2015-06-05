@@ -9,26 +9,26 @@ layout: post
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org
 
 
-### TALKS THIS MONTH  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
-- TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
+### TALKS THIS MONTH
+- James Polanco - React, WHY I MOVED TO REACT
+- Presenter Name - TITLE OR TEASER OF PRESENTATION
+- Presenter Name - TITLE OR TEASER OF PRESENTATION
+- TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)
 
 RSVP:  [j.mp/WAPRO-1506-rsvp](http://j.mp/WAPRO-1506-rsvp)
 
-### AGENDA  
-- Setup and Introductions (10min)  
-- Community News and Job Announcements (10min)  
-- Presentations (60min)  
-- Open-mic & Lightning Talks and/or Q&A (20min)  
-- Networking and post-meetup venue dubya (20min)  
+### AGENDA
+- Setup and Introductions (10min)
+- Community News and Job Announcements (10min)
+- Presentations (60min)
+- Open-mic & Lightning Talks and/or Q&A (20min)
+- Networking and post-meetup venue dubya (20min)
 
 
 --------
 
 
-![GunnJerkins Offices](http://wapro.lbtech.org/images/GunnJerkins-Offices.jpg)  
+![GunnJerkins Offices](http://wapro.lbtech.org/images/GunnJerkins-Offices.jpg)
 
 
 ### VENUE & MEETUP INFO
@@ -42,53 +42,53 @@ Long Beach, CA 90808
 - MAP LINK: [Map](https://goo.gl/maps/FdT79)
 - Directions from 405 FWY at Lakewood: [Directions](https://goo.gl/maps/mevZS)
 - Instructions: Gunn-Jerkins building is on the South-East corner of Cover + Schaufele. Enter driveway on Shaufele (just South of Cover), then first building on left at the SE corner of the building. If you have any trouble finding the office, please call: 562-499-6707.
-- [Please RSVP](http://j.mp/WAPRO-1506-rsvp)  
+- [Please RSVP](http://j.mp/WAPRO-1506-rsvp)
 **Note:** We alternate meetup locations monthly.
 
 
-### ABOUT  
-[Long Beach Web & Application Professionals #WAPRO](http://wapro.lbtech.org)  
+### ABOUT
+[Long Beach Web & Application Professionals #WAPRO](http://wapro.lbtech.org)
 Our goal, in essence, is to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us!
 
 We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.lbtech.org](http://wapro.lbtech.org)
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
+**PRESENTATION**
+[React](https://facebook.github.io/react/), WHY I MOVED TO REACT
 
-Presentation description goes here.  
+A brief look at React and why it won me over as my next UI framework. We'll also examine how React can benefit larger teams and encourages large scale development.
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> ### James Polanco [@jamespolanco](https://twitter.com/jamespolanco)
+> <img src="https://pbs.twimg.com/profile_images/433008910765551617/QNJB6L3K_400x400.jpeg" alt="headshot" class="headshot">
+> BIO
+
+**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**
+TITLE
+
+Presentation description goes here.
+
+> ### SPEAKER NAME [@SPEAKER](TWITTER)
 > <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+> BIO
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
+**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**
+TITLE
 
-Presentation description goes here.  
+Presentation description goes here.
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> ### SPEAKER NAME [@SPEAKER](TWITTER)
 > <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+> BIO
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
+**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**
+TITLE
 
-Presentation description goes here.  
+Presentation description goes here.
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
+> ### SPEAKER NAME [@SPEAKER](TWITTER)
 > <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
-
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
-
-Presentation description goes here.  
-
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+> BIO
 
 
 
 
-### SPONSORS  
+### SPONSORS
