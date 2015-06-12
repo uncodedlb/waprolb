@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1089066"
-     inkscape:cx="292.29219"
-     inkscape:cy="407.47011"
+     inkscape:cx="155.22023"
+     inkscape:cy="477.80967"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2088,9 +2088,15 @@
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff342a;stroke-width:3.74379635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5072"
-       cx="78.558617"
-       cy="534.42175"
+       cx="72.496925"
+       cy="558.44476"
        rx="39.083393"
        ry="17.163786" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff342a;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 46.18998,543.51939 57.32866,-15.36117"
+       id="path4567"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
