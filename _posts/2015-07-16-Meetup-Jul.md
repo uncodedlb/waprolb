@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Web & Application Professionals Meetup #WAPRO - Jul 16, 2015 (skeleton)"
+title: "Web & Application Professionals Meetup #WAPRO - July 16, 2015"
 layout: post
 ---
 
@@ -10,7 +10,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 
 ### TALKS THIS MONTH  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
+- Greg Gerber [@gerbz](https://twitter.com/gerbz) - ZAPIER, AUTOMATE EVERYTHING
 - Presenter Name - TITLE OR TEASER OF PRESENTATION  
 - Presenter Name - TITLE OR TEASER OF PRESENTATION  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
@@ -43,14 +43,14 @@ Our goal, in essence, is to share and learn about the technology that ignites ou
 
 We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.lbtech.org](http://wapro.lbtech.org)
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
+**PRESENTATION**  
+ZAPIER, AUTOMATE EVERYTHING
 
 Presentation description goes here.  
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+> ### Greg Gerber [@gerbz](https://twitter.com/gerbz)
+> <img src="/images/people/gerbz.png" alt="headshot" class="headshot">  
+> Solopreneur operating on the fringe
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
 TITLE  
