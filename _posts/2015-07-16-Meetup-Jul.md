@@ -4,15 +4,13 @@ title: "Web & Application Professionals Meetup #WAPRO - July 16, 2015"
 layout: post
 ---
 
-> Note: This is a placeholder and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're speaking, please [Edit](https://github.com/lbtech/lbtech.github.io/edit/master/_posts/2015-07-16-Meetup-Jul.md) and fill out with your presentation topic & personal bio.
-
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org
 
 
 ### TALKS THIS MONTH  
 - Greg Gerber [@gerbz](https://twitter.com/gerbz) - ZAPIER, AUTOMATE EVERYTHING
-- Chris Charlton - I THINK YOU'RE DOING IT WRONG (part2)  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
+- Chris Charlton [@charltonweb](https://twitter.com/charltonweb)- I THINK YOU'RE DOING IT WRONG (part2)  
+- Jake Schmitz [@schmittyjd](https://twitter.com/schmittyjd)  - TDD/BDD, DETAILS FORTHCOMING  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
 
 
