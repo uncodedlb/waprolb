@@ -26,15 +26,20 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 --------
 
-
-![VENUE PHOTO]()  
+![WE Labs](http://i.imgur.com/vpr167t.jpg?delhash=xBpk70Sgvmr8ZCF)
 
 
 ### VENUE & MEETUP INFO  
 **Note:** We alternate meetup locations monthly.  
-- DATE:  TBD  
-- TIME: 7-9p  
-- LOCATION:  TBD  
+- DATE:  May 21, 2015
+TIME: 6:30-9p  (Meeting starts promptly, doors open by 6:30)
+LOCATION:  235 E. Broadway, 8th Floor, Long Beach, CA  
+MAP LINK: [WE Labs](http://www.welabs.us/contact) -- Broadway + Long Beach BLVD intersection.  
+PARKING:
+FREE: Street parking east of Long Beach Blvd after 6p.  [Metered until 6p](http://www.downtownlongbeach.org/parking).  WE Labs is on the corner.  
+CHEAP: [The Cityplace Lot C #6 ... 2hrs FREE then hourly](https://www.google.com/maps/d/viewer?mid=z-je1exzTCd4.koH8EDyrfmPg&msa=0&ie=UTF8&t=m&ll=33.76923,-118.189459&spn=0.01427,0.038581&z=15&source=embed) >> 3rd Street + Promenade  
+ALL-DAY: Cheap $5 ALL-DAY parking across street.  
+
 
 
 ### ABOUT  
