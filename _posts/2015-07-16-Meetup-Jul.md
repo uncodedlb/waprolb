@@ -11,7 +11,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 ### TALKS THIS MONTH  
 - Greg Gerber [@gerbz](https://twitter.com/gerbz) - ZAPIER, AUTOMATE EVERYTHING
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
+- Chris Charlton - I THINK YOU'RE DOING IT WRONG (part2)  
 - Presenter Name - TITLE OR TEASER OF PRESENTATION  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
 
@@ -52,14 +52,15 @@ Presentation description goes here.
 > <img src="/images/people/gerbz.png" alt="headshot" class="headshot">  
 > Solopreneur operating on the fringe
 
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
+**PRESENTATION**  
+[GITFlow](), I THINK YOU'RE DOING IT WRONG  
 
-Presentation description goes here.  
+A pragmatic talk on GIT.  #workflow.  #secretsauce.  
 
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+> ### Chris Charlton [@charltonweb](https://twitter.com/charltonweb)
+> <img src="/images/people/charlton_avatar.png" alt="headshot" class="headshot">  
+> Published Tech Author. Programming Community Astronaut. I built http://SpaceX.com . Talents: #TechR&D #Gaming #Code #Events #Writing  
+
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
 TITLE  
