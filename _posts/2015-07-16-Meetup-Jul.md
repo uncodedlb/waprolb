@@ -4,13 +4,13 @@ title: "Web & Application Professionals Meetup #WAPRO - July 16, 2015"
 layout: post
 ---
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org
+The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org
 
 
 ### TALKS THIS MONTH  
 - Greg Gerber [@gerbz](https://twitter.com/gerbz) - ZAPIER, AUTOMATE EVERYTHING
 - Chris Charlton [@charltonweb](https://twitter.com/charltonweb)- I THINK YOU'RE DOING IT WRONG (part2)  
-- Jake Schmitz [@schmittyjd](https://twitter.com/schmittyjd)  - TDD/BDD, DETAILS FORTHCOMING  
+- TBD [@twitter](https://twitter.com/uncodedlb) - DETAILS FORTHCOMING  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
 
 
@@ -41,10 +41,10 @@ ALL-DAY: Cheap $5 ALL-DAY parking across street.
 
 
 ### ABOUT  
-[Long Beach Web & Application Professionals #WAPRO](http://wapro.lbtech.org)  
+[Long Beach Web & Application Professionals #WAPRO](http://wapro.uncoded.org)  
 Our goal, in essence, is to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us!
 
-We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.lbtech.org](http://wapro.lbtech.org)
+We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.uncoded.org](http://wapro.uncoded.org)
 
 **PRESENTATION**  
 ZAPIER, AUTOMATE EVERYTHING
@@ -52,7 +52,7 @@ ZAPIER, AUTOMATE EVERYTHING
 Presentation description goes here.  
 
 > ### Greg Gerber [@gerbz](https://twitter.com/gerbz)
-> <img src="/images/people/gerbz.png" alt="headshot" class="headshot">  
+> <img src="{{ site.baseurl }}/images/people/gerbz.png" alt="headshot" class="headshot">  
 > Solopreneur operating on the fringe
 
 **PRESENTATION**  
@@ -61,7 +61,7 @@ Presentation description goes here.
 A pragmatic talk on GIT.  #workflow.  #secretsauce.  
 
 > ### Chris Charlton [@charltonweb](https://twitter.com/charltonweb)
-> <img src="/images/people/charlton_avatar.png" alt="headshot" class="headshot">  
+> <img src="{{ site.baseurl }}/images/people/charlton_avatar.png" alt="headshot" class="headshot">  
 > Published Tech Author. Programming Community Astronaut. I built http://SpaceX.com . Talents: #TechR&D #Gaming #Code #Events #Writing  
 
 
@@ -71,7 +71,7 @@ TITLE
 Presentation description goes here.  
 
 > ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
 > BIO  
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
@@ -80,7 +80,7 @@ TITLE
 Presentation description goes here.  
 
 > ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
 > BIO  
 
 

@@ -4,7 +4,7 @@ title: "Feb 19, 2015 Meetup - Web & Application Professionals Meetup"
 published: true
 ---
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org/about
+The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org/about
 
 ### TALKS THIS MONTH   
 * Aaron Pederson - Let's talk about SASS  
@@ -19,7 +19,7 @@ This Month we change venue to [Gunn-Jerkins](http://gunnjerkins.com) (near LGB a
 **MAIN PRESENTATION**  
 Let's talk about SASS _|  Presentation by [Aaron Pedersen](http://twitter.com/aaronpedersen)_  
 
-The "coding" concepts behind [SASS](http://sass-lang.com/install) leave many front-end developer resistant to the language and process. In this talk, Aaron will cover the basic concepts and show you how easy it is to get up and running with SASS and how to integrate it into your development workflow. As an example, we'll be checking out the [lbtech.github.io](https://github.com/lbtech/lbtech.github.io) repository, making some modifications and pushing those changes to github. The goal of this talk is to show you how the language can help speed up development and bring more organization and beauty (yes code can be pretty) to your css code base.
+The "coding" concepts behind [SASS](http://sass-lang.com/install) leave many front-end developer resistant to the language and process. In this talk, Aaron will cover the basic concepts and show you how easy it is to get up and running with SASS and how to integrate it into your development workflow. As an example, we'll be checking out the [uncoded.github.io](https://github.com/uncodedlb/uncodedlb.github.io) repository, making some modifications and pushing those changes to github. The goal of this talk is to show you how the language can help speed up development and bring more organization and beauty (yes code can be pretty) to your css code base.
 >
 > [About Aaron Pedersen](http://twitter.com/aaronpedersen)  
 > As co-founder and principle at [DevelopmentArc](http://www.developmentarc.com/), a boutique development firm and parent company of [Pedanco](https://pedanco.com/), Aaron Pedersen’s passion lies in helping businesses streamline process making teams work more effectively through innovative technology solutions. A published author, expert speaker, and sought-after business consultant and trainer, Aaron works with a wide range of companies, from Fortune 500 corporations and multi-chain hospitality companies to emerging brands and seed-round startups including Toyota Motor Sports, DHAP Digital, Adobe, KitchenNetwork, CoreLogic, PWC, Yahoo, and FitStar.
@@ -40,7 +40,7 @@ Please attend.
 > about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
 
 
-![GunnJerkins Offices](http://wapro.lbtech.org/images/GunnJerkins-Offices.jpg)
+![GunnJerkins Offices](http://wapro.uncoded.org/images/GunnJerkins-Offices.jpg)
 
 
 ### AGENDA  

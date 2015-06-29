@@ -4,7 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: WAPRO
-signin-link: 
+signin-link:
 # Short bio or description (displayed in the header)
 description: "Web & App Professionals Meetup"
 
@@ -19,19 +19,19 @@ avatar: /images/WAPRO.png
 footer-links:
   dribbble:
   email: wapro@MediaDoneRight.com
-  facebook: groups/longbeachtech
+  facebook: groups/uncodedlb
   flickr:
-  github: lbtech
+  github: uncodedlb
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: longbeachtech
-  irc: lbtech
+  twitter: waprolb
+  irc: uncodedlb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 twitter:
-  highlight: <!--blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/hashtag/LBTECH?src=hash">#LBTECH</a> is happening!&#10;&#10;APR 16 <a href="http://t.co/tPFCHRtWM3">http://t.co/tPFCHRtWM3</a>&#10;&#10;<a href="https://twitter.com/hashtag/WAPRO?src=hash">#WAPRO</a> <a href="https://twitter.com/activelamp">@activelamp</a> <a href="https://twitter.com/schmitzmade">@schmitzmade</a> <a href="https://twitter.com/rogerhoward">@rogerhoward</a> <a href="https://twitter.com/btmash">@btmash</a> <a href="http://t.co/M2ijIYoMo5">pic.twitter.com/M2ijIYoMo5</a></p>&mdash; Mike Stewart (@MediaDoneRight) <a href="https://twitter.com/MediaDoneRight/status/587790944751104000">April 14, 2015</a></blockquote-->
+  highlight: '<!--blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/hashtag/Uncoded?src=hash">#Uncoded</a> is happening!&#10;&#10;APR 16 <a href="http://t.co/tPFCHRtWM3">http://t.co/tPFCHRtWM3</a>&#10;&#10;<a href="https://twitter.com/hashtag/WAPRO?src=hash">#WAPRO</a> <a href="https://twitter.com/activelamp">@activelamp</a> <a href="https://twitter.com/schmitzmade">@schmitzmade</a> <a href="https://twitter.com/rogerhoward">@rogerhoward</a> <a href="https://twitter.com/btmash">@btmash</a> <a href="http://t.co/M2ijIYoMo5">pic.twitter.com/M2ijIYoMo5</a></p>&mdash; Mike Stewart (@MediaDoneRight) <a href="https://twitter.com/MediaDoneRight/status/587790944751104000">April 14, 2015</a></blockquote-->'
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: wapro
 

@@ -4,9 +4,9 @@ title: "Web & Application Professionals Meetup #WAPRO - Month 01, 2015 Meetup"
 layout: post
 ---
 
-> Note: This is a placeholder and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're speaking, please [Edit](https://github.com/lbtech/lbtech.github.io/blob/master/_posts/2015-01-01-Meetup-May.md) and fill out with your presentation topic & personal bio.
+> Note: This is a placeholder and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're speaking, please [Edit](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/_posts/2015-01-01-Meetup-May.md) and fill out with your presentation topic & personal bio.
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.lbtech.org
+The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org
 
 
 ### TALKS THIS MONTH  
@@ -38,10 +38,10 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.lbtech.org) gr
 
 
 ### ABOUT  
-[Long Beach Web & Application Professionals #WAPRO](http://wapro.lbtech.org)  
+[Long Beach Web & Application Professionals #WAPRO](http://wapro.uncoded.org)  
 Our goal, in essence, is to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us!
 
-We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.lbtech.org](http://wapro.lbtech.org)
+We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.uncoded.org](http://wapro.uncoded.org)
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
 TITLE  
@@ -49,7 +49,7 @@ TITLE
 Presentation description goes here.  
 
 > ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
 > BIO  
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
@@ -58,7 +58,7 @@ TITLE
 Presentation description goes here.  
 
 > ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
 > BIO  
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
@@ -67,7 +67,7 @@ TITLE
 Presentation description goes here.  
 
 > ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
 > BIO  
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
@@ -76,7 +76,7 @@ TITLE
 Presentation description goes here.  
 
 > ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="/images/people/FOO.JPG" alt="headshot" class="headshot">
+> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
 > BIO  
 
 
