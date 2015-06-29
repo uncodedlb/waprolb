@@ -5,9 +5,9 @@ permalink: /
 published: true
 ---
 
-The Long Beach __Web & App dev Professionals (WAPRO)__ is an independently organized sub-group of the non-profit [Uncoded](http://uncoded.org).  WAPRO [meets monthly](/news/) to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for [all people](https://github.com/uncoded/code-of-conduct) in our community. The technology and projects we discuss is typically directed towards the professionals that build websites and mobile applications.  Although we don't cater to beginners, we welcome everyone to join us, we actively work with CSULB and LBCC students, and often revisit fundamentals in talks.
+The Long Beach __Web & App dev Professionals (WAPRO)__ is an independently organized sub-group of the non-profit [Uncoded](http://uncoded.org).  WAPRO [meets monthly](/meetups/) to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for [all people](https://github.com/uncoded/code-of-conduct) in our community. The technology and projects we discuss is typically directed towards the professionals that build websites and mobile applications.  Although we don't cater to beginners, we welcome everyone to join us, we actively work with CSULB and LBCC students, and often revisit fundamentals in talks.
 
-For the latest on our meetups, please visit our [Meetups page](/news/). Some of our [past meetups](http://www.meetup.com/uncoded/#past) include photos from the gatherings.  Please let us know if you'd like to be involved and help.
+For the latest on our meetups, please visit our [Meetups page](/meetups/). Some of our [past meetups](http://www.meetup.com/uncoded/#past) include photos from the gatherings.  Please let us know if you'd like to be involved and help.
 
 This site is new as of spring 2015 and is temporarily ugly.  We're volunteers, and in the process of redesigning the website and rebuilding it together.  Want to help?  Read below on how to contribute.
 
