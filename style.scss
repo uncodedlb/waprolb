@@ -109,7 +109,10 @@ strong, b {
 img {
   max-width: 100%;
 }
-
+img[alt="flyer"] {
+  max-width: 136%;
+  margin-left: -48px;
+}
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
