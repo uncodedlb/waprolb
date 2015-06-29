@@ -9,7 +9,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) g
 
 ### TALKS THIS MONTH  
 - Greg Gerber [@gerbz](https://twitter.com/gerbz) - ZAPIER, AUTOMATE EVERYTHING
-- Chris Charlton [@charltonweb](https://twitter.com/charltonweb)- I THINK YOU'RE DOING IT WRONG (part2)  
+- Chris Charlton [@charltonweb](https://twitter.com/charltonweb) - GITFLOW -- I THINK YOU'RE DOING IT WRONG (part2)  
 - TBD [@twitter](https://twitter.com/uncodedlb) - DETAILS FORTHCOMING  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
 
@@ -58,7 +58,7 @@ Presentation description goes here.
 **PRESENTATION**  
 [GITFlow](), I THINK YOU'RE DOING IT WRONG  
 
-A pragmatic talk on GIT.  #workflow.  #secretsauce.  
+A pragmatic talk on GIT. (Part 2) #workflow.  #secretsauce.  
 
 > ### Chris Charlton [@charltonweb](https://twitter.com/charltonweb)
 > <img src="{{ site.baseurl }}/images/people/charlton_avatar.png" alt="headshot" class="headshot">  
