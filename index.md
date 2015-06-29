@@ -21,4 +21,5 @@ But we're new and we need your help to connect more of our local tech community.
 1. [Download a flyer](/images/wapro-promotion-flyer.pdf) (Or click the image below)
 2. Print the flyer
 3. Finally, post it in a public place.  For example, post in your favorite cafe, or campus commons, or a workplace breakroom.  _But always be sure to obtain permission to post._  😄
+
 [![flyer]({{ site.baseurl }}/images/wapro-promotion-flyer.svg)]({{ site.baseurl }}/images/wapro-promotion-flyer.pdf)
