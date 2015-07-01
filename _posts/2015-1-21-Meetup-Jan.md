@@ -40,7 +40,7 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 
 
 
-![WE Labs](http://i.imgur.com/vpr167t.jpg?delhash=xBpk70Sgvmr8ZCF)
+![WE Labs]({{ site.baseurl }}/images/WE_Labs1.jpeg)
 
 
 ### VENUE & MEETUP INFO  

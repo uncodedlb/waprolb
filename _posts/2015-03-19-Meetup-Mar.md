@@ -49,7 +49,7 @@ Come learn how to utilize open source tools to build world-class websites of all
 - Networking and post-meetup venue dubya (20min)
 
 
-![WE Labs](http://i.imgur.com/vpr167t.jpg?delhash=xBpk70Sgvmr8ZCF)
+![WE Labs]({{ site.baseurl }}/images/WE_Labs1.jpeg)
 
 
 ### VENUE & MEETUP INFO  

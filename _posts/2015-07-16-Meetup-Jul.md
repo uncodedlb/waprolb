@@ -24,7 +24,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) g
 
 --------
 
-![WE Labs](http://i.imgur.com/vpr167t.jpg?delhash=xBpk70Sgvmr8ZCF)
+![WE Labs]({{ site.baseurl }}/images/WE_Labs2.jpeg)
 
 
 ### VENUE & MEETUP INFO  

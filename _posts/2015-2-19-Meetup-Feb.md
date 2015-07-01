@@ -40,7 +40,7 @@ Please attend.
 > about.me: alt.2600 turned open-source evangelist... that is all you need to know ;)
 
 
-![GunnJerkins Offices](http://wapro.uncoded.org/images/GunnJerkins-Offices.jpg)
+![GunnJerkins Offices]({{ site.baseurl }}/images/GunnJerkins-Offices.jpg)
 
 
 ### AGENDA  

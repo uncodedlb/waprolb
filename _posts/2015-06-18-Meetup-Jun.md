@@ -24,7 +24,7 @@ RSVP:  [j.mp/WAPRO-1506-rsvp](http://j.mp/WAPRO-1506-rsvp)
 --------
 
 
-![GunnJerkins Offices](http://wapro.uncoded.org/images/GunnJerkins-Offices.jpg)
+![GunnJerkins Offices]({{ site.baseurl }}/images/GunnJerkins-Offices.jpg)
 
 
 ### VENUE & MEETUP INFO
