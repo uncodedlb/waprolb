@@ -54,7 +54,7 @@ google_analytics: UA-60220524-5
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:title/
+permalink: /:categories/:year/:month/
 
 # The release of Jekyll Now that you're using
 version: v1.0.0
