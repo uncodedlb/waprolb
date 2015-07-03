@@ -1,11 +1,14 @@
 ---
-layout: post
-title: Jan 22, 2015 Meetup - Web & Application Professionals Meetup
-redirect_from: "/Meetup-Jan/"
-categories: meetup
+title: "Web & Application Professionals Meetup - January"
 tags: [php, drupal, yeoman, grunt, bower, jekyll, "Chris Charlton", "Frank Andersen"]
-
+categories: meetup
+redirect_from: "/Meetup-Jan/"
+layout: post
+published: true
 ---
+
+
+**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
 
 The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
 

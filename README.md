@@ -1,6 +1,6 @@
 # [WAPRO website repo](https://uncoded.github.io)
 
-The Web and Application Professionals (WAPRO) website is based on, [Jekyll-now](https://github.com/jekyll/jekyll) which is also based on ([Jekyll](https://github.com/jekyll/jekyll)).  This repo is for our website, http://wapro.uncoded.org, and for communication within the group.  New posts are in the `_posts` folder, in markdown format.
+The Web and Application Professionals (WAPRO) website is based on, [Jekyll-now](https://github.com/jekyll/jekyll) which is also based on ([Jekyll](https://github.com/jekyll/jekyll)).  This repo is for our website, http://www.waprolb.org, and for communication within the group.  New posts are in the `_posts` folder, in markdown format.
 
 ## How we Work Together
 We adhere to the [Uncoded Code of Conduct](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/CODE_OF_CONDUCT.md) based on the [Contributor Covenant](http://contributor-covenant.org), version 1.0.0, available at [http://contributor-covenant.org/version/1/0/0/](http://contributor-covenant.org/version/1/0/0/).  Before contributing, please review the [Uncoded Code of Conduct](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/CODE_OF_CONDUCT.md)

@@ -1,13 +1,16 @@
 ---
-published: true
-title: "Web & Application Professionals Meetup #WAPRO - Jun 18, 2015 Meetup"
-layout: post
-redirect_from: "/Meetup-Jun/"
-categories: meetup
+title: "Web & Application Professionals Meetup - June"
 tags: [react, gitflow, "James Polanco", "Chris Charlton"]
+categories: meetup
+redirect_from: "/Meetup-Jun/"
+layout: post
+published: true
 ---
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org
+
+**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+
+The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
 
 ### TALKS THIS MONTH
@@ -46,10 +49,10 @@ Long Beach, CA 90808
 
 
 ### ABOUT
-[Long Beach Web & Application Professionals #WAPRO](http://wapro.uncoded.org)
+[Long Beach Web & Application Professionals #WAPRO](http://www.waprolb.org)
 Our goal, in essence, is to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us!
 
-We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.uncoded.org](http://wapro.uncoded.org)
+We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://www.waprolb.org](http://www.waprolb.org)
 
 **PRESENTATION**  
 [React](https://facebook.github.io/react/), WHY I MOVED TO REACT  

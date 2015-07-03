@@ -1,14 +1,16 @@
 ---
-layout: post
-title: "Feb 19, 2015 Meetup - Web & Application Professionals Meetup"
-published: true
-redirect_from: "/Meetup-Feb/"
-categories: meetup
+title: "Web & Application Professionals Meetup - February"
 tags: [sass, strategy, "Aaron Pederson", "Mariano Crivello"]
-
+categories: meetup
+redirect_from: "/Meetup-Feb/"
+layout: post
+published: true
 ---
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org/about
+
+**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+
+The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org/about
 
 ### TALKS THIS MONTH
 * Aaron Pederson - Let's talk about SASS  

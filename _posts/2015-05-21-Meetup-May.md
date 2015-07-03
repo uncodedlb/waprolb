@@ -1,13 +1,16 @@
 ---
-published: true
-title: "Web & Application Professionals Meetup #WAPRO - May 21, 2015 Meetup"
-layout: post
-redirect_from: "/Meetup-May/"
-categories: meetup
+title: "Web & Application Professionals Meetup - May"
 tags: [MeteorJS, demo, django, python, swift, iOS, "Mike Land", "Roger Howard", "Daniel Romero", "Allen Eubank"]
+categories: meetup
+redirect_from: "/Meetup-May/"
+layout: post
+published: true
 ---
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org
+
+**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+
+The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
 ### RSVP
 
@@ -46,10 +49,10 @@ ALL-DAY: Cheap $5 ALL-DAY parking across street.
 
 
 ### ABOUT  
-[Long Beach Web & Application Professionals #WAPRO](http://wapro.uncoded.org)  
+[Long Beach Web & Application Professionals #WAPRO](http://www.waprolb.org)  
 We share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  If you have interest or work in Web or Application Development, add [our meetup](http://www.meetup.com/uncoded/events/) [RSS](http://www.meetup.com/uncoded/events/rss/) [Atom](http://www.meetup.com/uncoded/events/atom/) [iCal](webcal://www.meetup.com/uncoded/events/ical/) [Outlook](http://www.meetup.com/uncoded/events/ical/) to your calendar now!
 
-We like open source, it runs the web.  Our meetups are focused on the life-cycle and technologies related to website and mobile application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.uncoded.org](http://wapro.uncoded.org)
+We like open source, it runs the web.  Our meetups are focused on the life-cycle and technologies related to website and mobile application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://www.waprolb.org](http://www.waprolb.org)
 
 ### OVERVIEW OF PRESENTATIONS
 

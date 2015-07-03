@@ -1,12 +1,21 @@
 ---
-published: false
-title: "Web & Application Professionals Meetup #WAPRO - Month 01, 2015 Meetup"
+# Presenters: Follow the "skeleton" to add info about your talk.
+# Note letter cAsE and "extra two spaces" at the end of a few important lines.
+# Start by adding lowercase tag(s) related to your presentation.  Also add "Your Name" as a tag.
+title: "Web & Application Professionals Meetup - Month"
+tags: [foo, bar, "Your Name"]
+categories: meetup
 layout: post
+#redirect_from: ""
+published: false
 ---
 
-> Note: This is a placeholder and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're speaking, please [Edit](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/_posts/2015-01-01-Meetup-May.md) and fill out with your presentation topic & personal bio.
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org
+**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+
+> Note: This is a placeholder and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're speaking, please [Edit](https://github.com/uncodedlb/waprolb/tree/gh-pages/_posts/) and fill out with your presentation topic & personal bio.
+
+The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
 
 ### TALKS THIS MONTH  
@@ -38,10 +47,10 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) g
 
 
 ### ABOUT  
-[Long Beach Web & Application Professionals #WAPRO](http://wapro.uncoded.org)  
+[Long Beach Web & Application Professionals #WAPRO](http://www.waprolb.org)  
 Our goal, in essence, is to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us!
 
-We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://wapro.uncoded.org](http://wapro.uncoded.org)
+We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://www.waprolb.org](http://www.waprolb.org)
 
 **(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
 TITLE  
