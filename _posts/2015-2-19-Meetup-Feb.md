@@ -2,11 +2,15 @@
 layout: post
 title: "Feb 19, 2015 Meetup - Web & Application Professionals Meetup"
 published: true
+redirect_from: "/Meetup-Feb/"
+categories: meetup
+tags: [sass, strategy, "Aaron Pederson", "Mariano Crivello"]
+
 ---
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org/about
 
-### TALKS THIS MONTH   
+### TALKS THIS MONTH
 * Aaron Pederson - Let's talk about SASS  
 * Mariano Crivello - Digital Effin Strategy  
 
@@ -28,7 +32,7 @@ The "coding" concepts behind [SASS](http://sass-lang.com/install) leave many fro
 **THUNDER TALK**  
 Digital Effin Strategy _|  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)_  
 
-We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist. 
+We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist.
 
 We are people who strategize the use of technology to effect change. And we are damn good at it.  
 

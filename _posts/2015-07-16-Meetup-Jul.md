@@ -1,7 +1,10 @@
 ---
 published: true
-title: "Web & Application Professionals Meetup #WAPRO - July 16, 2015"
+title: "Web & Application Professionals Meetup #WAPRO"
+redirect_from: ["/Meetup-Jul/"]
 layout: post
+categories: meetup
+tags: [zapier, gitflow, "Chris Charlton", "Greg Gerber"]
 ---
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org

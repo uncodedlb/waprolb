@@ -2,6 +2,9 @@
 published: true
 title: "April 16, 2015 Meetup - Web & Application Professionals Meetup #WAPRO"
 layout: post
+redirect_from: "/Meetup-Apr/"
+categories: meetup
+tags: [ansible, elixir, django, python, "Roger Howard", "Jake Schmitz", "Ashok Modi"]
 ---
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  Our meetup is FREE and everyone is welcome.  **Website:** http://wapro.uncoded.org

@@ -2,6 +2,9 @@
 published: true
 title: "Web & Application Professionals Meetup #WAPRO - March 19, 2015 Meetup"
 layout: post
+redirect_from: "/Meetup-Mar/"
+categories: meetup
+tags: [strategy, symfony, twig, sass, sculpin, bundler, iOS, "Mariano Crivello", "Mike Stewart", "James Hall"]
 ---
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://wapro.uncoded.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://wapro.uncoded.org
