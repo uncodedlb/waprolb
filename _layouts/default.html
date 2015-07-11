@@ -17,11 +17,22 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    {% if site.redirect %}
+    <META http-equiv="refresh" content="{{ site.redirect_meta_delay }};URL={{ site.redirect }}">
+    {% endif %}
+
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     {% include favicon.html %}
+    {% if site.redirect %}
+    <script type="text/javascript">
+      <!--
+      window.location = "{{ site.redirect }}"
+      //-->
+    </script>
+    {% endif %}
   </head>
 
-  <body>
+  <body{% if site.redirect %} onLoad="setTimeout('delayer()', {{ site.redirect_js_delay }})"{% endif %}>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
