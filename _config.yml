@@ -14,7 +14,7 @@ baseurl: ""
 
 # Name of your site (displayed in the header)
 name: WAPRO
-signin-link:
+signin-link: true
 # Short bio or description (displayed in the header)
 description: "Web & App Professionals Meetup"
 
