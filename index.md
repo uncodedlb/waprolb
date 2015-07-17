@@ -9,7 +9,7 @@ WAPRO [meets monthly](/meetups/) to showcase our cool tech projects, share best 
 
 >  The __Web & App Professionals meetup__ (#wapro) is a community intiative of [Uncoded](http://uncoded.org).  
 
-
+<iframe width="720" height="405" src="https://www.youtube.com/embed/RTx2CNSsgHc" frameborder="0" allowfullscreen></iframe>
 
 
 ## Get Connected
