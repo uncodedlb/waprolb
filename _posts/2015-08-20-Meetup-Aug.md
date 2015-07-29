@@ -2,19 +2,18 @@
 # Presenters: Follow the "skeleton" to add info about your talk.
 # Note letter cAsE and "extra two spaces" at the end of a few important lines.
 # Start by adding lowercase tag(s) related to your presentation.  Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup - Month"
-tags: [foo, bar, "Your Name"]
+title: "Web & Application Professionals Meetup - August"
+#tags: [foo, bar, "Your Name"]
 categories: meetup
 layout: post
-#redirect_from: ["/next/"]
-published: false
+redirect_from: ["/meetup/next/"]
+published: true
 ---
-
 
 **Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
 
-> Note: This is a placeholder for the next meetup and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're a presenter, please [[Edit]]() and fill out with your presentation topic & personal bio.  
-[[Edit]](https://github.com/uncodedlb/waprolb/tree/gh-pages/_posts/
+>  Note: This is a placeholder for the next meetup and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're a presenter, please [[Edit]](https://github.com/uncodedlb/waprolb/tree/gh-pages/_posts/2015-08-20-Meetup-Aug.md) and fill out with your presentation topic & personal bio.  
+[[Edit]](https://github.com/uncodedlb/waprolb/tree/gh-pages/_posts/2015-08-20-Meetup-Aug.md)  
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
