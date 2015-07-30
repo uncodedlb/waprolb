@@ -5,6 +5,9 @@ permalink: /
 published: true
 ---
 
+>  Notice: We're Moving to Tuesday  
+Starting September 1st, 2015, we're moving the meetup to the first Tuesday of every Month.
+
 WAPRO [meets monthly](/meetups/) to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  The technology and projects we discuss is typically directed towards the professionals that build websites and mobile applications.  Although we don't cater to beginners, we welcome everyone to join us, we actively work with CSULB and LBCC students, and often revisit _IT fundamentals_ in our talks.  We strive to meet in a professional, relaxed, respectful, and open venue for [all people](https://github.com/uncoded/code-of-conduct) in our community.
 
 >  The __Web & App Professionals meetup__ (#wapro) is a community intiative of [Uncoded](http://uncoded.org).  

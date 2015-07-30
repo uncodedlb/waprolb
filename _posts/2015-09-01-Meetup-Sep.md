@@ -2,7 +2,7 @@
 # Presenters: Follow the "skeleton" to add info about your talk.
 # Note letter cAsE and "extra two spaces" at the end of a few important lines.
 # Start by adding lowercase tag(s) related to your presentation.  Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup - August"
+title: "Web & Application Professionals Meetup - September"
 #tags: [foo, bar, "Your Name"]
 categories: meetup
 layout: post
