@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Upcoming and Past Meetups
-redirect_from: ["/news/", "/meetups/"]
+redirect_from: ["/news/", "/meetups/", "/event/", "/events/"]
 permalink: "/meetup/"
 published: true
 ---
@@ -9,15 +9,13 @@ published: true
 <div class="info">
 
 <h2>Meetups</h2>
+<div class="twitter-embedded">{{ site.twitter.highlight }}</div></div>
+<p>We congregate monthly to showcase, learn, share, & network. We meet on the <strong>1st Tuesday</strong> of every month in Long Beach. Please, join us.</p>
+
 <blockquote>
 <h3>Notice: We're Moving to Tuesday</h3>
 <p>Starting September 1st, 2015, we're moving the meetup to the first Tuesday of every Month.</p>
 </blockquote>
-
-<div class="twitter-embedded">{{ site.twitter.highlight }}</div></div>
-
-  <p>We congregate monthly to showcase, learn, share, & network. Starting in September, we meet on the <strong>1st Tuesday</strong> of every month in Long Beach. Please, join us.</p>
-  <p>We also gather weekly on saturday mornings for some code & coffee on Pine Street.  It's typically very loose & relaxed.</p>
 
 <h2>{{page.title}}</h2>
 <div class="posts">
