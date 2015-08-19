@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Upcoming and Past Meetups
+title: Meetups – Upcoming and Past Meetings
 redirect_from: ["/news/", "/meetups/", "/event/", "/events/"]
 permalink: "/meetup/"
 published: true

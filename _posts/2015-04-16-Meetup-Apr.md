@@ -1,5 +1,5 @@
 ---
-title: "Web & Application Professionals Meetup - April"
+title: "Web & Application Professionals Meetup – April"
 tags: [ansible, elixir, django, python, "Roger Howard", "Jake Schmitz", "Ashok Modi"]
 categories: meetup
 redirect_from: "/Meetup-Apr/"

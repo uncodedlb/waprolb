@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Web & Application Professionals
+title:  About – Web & Application Professionals
 permalink: /about/
 published: true
 ---

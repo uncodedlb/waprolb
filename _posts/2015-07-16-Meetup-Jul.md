@@ -1,5 +1,5 @@
 ---
-title: "Web & Application Professionals Meetup - July"
+title: "Web & Application Professionals Meetup – July"
 tags: [zapier, gitflow, "Chris Charlton", "Greg Gerber"]
 categories: meetup
 redirect_from: ["/Meetup-Jul/"]

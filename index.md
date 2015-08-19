@@ -1,6 +1,6 @@
 ---
-layout: page
-title:
+layout: default
+title:  Web & Applications Professionals – Long Beach, CA
 permalink: /
 published: true
 ---
