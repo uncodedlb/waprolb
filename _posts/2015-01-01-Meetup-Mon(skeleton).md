@@ -1,95 +1,109 @@
 ---
-# Presenters: Follow the "skeleton" to add info about your talk.
-# Note letter cAsE and "extra two spaces" at the end of a few important lines.
-# Start by adding lowercase tag(s) related to your presentation.  Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup - Month"
-tags: [foo, bar, "Your Name"]
+# Fill-in Speaker1, Speaker2, & Speaker3 info below.
+# Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
+title: "Web & Application Professionals Meetup – Month"
+tags: ["foo", "bar", "Your Name"]
+meeting_time: "6:30-9p"
+venue: "" # WELABS || GJ
+speaker1:
+  name: ""               # Speaker Full Name
+  twt_name: ""           # Twitter Handle, sans @
+  company: ""            # Speakers Employer
+  bio_desc: ""           # Speaker Biography. markdown ok.
+  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "" # Catchy Title of Presentation.
+  presentation_desc: ""  # Full Description of talk.  markdown ok.
+speaker2:
+  name: ""               # Speaker Full Name
+  twt_name: ""           # Twitter Handle, sans @
+  company: ""            # Speakers Employer
+  bio_desc: ""           # Speaker Biography. markdown ok.
+  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "" # Catchy Title of Presentation.
+  presentation_desc: ""  # Full Description of talk.  markdown ok.
+speaker3:
+  name: ""               # Speaker Full Name
+  twt_name: ""           # Twitter Handle, sans @
+  company: ""            # Speakers Employer
+  bio_desc: ""           # Speaker Biography. markdown ok.
+  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "" # Catchy Title of Presentation.
+  presentation_desc: ""  # Full Description of talk.  markdown ok.
+
 categories: meetup
 layout: post
-#redirect_from: ["/next/"]
-published: false
+#redirect_from: ["/next/", "/meetup/next/", "/events/next/"] # Remove redirect from last meetup
+published: true
 ---
 
+**Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
 
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+### ABOUT WAPRO  
+The Long Beach Web & App Professionals (WAPRO) group meets monthly to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  
 
-> Note: This is a placeholder for the next meetup and not the actual event post ... We're a community of volunteers with day jobs. 	 If you're a presenter, please [[Edit]]() and fill out with your presentation topic & personal bio.  
-[[Edit]](https://github.com/uncodedlb/waprolb/tree/gh-pages/_posts/
+The Pros that have worked on/for projects such as Spacex, Riot Games, X-prize, Adobe, Toyota Motor Sports, VMWare, UCLA, CSULB, AARP, and more ... have shared amazing talks this year on tech and projects such as [Bootstrap](http://getbootstrap.com/), [Bower](http://bower.io), [Browserfy](http://browserify.org/), [Headless Drupal](https://github.com/davidhwang/horseman), [iOS Swift](https://developer.apple.com/swift/), [Jekyll](http://jekyllrb.com), [Meteor](https://www.meteor.com/), [Node.js](http://iojs.org), [SASS](http://sass-lang.com/), [Sculpin](http://sculpin.io), [Zapier](http://zapier.com) and more.
 
-The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
+Every month we come together to:
+
+* Demo technologies we use, especially those driving the convergence of websites and mobile apps
+* Showcase our projects built with cool tech
+* Share industry "best practices"
+* Newcomer Q&A's
+* Network, get to know each other, and otherwise have fun
+
+
+We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Let us know what you'd like to see at an upcoming meetup by tweeting using the hash #WAPRO.  
+
+If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us! Our meetups are FREE and open to [EVERYONE](https://github.com/uncodedlb/uncoded-policies).  
 
 
 ### TALKS THIS MONTH  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
-- Presenter Name - TITLE OR TEASER OF PRESENTATION  
-- TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
-
-
-### AGENDA  
-- Setup and Introductions (10min)  
-- Community News and Job Announcements (10min)  
-- Presentations (60min)  
-- Open-mic & Lightning Talks and/or Q&A (20min)  
-- Networking and post-meetup venue dubya (20min)  
-
-
---------
-
-
-![VENUE PHOTO]()  
-
-
-### VENUE & MEETUP INFO  
-**Note:** We alternate meetup locations monthly.  
-- DATE:  TBD  
-- TIME: 7-9p  
-- LOCATION:  TBD  
-
-
-### ABOUT  
-[Long Beach Web & Application Professionals #WAPRO](http://www.waprolb.org)  
-Our goal, in essence, is to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!  If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us!
-
-We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Visit our website for more information and learn how to get invovled!  [http://www.waprolb.org](http://www.waprolb.org)
-
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
-
-Presentation description goes here.  
-
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
-
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
-
-Presentation description goes here.  
-
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
-
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
-
-Presentation description goes here.  
-
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
-
-**(choose)|PRESENTATION|DEMO|SHOWCASE|PANEL**  
-TITLE  
-
-Presentation description goes here.  
-
-> ### SPEAKER NAME [@SPEAKER](TWITTER)  
-> <img src="{{ site.baseurl }}/images/people/FOO.JPG" alt="headshot" class="headshot">
-> BIO  
+{% if page.speaker1.name != ""  %}- {{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }})) – {{ page.speaker1.presentation_title }}  {% endif %}
+{% if page.speaker2.name != ""  %}- {{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }})) – {{ page.speaker2.presentation_title }}  {% endif %}
+{% if page.speaker3.name != ""  %}- {{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}](https://twitter.com/{{ page.speaker3.twt_name }})) – {{ page.speaker3.presentation_title }}  {% endif %}
 
 
 
+{% include venue.md %}
 
-### SPONSORS  
+
+### DETAILS  
+{% if page.speaker1.name != "" %}
+**{{ page.speaker1.presentation_type | uppercase }}**  
+{{ page.speaker1.presentation_title | uppercase }}  
+
+{{ page.speaker1.presentation_desc | markdownify }}  
+
+> ### {{ page.speaker1.name | markdownify }}{% if page.speaker1.company %}, {{ page.speaker1.company }}{% endif %}  ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }}))  
+> <img src="{{ site.baseurl }}{{ page.speaker1.bio_img_path }}" alt="headshot" class="headshot">
+> {{ page.speaker1.bio_desc | markdownify }}  
+{% endif %}
+{% if page.speaker2.name != ""  %}
+**{{ page.speaker2.presentation_type | uppercase }}**  
+{{ page.speaker2.presentation_title | uppercase }}
+
+{{ page.speaker2.presentation_desc | markdownify }}  
+
+> ### {{ page.speaker2.name | markdownify }}{% if page.speaker2.company %}, {{ page.speaker2.company }}{% endif %}  ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }}))  
+> <img src="{{ site.baseurl }}{{ page.speaker2.bio_img_path }}" alt="headshot" class="headshot">
+> {{ page.speaker2.bio_desc | markdownify }}  
+{% endif %}
+{% if page.speaker3.name != ""  %}
+**{{ page.speaker3.presentation_type | uppercase }}**  
+{{ page.speaker3.presentation_title | uppercase }}
+
+{{ page.speaker3.presentation_desc | markdownify }}  
+
+> ### {{ page.speaker3.name | markdownify }}{% if page.speaker3.company %}, {{ page.speaker3.company }}{% endif %}  ([@{{ page.speaker3.twt_name }}](https://twitter.com/{{ page.speaker3.twt_name }}))  
+> <img src="{{ site.baseurl }}{{ page.speaker3.bio_img_path }}" alt="headshot" class="headshot">
+> {{ page.speaker3.bio_desc | markdownify }}  
+{% endif %}
+
+
+
+### PRIZES!  
+
+The person in attendance with the most social shares promoting the meetup (tweets+retweets, fb likes/shares, etc) this month which include the hashes **#WAPRO** and **#UNCODED** will win their choice of prize offerings.  Minimum of six shares over at least three different dates.  At the discretion of the crowd in attendance, we may give away prizes if the crowd votes that multiple people have gone above & beyond to help spread the news.  Please share & promote in [good taste. ☺](https://github.com/uncodedlb/uncoded-policies)
