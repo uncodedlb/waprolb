@@ -10,7 +10,7 @@ speaker1:
   twt_name: "arroyolabs"           # Twitter Handle, sans @
   company: "Founder, Arroyo Labs"            # Speakers Employer
   bio_desc: "Founder of Arroyo Labs.  Software developer and technologist, & music composer"           # Speaker Biography. markdown ok.
-  bio_img_path: "http://arroyolabs.com/images/John-Arroyo.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  bio_img_path: "/images/people/John-Arroyo.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
   presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
   presentation_title: "The new PHP and the enterprise Mash-Up
 " # Catchy Title of Presentation.
