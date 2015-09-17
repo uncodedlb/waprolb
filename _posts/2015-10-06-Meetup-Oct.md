@@ -6,23 +6,24 @@ tags: ["foo", "bar", "Your Name"]
 meeting_time: "6:30-9p"
 venue: "GJ" # WELABS || GJ
 speaker1:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  name: "John Arroyo"               # Speaker Full Name
+  twt_name: "arroyolabs"           # Twitter Handle, sans @
+  company: "Founder, Arroyo Labs"            # Speakers Employer
+  bio_desc: "Founder of Arroyo Labs.  Software developer and technologist, & music composer"           # Speaker Biography. markdown ok.
+  bio_img_path: "http://arroyolabs.com/images/John-Arroyo.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "The new PHP and the enterprise Mash-Up
+" # Catchy Title of Presentation.
+  presentation_desc: "Despite its historic shortcoming, PHP has grown up to be a solid technology powering large portions of the web including large enterprises.  I’ll discuss modern ways to leverage the language and its large open source ecosystem.  I’ll outline and demo various architectures and ideas that bring together the best of PHP alongside other languages and frameworks.  I’ll also show how our Erdiko project and things like composer can bring mash-ups to the enterprise."  # Full Description of talk.  markdown ok.
 speaker2:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  name: "Patrick Wall"               # Speaker Full Name
+  twt_name: "kwallcompany"           # Twitter Handle, sans @
+  company: "CTO, KWALL"            # Speakers Employer
+  bio_desc: "With more than a decade of IT experience Patrick leads the KWALL development team. Patrick oversees all web development, network infrastructure, and hosting services. Patrick has managed website information systems for such large companies as Chrysler and EDS. These experiences provided the expert experience sought after by agencies and development firms. As a central member of the Open Source community, Patrick manages and contributes modules and code, and also teaches people interested in Drupal at local training sessions. Patrick has spoken at multiple conferences and events on highly technical presentations relating to web development and content management systems."           # Speaker Biography. markdown ok.
+  bio_img_path: "/images/people/patrick-wall.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "Accessibility in Websites" # Catchy Title of Presentation.
+  presentation_desc: "I'll go over the general requirements for accessibility you need to take into consideration when building a website:<ul><li>The standards of [WCAG 2.0](http://www.w3.org/TR/WCAG20/) and [Section 508](http://www.hhs.gov/web/section-508/index.html), and scanners to help you achieve them</li><li>Tools you can use in Drupal and outside of it to still have an awesome website while being accessible</li><li>The benefits of accessibility beyond being socially responsible and legally compliant</li></ul>"  # Full Description of talk.  markdown ok.
 speaker3:
   name: ""               # Speaker Full Name
   twt_name: ""           # Twitter Handle, sans @
@@ -36,7 +37,7 @@ speaker3:
 categories: meetup
 layout: post
 #redirect_from: ["/next/", "/meetup/next/", "/events/next/"] # Remove redirect from last meetup
-published: false
+published: true
 ---
 
 **Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
@@ -77,7 +78,8 @@ If you have interest or work in Web or Application Development, add our meetup t
 
 {{ page.speaker1.presentation_desc | markdownify }}  
 
-> ### {{ page.speaker1.name | markdownify }}{% if page.speaker1.company %}, {{ page.speaker1.company }}{% endif %}  ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }}))  
+> ### {{ page.speaker1.name | markdownify }}{% if page.speaker1.company %}
+> {{ page.speaker1.company }}{% endif %}  ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }}))  
 > <img src="{{ site.baseurl }}{{ page.speaker1.bio_img_path }}" alt="headshot" class="headshot">
 > {{ page.speaker1.bio_desc | markdownify }}  
 {% endif %}
@@ -87,7 +89,8 @@ If you have interest or work in Web or Application Development, add our meetup t
 
 {{ page.speaker2.presentation_desc | markdownify }}  
 
-> ### {{ page.speaker2.name | markdownify }}{% if page.speaker2.company %}, {{ page.speaker2.company }}{% endif %}  ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }}))  
+> ### {{ page.speaker2.name | markdownify }}{% if page.speaker2.company %}
+> {{ page.speaker2.company }}{% endif %}  ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }}))  
 > <img src="{{ site.baseurl }}{{ page.speaker2.bio_img_path }}" alt="headshot" class="headshot">
 > {{ page.speaker2.bio_desc | markdownify }}  
 {% endif %}
@@ -97,7 +100,8 @@ If you have interest or work in Web or Application Development, add our meetup t
 
 {{ page.speaker3.presentation_desc | markdownify }}  
 
-> ### {{ page.speaker3.name | markdownify }}{% if page.speaker3.company %}, {{ page.speaker3.company }}{% endif %}  ([@{{ page.speaker3.twt_name }}](https://twitter.com/{{ page.speaker3.twt_name }}))  
+> ### {{ page.speaker3.name | markdownify }}{% if page.speaker3.company %}
+> {{ page.speaker3.company }}{% endif %}  ([@{{ page.speaker3.twt_name }}](https://twitter.com/{{ page.speaker3.twt_name }}))  
 > <img src="{{ site.baseurl }}{{ page.speaker3.bio_img_path }}" alt="headshot" class="headshot">
 > {{ page.speaker3.bio_desc | markdownify }}  
 {% endif %}
