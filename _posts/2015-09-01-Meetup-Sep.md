@@ -8,7 +8,7 @@ venue: "WELABS"
 tags: [zapier, collectible, aCoin, "Brandon Halvorson", "Greg Gerber"]
 categories: meetup
 layout: post
-redirect_from: ["/next/", "/meetup/next/", "/events/next/"]
+#redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 published: true
 speaker1:
   name: "Brandon Halvorson"
