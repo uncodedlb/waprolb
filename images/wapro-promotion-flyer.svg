@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
      inkscape:cx="391.73656"
-     inkscape:cy="472.06166"
+     inkscape:cy="839.75718"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2037,7 +2037,7 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff342a;stroke-width:2.3219378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5072"
        cx="355.12308"
-       cy="-106.77797"
+       cy="-94.777969"
        rx="26.441982"
        ry="9.7586126"
        transform="matrix(0,1,-1,0,0,0)" />
@@ -2368,7 +2368,7 @@
     <ellipse
        ry="9.7586126"
        rx="26.441982"
-       cy="656.55121"
+       cy="670.55121"
        cx="-760.55475"
        id="ellipse4984"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff342a;stroke-width:2.3219378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2674,6 +2674,18 @@
        inkscape:connector-curvature="0"
        id="path5330"
        d="M 647.0274,778.49453 636.47716,741.9578"
+       style="fill:none;fill-rule:evenodd;stroke:#004a51;stroke-width:1.98481166;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#004a51;stroke-width:1.98481166;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 661.0274,778.49453 650.47716,741.9578"
+       id="path5236"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5238"
+       d="m 103.71597,336.35301 10.55024,36.53673"
        style="fill:none;fill-rule:evenodd;stroke:#004a51;stroke-width:1.98481166;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

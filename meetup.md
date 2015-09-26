@@ -24,7 +24,7 @@ published: true
         {{ post.content | truncatewords:99}}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <em class="convince">Still need convincing it's going to be great?  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more</a></em>
     </article>
   {% endfor %}
 </div>

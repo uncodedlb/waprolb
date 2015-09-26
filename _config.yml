@@ -51,10 +51,49 @@ disqus: wapro
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-60220524-5
 
+
+# WAPRO data
+
+sponsors:
+  food:
+    name: Beacon Hill
+    logo: "/images/logos/beaconhill.png"
+    twitter: "BHStaffingGroup"
+    desc: "Beacon Hill Technologies, the technology specialty division of Beacon Hill Staffing Group, is a national IT staffing organization that operates across industries and provides contract, direct (permanent), consulting and project management services to top companies and their IT departments."
+    extra: ""
+  venues:
+    gj:
+      short: "GJ" # WELABS || GJ
+      name: "Gunn|Jerkens"
+      image: "/images/GunnJerkins-Offices.jpg"
+      logo: "/images/logos/gj.jpg"
+      twitter: "gunnjerkens"
+      desc: "Gunn | Jerkens, we've got a passion for creating new innovative marketing, branding and interactive web based solutions for our growing client base."
+      extra: ""
+    welabs:
+      short: "WELABS" # WELABS || GJ
+      name: "WE Labs"
+      logo: ""
+      image: ""
+      twitter: "_WELABS"
+      desc: "WE LABS is awesome coworking in Long Beach"
+      extra: ""
+  prize:
+    pearson:
+      name: "Pearson | Peachpit | InformIT"
+      image: ""
+      logo: "/images/logos/pearson-peachpit-informit.png"
+      twitter: "informit"
+      desc: "**PEARSON:** Helping to build a better world through education. **PEACHPIT:** Peachpit offers unique learning experiences in photography, graphic design, Web design & development, & more.  **InformIT:** is home to the world's leading technology publishers."
+      extra: "Prizes are provided to *WAPRO* free of charge as an opportunity for our members to sample thier quality learning materials and in the process for the publisher to improve their materials.  To do this, all they ask in return is for our winners to please share a review.  Good examples of reviews can be found [here](http://www.amazon.com/review/R1YE2E39KV55DM/ref=cm_cr_rdp_perm?ie=UTF8&ASIN=0735683204), [here](http://www.amazon.com/review/R38DIMKQM0HR4A/ref=cm_cr_rdp_perm?ie=UTF8&ASIN=0133892387) and [here](http://www.amazon.com/review/R173FKSQ80UWS2/ref=cm_cr_rdp_perm). **Note:** Pearson is looking for open, honest and constructive reviews. If you dig the title, cool. If you don't dig it, also cool. Honesty and constructive feedback is what matters. Please send a link of the review using [contact info](/contact/) so it can be documented, possibly shared by uncoded.org, and help us maintain relations to obtain future prizes"
+
+
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
+base.twitter: "https://twitter.com/"
+base.fb: "https://facebook.com/"
 markdown: redcarpet
 highlighter: pygments
 permalink: /:categories/:year/:month/
