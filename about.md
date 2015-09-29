@@ -10,16 +10,15 @@ This site is hosted from our [github repository](https://github.com/uncodedlb/un
 
 ## Contact Info
 
+We're open to all kinds of feedback.  Do you like what we're doing?  Don't like something?  Want to get involved and help?  Mike organizes the monthly WAPRO meetup.  Please connect with him if you're interested in presenting, have an announcement, or other feedback.
+
 Mike Stewart [@MediaDoneRight](https://twitter.com/MediaDoneRight) | <a href="tel:+15629992724">562-999-2724</a> voice / text  
 
-Mike organizes the monthly WAPRO meetup.  Please connect with him if you're interested in presenting, have an announcement, or other feedback.
 
+### It's Nice to Share
 
-### Connect With Us
+{% include svg-icons.html %}
 
-- IRC:  [#uncodedlb](http://webchat.freenode.net/?nick=uncoded-guest&channels=%23css%2C%23sass%2C%23less%2C%23atom%2C%23node.js%2C%23io.js%2C%23drupal%2C%23nginx%2C%23uncodedlb&prompt=1&uio=OT10cnVlJjEwPXRydWU3a) -- realtime help
-- Twitter:  [@uncodedlb](https://twitter.com/uncodedlb) -- hastag #wapro / #uncoded
-- GitHub:  [github.com/Uncodedlb](https://github.com/uncodedlb/) -- Shared public repo's for collaboration
 
 
 ## Get Involved!
