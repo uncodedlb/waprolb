@@ -100,8 +100,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="429.7702"
-     inkscape:cy="17.346987"
+     inkscape:cx="321.22931"
+     inkscape:cy="191.31289"
      inkscape:document-units="in"
      inkscape:current-layer="g5783"
      showgrid="false"
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -986,7 +986,7 @@
            id="tspan4499"
            y="577.1394"
            x="395.26636"
-           sodipodi:role="line">Oct 6 | Nov 3</tspan></text>
+           sodipodi:role="line">Nov 3 | Dec 1</tspan></text>
       <text
          transform="scale(0.99912895,1.0008718)"
          xml:space="preserve"

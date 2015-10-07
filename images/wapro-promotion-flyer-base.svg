@@ -15,7 +15,8 @@
    viewBox="0 0 342.69388 674.69517"
    id="svg6294"
    version="1.1"
-   inkscape:version="0.91 r">
+   inkscape:version="0.91 r"
+   sodipodi:docname="wapro-promotion-flyer-base.svg">
   <defs
      id="defs6296">
     <linearGradient
@@ -98,9 +99,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-120.13239"
-     inkscape:cy="474.73055"
+     inkscape:zoom="2.8"
+     inkscape:cx="189.36675"
+     inkscape:cy="84.046199"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -121,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -946,7 +947,7 @@
          id="tspan4499"
          y="991.75433"
          x="188.09048"
-         sodipodi:role="line">Oct 6 | Nov 3</tspan></text>
+         sodipodi:role="line">Nov 3 | Dec 1</tspan></text>
     <text
        transform="scale(0.99912895,1.0008718)"
        xml:space="preserve"
