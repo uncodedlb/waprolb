@@ -6,7 +6,7 @@ tags: ["", "", "", ""]
 meeting_time: "6:30-9p"
 venue: "" # WELABS || GJ
 venue_image: ""
-rsvp: "" # "http://www.meetup.com/Uncoded/events/225429587/"
+rsvp: "http://www.meetup.com/uncoded/events" # "http://www.meetup.com/Uncoded/events/225429587/"
 #redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
@@ -41,7 +41,7 @@ speaker3:
 ---
 
 **Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
-<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">
+{% if page.venue_image != "" %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
 ## TALKS THIS MONTH  
 The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)) group meets monthly to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!
@@ -70,7 +70,7 @@ Every month we come together to:
 
 We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Want to see something in particual?  Let us know by tweeting using the hash #WAPRO.  
 
-**Future meetup dates:**  10/6  ⛅  11/3  ⛈  12/1  ☔  1/5  ☃
+**Future meetup dates:**  ⛅  11/10  ⛈  12/1  ☔  1/5  ☃
 
 If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us! Our meetups are FREE and open to [EVERYONE](https://github.com/uncodedlb/uncoded-policies).
 

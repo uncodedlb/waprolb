@@ -1,34 +1,36 @@
 ---
 # Fill-in Speaker1, Speaker2, & Speaker3 info below.
 # Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup – Month"
-tags: ["", "", "", ""]
+title: "Web & Application Professionals Meetup – Nov 10 (Date Change!)"
+tags: ["docker", "bootstrap", "Tom Friedhof", "Mike Stewart"]
 meeting_time: "6:30-9p"
 venue: "WELABS" # WELABS || GJ
 venue_image: ""
-rsvp: "" # "http://www.meetup.com/Uncoded/events/225429587/"
+rsvp: "http://www.meetup.com/Uncoded/events/" # "http://www.meetup.com/Uncoded/events/225429587/"
 redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
-published: false
+published: true
 speaker1:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  name: "Tom Friedhof / Senior Developer"               # Speaker Full Name
+  twt_name: "ActiveLAMP"           # Twitter Handle, sans @
+  company: "ActiveLAMP<br>
+**Phone:** 310.943.0246 ext 102<br>
+6080 Center Drive #600, Los Angeles, CA 90045"            # Speakers Employer
+  bio_img_path: "/images/people/tom-friedhof.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  bio_desc: "Tom has been designing and developing for the web since 2002 and got involved with Drupal in 2006. Previously he worked as a systems administrator for a large mortgage bank, managing servers and workstations, which is where he discovered his passion for automation and scripting. On his free time he enjoys camping with his wife and three kids."           # Speaker Biography. markdown ok.
+  presentation_title: "Introduction to Docker" # Catchy Title of Presentation.
+  presentation_desc: "Tom will introduce the in-and-outs of Docker and the basics on how to use for building websites and applications."  # Full Description of talk.  markdown ok.
 speaker2:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  name: "Mike Stewart"               # Speaker Full Name
+  twt_name: "MediaDoneRight"           # Twitter Handle, sans @
+  company: "www.MediaDoneRight.com"            # Speakers Employer
+  bio_desc: "A long time open source evangelist, community organizer, and resident of Long Beach. Stewart started his career in enterprise I.T. implementing projects such as: _Customer Relationship Management_, _Engineering Document Management_, and _ERP Systems_. His knowledge of Microsoft technologies, ERP, and manufacturing led him to employers focused on Warehouse Management Systems, Time & Attendance, and Management Execution Systems. The latter projects utilized early Microsoft web technologies which eventually led him to consulting building websites and web based applications. Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and free software in general. "           # Speaker Biography. markdown ok.
+  bio_img_path: "/images/people/mike-stewart.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "Future   HTML5 Technologies" # Catchy Title of Presentation.
+  presentation_desc: "An open discussion + some cool demo(s) about future web & application development.  I've got a lot on my mind ranging from _Living Styleguides_, _Bootstrap 4_, _Web Components_, and _Nextgen Content Management Systems_ such as ([GRAV](http://getgrav.org/), [Bolt](https://bolt.cm/features), [BackBee](http://www.backbee.com), and [Drupal 8](https://www.drupal.org/drupal-8.0)).  What will the effect be on future website and app development?  How will these technologies affect workflow?  Let's share!"  # Full Description of talk.  markdown ok.
 speaker3:
   name: ""               # Speaker Full Name
   twt_name: ""           # Twitter Handle, sans @
@@ -38,10 +40,25 @@ speaker3:
   presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
   presentation_title: "" # Catchy Title of Presentation.
   presentation_desc: ""  # Full Description of talk.  markdown ok.
+sponsors:
+  food:
+    name: ""
+    logo: ""
+    twitter: ""
+    desc: ""
+    extra: ""
+  prize:
+    pearson:
+      name: ""
+      image: ""
+      logo: ""
+      twitter: ""
+      desc: ""
+      extra: ""
 ---
 
 **Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
-<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">
+{% if page.venue_image != "" %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
 ## TALKS THIS MONTH  
 The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)) group meets monthly to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!
@@ -115,29 +132,13 @@ If you have interest or work in Web or Application Development, add our meetup t
 
 
 
-### PRIZES!  
-
-We have prizes!  Want to win?  Help us connect with more local tech folk by sharing on your social networks.  This has the benefit of growing your own professional network, too! The person with the most social shares promoting the meetup (tweets+retweets, fb likes/shares, etc) this month which include the hash [**#WAPRO**](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded) and/or **[#UNCODED](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)** will win their choice of prize offerings.  *Minimum of six shares over at least three different dates.  At the discretion of the crowd in attendance, we may give away multiple prizes if the crowd votes that many people have gone above & beyond to help spread the news.  Please share & promote in [good taste. ☺](https://github.com/uncodedlb/uncoded-policies)*
-
-
 ## SPONSORS
 
 Our sponsors help make our meetups awesome! They feed us, provide a place to gather, share, & learn from eachother, and some even give us cool things to giveaway!  Take a moment to thank them, click their logo to visit their twitter/facebook account... and thank them publicly.  *(Please, use hash __#WAPRO__)*
 
+{% if page.sponsors.food.name != "" %}
 ### FOOD & BEVERAGES
-
-{% if site.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.food.logo }}' alt='{{ site.sponsors.food.name }}'></a>{% endif %}
-<p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank">{{ site.sponsors.food.name }}</a>.  {{ site.sponsors.food.desc }}</p>
-{% if site.sponsors.food.extra %}<p>{{ site.sponsors.food.extra }}</p>{% endif %}
-
-### VENUE SPONSOR
-
-{% if site.sponsors.venues.gj.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.venues.gj.logo }}' alt='{{ site.sponsors.venues.gj.name }}'></a>{% endif %}
-<p>Our venue host this month is courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank">{{ site.sponsors.venues.gj.name }}</a>.  {{ site.sponsors.venues.gj.desc }}</p>
-{% if site.sponsors.venues.gj.extra %}<p>{{ site.sponsors.venues.gj.extra }}</p>{% endif %}
-
-### PRIZES
-
-{% if site.sponsors.prize.pearson.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.prize.pearson.logo }}' alt='{{ site.sponsors.prize.pearson.name }}'></a>{% endif %}
-<p>Prizes this month are being provided courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.prize.pearson.twitter }}" target="_blank">{{ site.sponsors.prize.pearson.name }}</a>.  {{ site.sponsors.prize.pearson.desc }}</p>
-{% if site.sponsors.prize.pearson.extra %}<p>{{ site.sponsors.prize.pearson.extra }}</p>{% endif %}
+{% endif %}
+{% if page.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ page.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ page.sponsors.food.logo }}' alt='{{ page.sponsors.food.name }}'></a>
+<p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ page.sponsors.food.twitter }}" target="_blank">{{ page.sponsors.food.name }}</a>.  {{ page.sponsors.food.desc }}</p>{% endif %}
+{% if page.sponsors.food.extra %}<p>{{ page.sponsors.food.extra }}</p>{% endif %}
