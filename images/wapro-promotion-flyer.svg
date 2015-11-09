@@ -100,8 +100,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="681.82456"
-     inkscape:cy="472.74138"
+     inkscape:cx="464.74278"
+     inkscape:cy="469.91295"
      inkscape:document-units="in"
      inkscape:current-layer="g4640"
      showgrid="false"
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -990,7 +990,7 @@
              x="395.26636"
              y="577.1394"
              id="tspan4499"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:Aldrich;-inkscape-font-specification:Aldrich;fill:#ffffff">Nov 3 | Dec 1</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:Aldrich;-inkscape-font-specification:Aldrich;fill:#ffffff">Nov 10 | Dec 1</tspan></text>
         <text
            inkscape:export-ydpi="300.00198"
            inkscape:export-xdpi="300.00198"
