@@ -21,13 +21,15 @@ speaker1:
   presentation_desc: ""  # Full Description of talk.  markdown ok.
   twt_name: ""           # Twitter Handle, sans @
 speaker2:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
+  name: "Roger Howard"               # Speaker Full Name
+  twt_name: "rogerhoward"           # Twitter Handle, sans @
+  company: "CritiqueIT"            # Speakers Employer
+  bio_desc: "Roger Howard is an accomplished technology architect and software developer with a focus on  the intersection of creative media and technology. After more than fifteen years in senior roles at iconic organizations such as The Getty, Blizzard, and Playboy, Roger traded in the comfortable confines of corporate culture to follow his passions and need for self-determination.
+
+  He currently serves as the CTO for Critique­it, a hometown startup, and provides strategic technology consulting and software development services to non­profits such as museums and charities. Roger has too many side projects and interests, and not enough hours in the day."           # Speaker Biography. markdown ok.
+  bio_img_path: "/images/people/roger-howard.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "AWS + DEVOPS (details forthcoming)" # Catchy Title of Presentation.
   presentation_desc: ""  # Full Description of talk.  markdown ok.
 speaker3:
   name: ""               # Speaker Full Name
