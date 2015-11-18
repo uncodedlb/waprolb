@@ -1,35 +1,34 @@
 ---
 # Fill-in Speaker1, Speaker2, & Speaker3 info below.
 # Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup – Nov 10 (Date Change!)"
-tags: ["docker", "bootstrap", "Tom Friedhof", "Mike Stewart"]
+title: "Web & Application Professionals Meetup – Dec 1"
+tags: ["Katie Phillips"]
 meeting_time: "6:30-9p"
-venue: "WELABS" # WELABS || GJ
-venue_image: ""
+venue: "GJ" # WELABS || GJ
+venue_image: "/images/GunnJerkins-Offices-Door.jpg"
 rsvp: "http://www.meetup.com/Uncoded/events/" # "http://www.meetup.com/Uncoded/events/225429587/"
+redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true
 speaker1:
-  name: "Tom Friedhof / Senior Developer"               # Speaker Full Name
-  twt_name: "ActiveLAMP"           # Twitter Handle, sans @
-  company: "ActiveLAMP<br>
-**Phone:** 310.943.0246 ext 102<br>
-6080 Center Drive #600, Los Angeles, CA 90045"            # Speakers Employer
-  bio_img_path: "/images/people/tom-friedhof.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  bio_desc: "Tom has been designing and developing for the web since 2002 and got involved with Drupal in 2006. Previously he worked as a systems administrator for a large mortgage bank, managing servers and workstations, which is where he discovered his passion for automation and scripting. On his free time he enjoys camping with his wife and three kids."           # Speaker Biography. markdown ok.
-  presentation_title: "Introduction to Docker" # Catchy Title of Presentation.
-  presentation_desc: "Tom will introduce the in-and-outs of Docker and the basics on how to use for building websites and applications."  # Full Description of talk.  markdown ok.
+  name: "Katie Phillips"                 # Speaker Full Name
+  company: "Katie Phillips Design"       # Speakers Employer
+  presentation_type: "PRESENTATION"      # PRESENTATION || SHOWCASE || DEMO || PANEL
+  bio_img_path: "/images/people/katie-phillips.jpg"  
+  bio_desc: ""           # Speaker Biography. markdown ok.
+  presentation_title: "Why You Should Move That Button 3 Pixels To The Left" # Catchy Title of Presentation.
+  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  twt_name: ""           # Twitter Handle, sans @
 speaker2:
-  name: "Mike Stewart"               # Speaker Full Name
-  twt_name: "MediaDoneRight"           # Twitter Handle, sans @
-  company: "www.MediaDoneRight.com"            # Speakers Employer
-  bio_desc: "A long time open source evangelist, community organizer, and resident of Long Beach. Stewart started his career in enterprise I.T. implementing projects such as: _Customer Relationship Management_, _Engineering Document Management_, and _ERP Systems_. His knowledge of Microsoft technologies, ERP, and manufacturing led him to employers focused on Warehouse Management Systems, Time & Attendance, and Management Execution Systems. The latter projects utilized early Microsoft web technologies which eventually led him to consulting building websites and web based applications. Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and free software in general. "           # Speaker Biography. markdown ok.
-  bio_img_path: "/images/people/mike-stewart.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "Future   HTML5 Technologies" # Catchy Title of Presentation.
-  presentation_desc: "An open discussion + some cool demo(s) about future web & application development.  I've got a lot on my mind ranging from _Living Styleguides_, _Bootstrap 4_, _Web Components_, and _Nextgen Content Management Systems_ such as ([GRAV](http://getgrav.org/), [Bolt](https://bolt.cm/features), [BackBee](http://www.backbee.com), and [Drupal 8](https://www.drupal.org/drupal-8.0)).  What will the effect be on future website and app development?  How will these technologies affect workflow?  Let's share!"  # Full Description of talk.  markdown ok.
+  name: ""               # Speaker Full Name
+  twt_name: ""           # Twitter Handle, sans @
+  company: ""            # Speakers Employer
+  bio_desc: ""           # Speaker Biography. markdown ok.
+  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "" # Catchy Title of Presentation.
+  presentation_desc: ""  # Full Description of talk.  markdown ok.
 speaker3:
   name: ""               # Speaker Full Name
   twt_name: ""           # Twitter Handle, sans @
