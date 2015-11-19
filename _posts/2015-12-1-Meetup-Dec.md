@@ -16,9 +16,9 @@ speaker1:
   company: "Katie Phillips Design"       # Speakers Employer
   presentation_type: "PRESENTATION"      # PRESENTATION || SHOWCASE || DEMO || PANEL
   bio_img_path: "/images/people/katie-phillips.jpg"  
-  bio_desc: ""           # Speaker Biography. markdown ok.
+  bio_desc: "Katie Phillips is a locally-based graphic designer with over 15 years experience in web and print. She has worked with FOX on American Idol Season 8 and 9's website design, was art director for Edge Music Network's website, and has worked for Fortune 500 companies such as Macy's, Target, Bloomingdales, Wal-Mart, Sony, Warner Bros. She's also worked with celebrities such as rapper Too Short, singer-songwriter Leonard Cohen, and rock idol Steven Tyler of Aerosmith. She graduated Otis College of Art and Design in 2000 with a BFA in Illustration and began her own design company, Katie Phillips Design, in 2012. Katie is passionate about design and details and loves design make-overs. When she's not at the computer you can find her hanging out with her art collective Squeeze, painting, hiking, and networking!"           # Speaker Biography. markdown ok.
   presentation_title: "Why You Should Move That Button 3 Pixels To The Left" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  presentation_desc: "Why is it so important to fix small design bugs? Will it really improve the product that much? YES. A trust-worthy website is both functional and shows aligned elements along with elegant interactions. Learn more about how you can work with your designer to create gorgeous, functional websites with designer Katie Phillips."  # Full Description of talk.  markdown ok.
   twt_name: ""           # Twitter Handle, sans @
 speaker2:
   name: "Roger Howard"               # Speaker Full Name
