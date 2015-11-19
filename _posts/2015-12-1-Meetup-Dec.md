@@ -5,7 +5,7 @@ title: "Web & Application Professionals Meetup – Dec 1"
 tags: ["Katie Phillips"]
 meeting_time: "6:30-9p"
 venue: "GJ" # WELABS || GJ
-venue_image: "/images/GunnJerkins-Offices-Door.jpg"
+venue_image: "/images/GJ-presentation.jpeg"
 rsvp: "http://www.meetup.com/Uncoded/events/226862884/" # "http://www.meetup.com/Uncoded/events/225429587/"
 redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
