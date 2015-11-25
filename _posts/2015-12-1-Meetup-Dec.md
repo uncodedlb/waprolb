@@ -32,14 +32,14 @@ speaker2:
   presentation_title: "AWS + DEVOPS (details forthcoming)" # Catchy Title of Presentation.
   presentation_desc: ""  # Full Description of talk.  markdown ok.
 speaker3:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  name: "Steve Kochan"               # Speaker Full Name
+  twt_name: "COMFREIGHT"           # Twitter Handle, sans @
+  company: "Gunn|Jerkens"            # Speakers Employer
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  bio_desc: "Steve Kochan is the Project Manager at Gunn Jerkens, Founder and CEO of ComFreight.com (a bootstrapped and recently profitable SaaS startup from Long Beach) and former Executive Director of LB Tech."
+  bio_img_path: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAPHAAAAJGUyMTBmNzNhLTI5NjgtNDVjZC04NmVjLThmN2NhODRiZDcyNQ.jpg"
+  presentation_title: "Fail Less, Validate Faster"
+  presentation_desc: "Explanation of quicks ways to validate a business or application idea using quick to deploy forms or landing pages and a small paid advertising budget using PPC to find out if that idea is really worth doing. Find out if your idea has actual interest and initial traction and quickly ascertain your initial cost per acquisition before building the entire product. Intro to product marketing research."
 sponsors:
   food:
     name: ""
