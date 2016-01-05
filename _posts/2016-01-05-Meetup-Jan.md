@@ -6,7 +6,8 @@ tags: ["Patrick Goddard", "Drupal", "John Boranprasit", "Charity Distribution"]
 meeting_time: "7-9p"
 venue: "WELABS" # WELABS || GJ
 venue_image: ""
-rsvp: "http://www.meetup.com/Uncoded/events/" # "http://www.meetup.com/Uncoded/events/225429587/"
+redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
+rsvp: "http://www.meetup.com/Uncoded/events/227624634/" # "http://www.meetup.com/Uncoded/events/225429587/"
 categories: meetup
 layout: post
 published: true
