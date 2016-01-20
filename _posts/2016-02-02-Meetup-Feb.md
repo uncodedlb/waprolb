@@ -5,7 +5,7 @@ title: "Web & Application Professionals Meetup – Feb"
 tags: ["SEO", "Steve Kochan", "", ""]
 meeting_time: "7-9p"
 venue: "GJ" # WELABS || GJ
-venue_image: "/images/GJ-presentation.jpeg"
+venue_image: ""
 rsvp: "http://www.meetup.com/uncoded/events" # "http://www.meetup.com/Uncoded/events/225429587/"
 redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
