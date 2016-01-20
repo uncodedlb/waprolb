@@ -1,16 +1,16 @@
 ---
 # Fill-in Speaker1, Speaker2, & Speaker3 info below.
 # Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup – Month"
-tags: ["SEO", "Steve Kochn", "", ""]
+title: "Web & Application Professionals Meetup – Feb"
+tags: ["SEO", "Steve Kochan", "", ""]
 meeting_time: "7-9p"
 venue: "GJ" # WELABS || GJ
-venue_image: ""
+venue_image: "/images/GJ-presentation.jpeg"
 rsvp: "http://www.meetup.com/uncoded/events" # "http://www.meetup.com/Uncoded/events/225429587/"
 redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
-published: false
+published: true
 speaker1:
   name: "Steve Kochan"               # Speaker Full Name
   twt_name: "COMFREIGHT"           # Twitter Handle, sans @
