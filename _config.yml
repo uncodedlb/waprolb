@@ -60,7 +60,7 @@ google_analytics: UA-60220524-5
 sponsors:
   food:
     name: Beacon Hill
-    logo: "/images/logos/beaconhill.png"
+    logo: "" #"/images/logos/beaconhill.png"
     twitter: "BHStaffingGroup"
     desc: "Beacon Hill Technologies, the technology specialty division of Beacon Hill Staffing Group, is a national IT staffing organization that operates across industries and provides contract, direct (permanent), consulting and project management services to top companies and their IT departments."
     extra: ""

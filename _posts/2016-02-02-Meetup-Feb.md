@@ -126,7 +126,7 @@ Our sponsors help make our meetups awesome! They feed us, provide a place to gat
 
 ### FOOD & BEVERAGES
 
-{% if page.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.food.logo }}' alt='{{ site.sponsors.food.name }}'></a>{% endif %}
+{% if site.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.food.logo }}' alt='{{ site.sponsors.food.name }}'></a>{% endif %}
 <p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank">{{ site.sponsors.food.name }}</a>.  {{ site.sponsors.food.desc }}</p>
 {% if site.sponsors.food.extra %}<p>{{ site.sponsors.food.extra }}</p>{% endif %}
 
