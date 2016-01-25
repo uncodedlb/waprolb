@@ -16,7 +16,7 @@ speaker1:
   twt_name: "jeffalgera"           # Twitter Handle, sans @
   company: "Principal.la"            # Speakers Employer
   bio_desc: "Jeff Algera is a software developer turned entrepreneur.  Founding [Principal](http://principal.la) in 2014, Jeff has been active in the startup community to deliver new mobile apps to market."  # Speaker Biography. markdown ok.
-  bio_img_path: "/images/people/jeffalgera.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  bio_img_path: "/images/people/jeff-algera.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
   presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
   presentation_title: "From Idea to App Store" # Catchy Title of Presentation.
   presentation_desc: "Ever have an app idea?  Wonder what it takes to get that app idea developed and into the hands of the consumer?  We at Principal create apps for both startups and established ventures.  We’ll walk you through our development process and talk about our experience."  # Full Description of talk.  markdown ok.
