@@ -12,6 +12,15 @@ categories: meetup
 layout: post
 published: true
 speaker1:
+  name: "Jeff Algera"               # Speaker Full Name
+  twt_name: "jeffalgera"           # Twitter Handle, sans @
+  company: "Principal.la"            # Speakers Employer
+  bio_desc: "Jeff Algera is a software developer turned entrepreneur.  Founding [Principal](http://principal.la) in 2014, Jeff has been active in the startup community to deliver new mobile apps to market."  # Speaker Biography. markdown ok.
+  bio_img_path: "/images/jeffalgera.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: "From Idea to App Store" # Catchy Title of Presentation.
+  presentation_desc: "Ever have an app idea?  Wonder what it takes to get that app idea developed and into the hands of the consumer?  We at Principal create apps for both startups and established ventures.  We’ll walk you through our development process and talk about our experience."  # Full Description of talk.  markdown ok.
+speaker2:
   name: "Steve Kochan"               # Speaker Full Name
   twt_name: "COMFREIGHT"           # Twitter Handle, sans @
   company: "Gunn|Jerkens"            # Speakers Employer
@@ -20,15 +29,6 @@ speaker1:
   bio_img_path: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAPHAAAAJGUyMTBmNzNhLTI5NjgtNDVjZC04NmVjLThmN2NhODRiZDcyNQ.jpg"
   presentation_title: "Analytics: Fail Less, Validate Faster (Part II)"
   presentation_desc: "Part two of an explanation of quicks ways to validate a business or application idea using quick to deploy forms or landing pages and a small paid advertising budget using PPC to find out if that idea is really worth doing. Find out if your idea has actual interest and initial traction and quickly ascertain your initial cost per acquisition before building the entire product. Intro to product marketing research."
-speaker2:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
 speaker3:
   name: ""               # Speaker Full Name
   twt_name: ""           # Twitter Handle, sans @
