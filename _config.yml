@@ -99,7 +99,7 @@ base:
   twitter: "https://twitter.com/"
   fb: "https://facebook.com/"
 #markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:categories/:year/:month/
 
 # The release of Jekyll Now that you're using
