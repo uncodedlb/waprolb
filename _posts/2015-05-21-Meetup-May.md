@@ -14,7 +14,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 
 ### RSVP
 
-- [j.mp/WAPRO-1505-rsvp](http://j.mp/WAPRO-1505-rsvp)
+- [RSVP](http://www.meetup.com/lbtech/events/222329526/)
 
 ### TALKS THIS MONTH  
 - Allen Eubank - [MeteorJS](https://twitter.com/alleneubank), A DEMO AND WALKTHROUGH
@@ -57,7 +57,7 @@ We like open source, it runs the web.  Our meetups are focused on the life-cycle
 ### OVERVIEW OF PRESENTATIONS
 
 **Demo**
-[MeteorJS](http://meteor.com), A DEMO AND WALKTHROUGH  
+[MeteorJS](https://www.meteor.com/), A DEMO AND WALKTHROUGH  
 
 Demo a Meteor application. Learn about the 7 principles of Meteor and why Meteor rocks as a platform for the web.
 
@@ -66,11 +66,11 @@ Demo a Meteor application. Learn about the 7 principles of Meteor and why Meteor
 Tinkers with software. Contributes to open source. Solves client problems at [Basis Worldwide](http://basisworldwide.com). Prints peoples favorite memories on [Memorita](http://memorita.com). Passion is helping people.  
 
 **Presentation**  
-WHAT HAPPENS AFTER AN AWESOME [MeteorJS](http://meteor.com) DEMO?  
+WHAT HAPPENS AFTER AN AWESOME [MeteorJS](https://www.meteor.com/) DEMO?  
 
 Meteor is a new technology with a huge package selection. Let's take that awesome MeteorJS demo and deploy it, make it super fast, checkout its performance, and make it SEO friendly.
 
-> ### Daniel Romero [@dannys_io](TWITTER)  
+> ### Daniel Romero [@dannys_io](https://www.twitter.com/dannys_io)  
 > <img src="{{ site.baseurl }}/images/people/Danny-Romero.jpg" alt="Daniel Romero" class="headshot">
 > Former Chipotle Cook turned Junior Web Developer with emphasis on the Front End. Trying to find a good gig. Visuals is my thing. Finding ways to learn from others and share what I know.  
 
@@ -103,8 +103,8 @@ TBA
 
 ### RSVP  
 
-- [j.mp/WAPRO-1505-rsvp](http://j.mp/WAPRO-1505-rsvp)
+- [j.mp/WAPRO-1505-rsvp](http://www.meetup.com/lbtech/events/222329526/)
 
 ### PLEASE SHARE  
 
-[j.mp/WAPRO-1505](http://j.mp/WAPRO-1505)  #WAPRO #uncoded @uncodedlb
+[j.mp/WAPRO-1505](http://www.meetup.com/lbtech/events/222329526/)  #WAPRO #uncoded @uncodedlb

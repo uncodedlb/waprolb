@@ -61,7 +61,7 @@ Presentation description goes here.
 > Solopreneur operating on the fringe
 
 **PRESENTATION**  
-[GITFlow](), I THINK YOU'RE DOING IT WRONG  
+[GITFlow](http://nvie.com/posts/a-successful-git-branching-model/), I THINK YOU'RE DOING IT WRONG  
 
 A pragmatic talk on GIT. (Part 2) #workflow.  #secretsauce.  
 

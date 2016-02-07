@@ -31,7 +31,7 @@ speaker2:
   presentation_desc: "I'll go over the general requirements for accessibility you need to take into consideration when building a website:<ul><li>The standards of [WCAG 2.0](http://www.w3.org/TR/WCAG20/) and [Section 508](http://www.hhs.gov/web/section-508/index.html), and scanners to help you achieve them</li><li>Tools you can use in Drupal and outside of it to still have an awesome website while being accessible</li><li>The benefits of accessibility beyond being socially responsible and legally compliant</li></ul>"  # Full Description of talk.  markdown ok.
 speaker3:
   name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
+  twt_name: "waprolb"           # Twitter Handle, sans @
   company: ""            # Speakers Employer
   bio_desc: ""           # Speaker Biography. markdown ok.
   bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
@@ -48,7 +48,7 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 
 {% if page.speaker1.presentation_title != ""  %}- {{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }})) – {{ page.speaker1.presentation_title }}  {% endif %}
 {% if page.speaker2.presentation_title != ""  %}- {{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }})) – {{ page.speaker2.presentation_title }}  {% endif %}
-{% if page.speaker3.presentation_title != ""  %}- {{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }})) – {{ page.speaker3.presentation_title }}  {% endif %}
+{% if page.speaker3.presentation_title != ""  %}- {{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}](https://twitter.com/{{ page.speaker3.twt_name }})) – {{ page.speaker3.presentation_title }}  {% endif %}
 - [PLEASE R.S.V.P.]({{ page.rsvp }})
 
 ##VALUE
@@ -58,7 +58,7 @@ Tech moves too fast to keep up on everything yourself.  There's always someone f
 
 ##TOPICS
 
-The Pros that have worked on/for projects such as Spacex, Riot Games, X-prize, Adobe, Toyota Motor Sports, VMWare, UCLA, CSULB, AARP, and more ... have shared amazing talks this year on tech and projects such as [Bootstrap](http://getbootstrap.com/), [Bower](http://bower.io), [Browserfy](http://browserify.org/), [Headless Drupal](https://github.com/davidhwang/horseman), [iOS Swift](https://developer.apple.com/swift/), [Jekyll](http://jekyllrb.com), [Meteor](https://www.meteor.com/), [Node.js](http://iojs.org), [SASS](http://sass-lang.com/), [Sculpin](http://sculpin.io), [Zapier](http://zapier.com) and more.
+The Pros that have worked on/for projects such as Spacex, Riot Games, X-prize, Adobe, Toyota Motor Sports, VMWare, UCLA, CSULB, AARP, and more ... have shared amazing talks this year on tech and projects such as [Bootstrap](http://getbootstrap.com/), [Bower](http://bower.io), [Browserfy](http://browserify.org/), [Headless Drupal](https://github.com/davidhwang/horseman), [iOS Swift](https://developer.apple.com/swift/), [Jekyll](http://jekyllrb.com), [Meteor](https://www.meteor.com/), [Node.js](https://iojs.org/en/), [SASS](http://sass-lang.com/), [Sculpin](http://sculpin.io), [Zapier](http://zapier.com) and more.
 
 Every month we come together to:
 

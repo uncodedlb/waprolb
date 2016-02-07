@@ -17,7 +17,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 - James Polanco - React, WHY I MOVED TO REACT
 - Chris Charlton - GITflow, I THINK YOU'RE DOING IT WRONG
 
-RSVP:  [j.mp/WAPRO-1506-rsvp](http://j.mp/WAPRO-1506-rsvp)
+RSVP:  [j.mp/WAPRO-1506-rsvp](http://www.meetup.com/lbtech/events/222329526/)
 
 ### AGENDA
 - Setup and Introductions (10min)
@@ -44,7 +44,7 @@ Long Beach, CA 90808
 - MAP LINK: [Map](https://goo.gl/maps/FdT79)
 - Directions from 405 FWY at Lakewood: [Directions](https://goo.gl/maps/mevZS)
 - Instructions: Gunn-Jerkins building is on the South-East corner of Cover + Schaufele. Enter driveway on Shaufele (just South of Cover), then first building on left at the SE corner of the building. If you have any trouble finding the office, please call: 562-499-6707.
-- [Please RSVP](http://j.mp/WAPRO-1506-rsvp)
+- [Please RSVP](http://www.meetup.com/lbtech/events/223046990/)
 **Note:** We alternate meetup locations monthly.
 
 
@@ -65,7 +65,7 @@ A brief look at React and why it won me over as my next UI framework. We'll also
 
 
 **PRESENTATION**  
-[GITFlow](), I THINK YOU'RE DOING IT WRONG  
+[GITFlow](http://nvie.com/posts/a-successful-git-branching-model/), I THINK YOU'RE DOING IT WRONG  
 
 A pragmatic talk on GIT.  #workflow.  #secretsauce.  
 

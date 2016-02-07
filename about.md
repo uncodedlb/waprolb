@@ -24,11 +24,11 @@ Mike Stewart [@MediaDoneRight](https://twitter.com/MediaDoneRight) | <a href="te
 ## Get Involved!
 Want to contribute ideas, design, fixes, enhancements, or just a place to work on some shared code?  Join us. How?  [Post an issue in the queue](https://github.com/uncodedlb/uncodedlb.github.io/issues) and request access.  Any member can then give you full access to the Uncoded organization on github to help out or share.  From there, follow your passion and help the ways you can. Please [be considerate](https://www.drupal.org/dcoc#consideration), [be respectful](https://www.drupal.org/dcoc#respect), and [be collaborative](https://www.drupal.org/dcoc#collaboration).  When you're unsure, [ask for help](https://www.drupal.org/dcoc#ask-for-help).  When we disagree, we [consult others](https://www.drupal.org/dcoc#conflict-resolution).  And please, when you can no longer help, [step away considerately](https://www.drupal.org/dcoc#stepping-down).
 
-* [Contributing](https://github.com/uncodedlb/code-of-conduct/blob/master/CONTRIBUTING.md) - [File an issue](https://github.com/uncodedlb/uncodedlb.github.io/issues/new) or otherwise contact one of us and we'll add your github user account.  From there, jump in!
-* [Code of Conduct](https://github.com/uncodedlb/code-of-conduct/blob/master/CODE_OF_CONDUCT.md) - Based on [Contributor Covenant](http://contributor-covenant.org/).
+* [Contributing](https://github.com/orgs/uncodedlb/teams) - [File an issue](https://github.com/uncodedlb/uncodedlb.github.io/issues/new) or otherwise contact one of us and we'll add your github user account.  From there, jump in!
+* [Code of Conduct](https://github.com/uncodedlb/uncoded-policies/blob/master/UCC.md).
 
 ### Work Together
-We adhere to the [Uncoded Code of Conduct](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/CODE_OF_CONDUCT.md) based on the [Contributor Covenant](http://contributor-covenant.org), version 1.0.0, available at [http://contributor-covenant.org/version/1/0/0/](http://contributor-covenant.org/version/1/0/0/).  Before contributing, please review the [Uncoded Code of Conduct](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/CODE_OF_CONDUCT.md)
+We adhere to the [Uncoded Code of Conduct](https://github.com/uncodedlb/uncoded-policies/blob/master/UCC.md).
 
 
 ##  Call for Presentations

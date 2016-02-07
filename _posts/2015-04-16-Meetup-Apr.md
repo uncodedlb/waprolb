@@ -15,9 +15,9 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 
 ### TALKS THIS MONTH  
 * [Ashok Modi](https://twitter.com/btmash) - [ANSIBLE](http://www.ansible.com/):  BRINGING SANITY TO CONFIGURATION MANAGEMENT
-* [Jake Schmitz](https://twitter.com/schmitzmade) - DON'T DRINK THE KOOL AID, DRINK THE [ELIXIR](http://elixir-lang.org/)
+* [Jake Schmitz](https://twitter.com/schmittyjd) - DON'T DRINK THE KOOL AID, DRINK THE [ELIXIR](http://elixir-lang.org/)
 * [Roger Howard](https://twitter.com/rogerhoward) - ON BEING A PYTHONISTA AND DJANGONAUT
-* [Tom Friedhof](https://twitter.com/tomfriedhof) - [NODEJS](https://nodejs.org/) + [JEKYLL](http://jekyllrb.com/) + [HEROKU](https://www.heroku.com)
+* [Tom Friedhof](https://twitter.com/tomfriedhof) - [NODEJS](https://nodejs.org/en/) + [JEKYLL](http://jekyllrb.com/) + [HEROKU](https://www.heroku.com)
 
 
 ### AGENDA  
@@ -41,7 +41,7 @@ Long Beach, CA 90808
 - MAP LINK: [Map](https://goo.gl/maps/FdT79)
 - Directions from 405 FWY at Lakewood: [Directions](https://goo.gl/maps/mevZS)
 - Instructions: Gunn-Jerkins building is on the South-East corner of Cover + Schaufele. Enter driveway on Shaufele (just South of Cover), then first building on left at the SE corner of the building. If you have any trouble finding the office, please call: 562-499-6707.
-- [Please RSVP](http://www.meetup.com/uncoded/events/221625697/)
+- [Please RSVP](http://www.meetup.com/lbtech/events/221625697/)
 **Note:** We alternate meetup locations monthly.
 
 
@@ -69,7 +69,7 @@ DON'T DRINK THE KOOL AID, DRINK THE [ELIXIR](http://elixir-lang.org/)
 
 This presentation will cover how to think in a functional programming style. A brief overview of elixirs history (inception etc.). Some code examples. Q&A
 
-> ### JAKE SCHMITZ [@schmitzmade](https://twitter.com/schmitzmade)
+> ### JAKE SCHMITZ [@schmittyjd](https://twitter.com/schmittyjd)
 > <img src="{{ site.baseurl }}/images/people/jake-schmitz.jpg" alt="headshot" class="headshot">
 > Jake Schmitz is a Computer Science Major at CSULB and very involved with on-campus computer organizations such as leading SIGWEB. Additionally, he's just a young developer who loves the web and open source software. He also really loves spending time programming, climbing, surfing, and skateboarding.
 
@@ -91,7 +91,7 @@ Python has never quite been the hot language du jour, but it has a large and loy
 
 
 **PRESENTATION**  
-[NODEJS](https://nodejs.org/) + [JEKYLL](http://jekyllrb.com/) + [HEROKU](https://www.heroku.com/): BUILD AN APP IN NODEJS TO DEPLOY ON HEROKU FOR JEKYLL WEBSITE
+[NODEJS](https://nodejs.org/en/) + [JEKYLL](http://jekyllrb.com/) + [HEROKU](https://www.heroku.com/): BUILD AN APP IN NODEJS TO DEPLOY ON HEROKU FOR JEKYLL WEBSITE
 
 Tom will show how to build an app in NODEJS that can be deployed on Heroku and used in a Jekyll website.
 
@@ -111,4 +111,4 @@ Cirivello Sport Stop, directions: https://goo.gl/maps/YTawg
 * [Media Done Right](http://MediaDoneRight.com) is a boutique web shop based in Long Beach, CA.  We helped build www.spacex.com, www.amp.me, www.reddoorlivinglb.com, and more!  We will provide beverages for the meetup.
 
 
-[Please RSVP](http://www.meetup.com/uncoded/events/221625697/)
+[Please RSVP](http://www.meetup.com/lbtech/events/221625697/)

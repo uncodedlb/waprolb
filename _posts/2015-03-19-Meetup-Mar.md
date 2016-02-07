@@ -37,7 +37,7 @@ Please attend.
 
 
 **THUNDER TALK**  
-One Size fits all | Presentation by [Michael Stewart](https://twitter.com/MediaDoneRight.com).
+One Size fits all | Presentation by [Michael Stewart](https://twitter.com/MediaDoneRight).
 
 Come learn how to utilize open source tools to build world-class websites of all sizes. Do you mainly work on promotional Micro sites? Maybe you also build small websites for mom-and-pop type businesses on a tight budget? Or maybe you work for an agency creating complex enterprise sites with multilingual, multi-departmental content workflows, etc. This talk will focus on how to retool your craft with a single set of open source tools that works across platforms to meet the needs of most websites. In recent years there's been a plethora of open source technologies to either simplify and/or automate the build-out of web and applications. Everything in the development stack, including the tools and the OS can now be virtualized, automated, simplified, tested, and deployed, using a huge stack of tools that need to work together. I'll hit on some of the tools I use as well as some I've recently learned about this year at various talks. I'll primarily focus on how to use an open/free desktop utilizing only open source tools and a technology stack to build the modern standards based websites.
 

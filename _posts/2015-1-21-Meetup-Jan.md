@@ -28,7 +28,7 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 >  Faster Web App Building with Yeoman || Presentation by [Chris Charlton](http://twitter.com/charltonweb).  
 >
 >  Come learn about the Yeoman workflow, how to jumpstart webapp development, and learn about some of the tools used by web professionals.  
->  [About Chris Charlton](http://github/ccharlton)
+>  [About Chris Charlton](https://github.com/ccharlton)
 
 ---
 
@@ -73,7 +73,7 @@ We have a preference towards open-source software, especially server-side.  This
 > CMS FRAMEWORKS - [Bolt](http://bolt.cm) / [Django](http://djangoproject.com) / [{{ DRUPAL }}](https://drupal.org) / [Joomla](https://www.joomla.org) / [Radiantcms](http://radiantcms.org) / [Wordpress](https://wordpress.org) / etc  
 DEVOPS - [Ubuntu](http://ubuntu.com) / [CentOS](http://centos.org) / [Apache](http://httpd.apache.org) / [Nginx](http://nginx.org) /  [MySQL-Maria-Percona](https://en.wikipedia.org/wiki/MySQL#Related_projects) / [Jenkins](http://jenkins-ci.org) / _Virtualization:_ VMs / AWS / ownCloud / VPS / Vagrant / Puppet / Chef / Ansible / Salt / _Containerization:_ Docker / Rocket  
 BACKEND FRAMEWORKS - [Symphony](http://en.wikipedia.org/wiki/Symfony) / [Zend](http://en.wikipedia.org/wiki/Zend_Framework) / [node.js](http://en.wikipedia.org/wiki/Node.js) / [io.js](https://iojs.org) / [Lift](http://en.wikipedia.org/wiki/Lift_%28web_framework%29) / etc  
-FRONTEND TOOLS+FRAMEWORKS - [Angular](https://angularjs.org) / [Backbone](http://backbonejs.org) / [Bootstrap](http://getbootstrap.com) / [Compass](http://compass-style.org) / [Ember](http://emberjs.com) / [Foundation](http://foundation.zurb.com/) / [Less](http://lesscss.org) / [SASS](http://sass-lang.com) / [Twig]()/ [{{ YEOMAN }}](http://yeoman.io) /  etc  
+FRONTEND TOOLS+FRAMEWORKS - [Angular](https://angularjs.org) / [Backbone](http://backbonejs.org) / [Bootstrap](http://getbootstrap.com) / [Compass](http://compass-style.org) / [Ember](http://emberjs.com) / [Foundation](http://foundation.zurb.com/) / [Less](http://lesscss.org) / [SASS](http://sass-lang.com) / [Twig](http://twig.sensiolabs.org/) / [{{ YEOMAN }}](http://yeoman.io) /  etc  
 DEVELOPMENT - [Bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) / [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) / [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) / [JAVA](http://en.wikipedia.org/wiki/Java_%28programming_language%29) / [JS](http://en.wikipedia.org/wiki/JavaScript) / [{{ PHP }}](http://en.wikipedia.org/wiki/PHP) / [Python](http://en.wikipedia.org/wiki/Python_%28programming_language%29) / [Ruby](http://www.ruby-lang.org) / [Go](https://golang.org) / [Scala](http://www.scala-lang.org) / [SQL](http://en.wikipedia.org/wiki/SQL) /  etc  
 
 
@@ -83,4 +83,4 @@ DEVELOPMENT - [Bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) / [CSS]
 [Work Evolution Labratories, (WE Labs)](http://welabs.us) offers an 8,000 sqft coworking cumminty in Downtown Long Beach and graciously offered us space for the meetup.  If you're not a member and would like to check them out, they also host [$5 co-working Friday](http://www.welabs.us/events/eventdetail/962/-/5-friday) from 9a-close, checkout the details!  
 
 
-Organizer [Mike Stewart]() runs a botique web development firm, [Media Done Right](http://www.MediaDoneRight.com) based in Long Beach. He is also a resident.  Media Done Right will provide light snacks for the meetup.
+Organizer [Mike Stewart](https://www.twitter.com/mdrmike_) runs a boutique [web development firm, Media Done Right](http://www.MediaDoneRight.com) based in Long Beach. He is also a resident.  Media Done Right will provide light snacks for the meetup.
