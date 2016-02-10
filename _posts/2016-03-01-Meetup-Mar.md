@@ -45,22 +45,22 @@ speaker3:
 ---
 
 **Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
-{% if page.venue_image != "" %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
+{% if page.venue_image %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
 ## TALKS THIS MONTH  
 The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)) group meets monthly to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!
 
-{% if page.speaker1.presentation_title != ""  %}- {{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }})) – {{ page.speaker1.presentation_title }}  {% endif %}
-{% if page.speaker2.presentation_title != ""  %}- {{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }})) – {{ page.speaker2.presentation_title }}  {% endif %}
-{% if page.speaker1.presentation_title != ""  %}- {{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}]({{ site.base.twitter }}{{ page.speaker1.twt_name }})) – {{ page.speaker1.presentation_title }}  {% endif %}
-- [PLEASE R.S.V.P.]({{ page.rsvp }})
+{% if page.speaker1.presentation_title  %}1. <strong>{{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}]({{ site.base.twitter }}{{ page.speaker1.twt_name }}))</strong> – {{ page.speaker1.presentation_title }}  {% endif %}
+{% if page.speaker2.presentation_title  %}1. <strong>{{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}]({{ site.base.twitter }}{{ page.speaker2.twt_name }}))</strong> – {{ page.speaker2.presentation_title }}  {% endif %}
+{% if page.speaker3.presentation_title  %}1. <strong>{{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }}))</strong> – {{ page.speaker3.presentation_title }}  {% endif %}
+1. [PLEASE R.S.V.P.]({{ page.rsvp }})
 
-##VALUE
+## VALUE
 
 Tech moves too fast to keep up on everything yourself.  There's always someone faster, better, or smarter than you.  Come meet them, connect, and lean on community.  If you're a local business or agency, join us and encourage staff to come.  It's a great way to expand your network of folks active and connected, which leads to both new business and potential new recruits.  Everyone wins!
 
 
-##TOPICS
+## TOPICS
 
 The Pros that have worked on/for projects such as Spacex, Riot Games, X-prize, Adobe, Toyota Motor Sports, VMWare, UCLA, CSULB, AARP, and more ... have shared amazing talks this year on tech and projects such as [Bootstrap](http://getbootstrap.com/), [Bower](http://bower.io), [Browserfy](http://browserify.org/), [Headless Drupal](https://github.com/davidhwang/horseman), [iOS Swift](https://developer.apple.com/swift/), [Jekyll](http://jekyllrb.com), [Meteor](https://www.meteor.com/), [Node.js](https://iojs.org/en/), [SASS](http://sass-lang.com/), [Sculpin](http://sculpin.io), [Zapier](http://zapier.com) and more.
 
@@ -134,29 +134,29 @@ If you have interest or work in Web or Application Development, add our meetup t
 
 
 
-### PRIZES!  
+{% if page.prizes %}
+  ### PRIZES!  
 
-We have prizes!  Want to win?  Help us connect with more local tech folk by sharing on your social networks.  This has the benefit of growing your own professional network, too! The person with the most social shares promoting the meetup (tweets+retweets, fb likes/shares, etc) this month which include the hash [**#WAPRO**](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded) and/or **[#UNCODED](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)** will win their choice of prize offerings.  *Minimum of six shares over at least three different dates.  At the discretion of the crowd in attendance, we may give away multiple prizes if the crowd votes that many people have gone above & beyond to help spread the news.  Please share & promote in [good taste. ☺](https://github.com/uncodedlb/uncoded-policies)*
+  We have prizes!  Want to win?  Help us connect with more local tech folk by sharing on your social networks.  This has the benefit of growing your own professional network, too! The person with the most social shares promoting the meetup (tweets+retweets, fb likes/shares, etc) this month which include the hash [**#WAPRO**](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded) and/or **[#UNCODED](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)** will win their choice of prize offerings.  *Minimum of six shares over at least three different dates.  At the discretion of the crowd in attendance, we may give away multiple prizes if the crowd votes that many people have gone above & beyond to help spread the news.  Please share & promote in [good taste. ☺](https://github.com/uncodedlb/uncoded-policies)*
+{% endif %}
 
 
 ## SPONSORS
 
 Our sponsors help make our meetups awesome! They feed us, provide a place to gather, share, & learn from each other, and some even give us cool things to giveaway!  Take a moment to thank them, click their logo to visit their twitter/facebook account... and thank them publicly.  *(Please, use hash __#WAPRO__)*
 
-### FOOD & BEVERAGES
+{% if page.sponsors.food.logo %}
+  ### FOOD & BEVERAGES
 
-{% if site.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.food.logo }}' alt='{{ site.sponsors.food.name }}'></a>{% endif %}
-<p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank">{{ site.sponsors.food.name }}</a>.  {{ site.sponsors.food.desc }}</p>
-{% if site.sponsors.food.extra %}<p>{{ site.sponsors.food.extra }}</p>{% endif %}
+  <a href="{{ site.base.twitter }}{{ page.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ page.sponsors.food.logo }}' alt='{{ page.sponsors.food.name }}'></a>
+  <p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank">{{ site.sponsors.food.name }}</a>.  {{ site.sponsors.food.desc }}</p>
+  {% if site.sponsors.food.extra %}<p>{{ site.sponsors.food.extra }}</p>{% endif %}
+{% endif %}
 
-### VENUE SPONSOR
+{% if page.sponsors.venue.logo %}
+  ### VENUE SPONSOR
 
-{% if site.sponsors.venues.gj.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.venues.gj.logo }}' alt='{{ site.sponsors.venues.gj.name }}'></a>{% endif %}
-<p>Our venue host this month is courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank">{{ site.sponsors.venues.gj.name }}</a>.  {{ site.sponsors.venues.gj.desc }}</p>
-{% if site.sponsors.venues.gj.extra %}<p>{{ site.sponsors.venues.gj.extra }}</p>{% endif %}
-
-### PRIZES
-
-{% if site.sponsors.prize.pearson.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.prize.pearson.logo }}' alt='{{ site.sponsors.prize.pearson.name }}'></a>{% endif %}
-<p>Prizes this month are being provided courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.prize.pearson.twitter }}" target="_blank">{{ site.sponsors.prize.pearson.name }}</a>.  {{ site.sponsors.prize.pearson.desc }}</p>
-{% if site.sponsors.prize.pearson.extra %}<p>{{ site.sponsors.prize.pearson.extra }}</p>{% endif %}
+  {% if page.sponsors.venue %}<a href="{{ site.base.twitter }}{{ site.sponsors.venue.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.venue.logo }}' alt='{{ site.sponsors.venue.name }}'></a>{% endif %}
+  <p>Our venue host this month is courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank">{{ site.sponsors.venues.gj.name }}</a>.  {{ site.sponsors.venues.gj.desc }}</p>
+  {% if site.sponsors.venues.gj.extra %}<p>{{ site.sponsors.venues.gj.extra }}</p>{% endif %}
+{% endif %}
