@@ -1,43 +1,47 @@
 ---
-# Fill-in Speaker1, Speaker2, & Speaker3 info below.
+# Fill-in Speaker1, Speaker2, & speaker1 info below.
 # Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup – Feb"
-tags: ["SEO", "Steve Kochan", "Jeff Algera", "App Store"]
+title: "Web & Application Professionals Meetup – Mar"
+tags: ["", "", "", ""]
 meeting_time: "7-9p"
-venue: "GJ" # WELABS || GJ
-venue_image: ""
-rsvp: "http://www.meetup.com/uncoded/events/228231626/" # "http://www.meetup.com/Uncoded/events/225429587/"
+venue: "WELABS" # WELABS || GJ
+venue_image: "/images/WAPRO_2016_03.jpg"
+rsvp: "http://www.meetup.com/uncoded/events/" # "http://www.meetup.com/Uncoded/events/225429587/"
 #redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true
 speaker1:
-  name: "Jeff Algera"               # Speaker Full Name
-  twt_name: "jeffalgera"           # Twitter Handle, sans @
-  company: "Principal.la"            # Speakers Employer
-  bio_desc: "Jeff Algera is a software developer turned entrepreneur.  Founding [Principal](http://principal.la) in 2014, Jeff has been active in the startup community to deliver new mobile apps to market."  # Speaker Biography. markdown ok.
-  bio_img_path: "/images/people/jeff-algera.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "From Idea to App Store" # Catchy Title of Presentation.
-  presentation_desc: "Ever have an app idea?  Wonder what it takes to get that app idea developed and into the hands of the consumer?  We at Principal create apps for both startups and established ventures.  We’ll walk you through our development process and talk about our experience."  # Full Description of talk.  markdown ok.
+  name: "Nelson Abalos Jr"  
+  twt_name: "thepixelgeek"
+  ig_name: "pxlgk"
+  company: "Webflow"
+  bio_desc: "Nelson is on an endless journey to design, learn, and inspire.  He has been designing websites since the days before Geocities was bought (and ultimately discontinued) by Yahoo. During his off time you can find him either playing with his LEGO bricks, biking around town or hanging out with his family."
+  bio_img_path: "/images/people/nelson-abalos.png"
+  presentation_type: "PRESENTATION"
+  presentation_title: "Creating happiness on that bridge between Web Designers and Web Developers"
+  presentation_desc: "The old waterfall workflow to create a website from scratch has yet to evolve.  The amount of pain points that a creative team must tackle has increased significantly due to the rise of mobile devices.  In this talk, we’ll discuss these pain points, the root cause of them, and how we as a web design and development community can work together to fix it."
 speaker2:
-  name: "Steve Kochan"               # Speaker Full Name
-  twt_name: "COMFREIGHT"           # Twitter Handle, sans @
-  company: "Gunn|Jerkens"            # Speakers Employer
-  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  bio_desc: "Steve Kochan is the Project Manager at Gunn Jerkens, Founder and CEO of ComFreight.com (a bootstrapped and recently profitable SaaS startup from Long Beach) and former Executive Director of LB Tech."
-  bio_img_path: "/images/people/steve-kochan.jpg"
-  presentation_title: "Analytics: Fail Less, Validate Faster (Part II)"
-  presentation_desc: "Part two of an explanation of quicks ways to validate a business or application idea using quick to deploy forms or landing pages and a small paid advertising budget using PPC to find out if that idea is really worth doing. Find out if your idea has actual interest and initial traction and quickly ascertain your initial cost per acquisition before building the entire product. Intro to product marketing research."
+  name: "Karim Amer"
+  twt_name: "kaftoot"
+  ig_name: # if null, must be not be instantiated
+  company: "freelancer"
+  bio_img_path: "/images/people/karim-amer.jpg"
+  bio_desc: "I am Karim. I've lived half of my life between Egypt and the States. I'm a huge Manchester united fan, a web developer, and *functional programming* language enthusiast"
+  presentation_type: "DEMO"
+  presentation_title: "Restful API in Python"
+  presentation_desc: "We are going to build a restful API using DJango rest framework"
 speaker3:
-  name: ""               # Speaker Full Name
-  twt_name: ""           # Twitter Handle, sans @
-  company: ""            # Speakers Employer
-  bio_desc: ""           # Speaker Biography. markdown ok.
-  bio_img_path: ""       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: ""  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "" # Catchy Title of Presentation.
-  presentation_desc: ""  # Full Description of talk.  markdown ok.
+  name: "Loc Nguyen"
+  twt_name: "locn"
+  ig_name:  # if null, must be not be instantiated
+  company: "Production Point"
+  presentation_type: "PRESENTATION"
+  bio_desc: "Loc runs a dev shop that specializes in making software for businesses who need to build quickly for their customers. His favorite tools to juice development time are Angular, React, Node and Cordova."
+  bio_img_path: "/images/people/loc-nguyen.jpeg"
+  presentation_title: "Stair stepping ES6 and TypeScript into an Angular App"
+  presentation_desc: "Read the source of your favorite libraries and you may get lost. JavaScript illuminati and tutorial authors are talking another language now. You need to catch up while it's easy. We'll cover Webpack, the most useful syntactic sugar from ES6/TS, and refactor a 'real' Angular app."
+
 ---
 
 **Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
@@ -48,7 +52,7 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 
 {% if page.speaker1.presentation_title != ""  %}- {{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }})) – {{ page.speaker1.presentation_title }}  {% endif %}
 {% if page.speaker2.presentation_title != ""  %}- {{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }})) – {{ page.speaker2.presentation_title }}  {% endif %}
-{% if page.speaker3.presentation_title != ""  %}- {{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }})) – {{ page.speaker3.presentation_title }}  {% endif %}
+{% if page.speaker1.presentation_title != ""  %}- {{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}]({{ site.base.twitter }}{{ page.speaker1.twt_name }})) – {{ page.speaker1.presentation_title }}  {% endif %}
 - [PLEASE R.S.V.P.]({{ page.rsvp }})
 
 ##VALUE
@@ -70,7 +74,7 @@ Every month we come together to:
 
 We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Want to see something in particual?  Let us know by tweeting using the hash #WAPRO.  
 
-**Future meetup dates:**  ⛅  11/10  ⛈  12/1  ☔  1/5  ☃
+**Future meetup dates:**  🌷  4/5  🌤  5/3  ⛵  6/7  🌊
 
 If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us! Our meetups are FREE and open to [EVERYONE](https://github.com/uncodedlb/uncoded-policies).
 
@@ -78,40 +82,55 @@ If you have interest or work in Web or Application Development, add our meetup t
 {% include venue.md %}
 
 
-### DETAILS  
-{% if page.speaker1.name != "" %}
-**{{ page.speaker1.presentation_type | uppercase }}**  
-{{ page.speaker1.presentation_title | uppercase }}  
+### DETAILS
+{% if page.speaker1.name  %}
+  **{{ page.speaker1.presentation_type | uppercase }}**  
+  {{ page.speaker1.presentation_title | uppercase }}  
 
-{{ page.speaker1.presentation_desc | markdownify }}  
+  {{ page.speaker1.presentation_desc | markdownify }}  
 
-> ### {{ page.speaker1.name | markdownify }}{% if page.speaker1.company %}
-> {{ page.speaker1.company }}{% endif %}  ([@{{ page.speaker1.twt_name }}](https://twitter.com/{{ page.speaker1.twt_name }}))  
-> <img src="{{ site.baseurl }}{{ page.speaker1.bio_img_path }}" alt="headshot" class="headshot">
-> {{ page.speaker1.bio_desc | markdownify }}  
+  <blockquote>
+  <h3> {{ page.speaker1.name | markdownify }} </h3>
+
+  {% if page.speaker1.company %}<strong>{{ page.speaker1.company }}</strong>{% endif %}  {% if page.speaker1.twt_name %}<a href="https://twitter.com/{{ page.speaker1.twt_name }}">Twitter: @{{ page.speaker1.twt_name }}</a>{% endif %}
+  {% if page.speaker1.ig_name %}<a href="https://www.instagram.com/{{ page.speaker1.ig_name }}">Instagram: @{{ page.speaker1.ig_name }}</a>{% endif %}
+  <img src="{{ site.baseurl }}{{ page.speaker1.bio_img_path }}" alt="headshot" class="headshot">
+  {{ page.speaker1.bio_desc | markdownify }}  
+  </blockquote>
 {% endif %}
-{% if page.speaker2.name != ""  %}
-**{{ page.speaker2.presentation_type | uppercase }}**  
-{{ page.speaker2.presentation_title | uppercase }}
 
-{{ page.speaker2.presentation_desc | markdownify }}  
 
-> ### {{ page.speaker2.name | markdownify }}{% if page.speaker2.company %}
-> {{ page.speaker2.company }}{% endif %}  ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }}))  
-> <img src="{{ site.baseurl }}{{ page.speaker2.bio_img_path }}" alt="headshot" class="headshot">
-> {{ page.speaker2.bio_desc | markdownify }}  
+{% if page.speaker2.name %}
+  **{{ page.speaker2.presentation_type | uppercase }}**  
+  {{ page.speaker2.presentation_title | uppercase }}  
+
+  {{ page.speaker2.presentation_desc | markdownify }}
+  <blockquote>
+  <h3> {{ page.speaker2.name | markdownify }} </h3>
+
+  {% if page.speaker2.company %}<strong>{{ page.speaker2.company }}</strong>{% endif %}  {% if page.speaker2.twt_name %}<a href="https://twitter.com/{{ page.speaker2.twt_name }}">Twitter: @{{ page.speaker2.twt_name }}</a>{% endif %}
+  {% if page.speaker2.ig_name %}<a href="https://www.instagram.com/{{ page.speaker2.ig_name }}">Instagram: @{{ page.speaker2.ig_name }}</a>{% endif %}  
+  <img src="{{ site.baseurl }}{{ page.speaker2.bio_img_path }}" alt="headshot" class="headshot">
+  {{ page.speaker2.bio_desc | markdownify }}  
+  </blockquote>
 {% endif %}
-{% if page.speaker3.name != ""  %}
-**{{ page.speaker3.presentation_type | uppercase }}**  
-{{ page.speaker3.presentation_title | uppercase }}
 
-{{ page.speaker3.presentation_desc | markdownify }}  
 
-> ### {{ page.speaker3.name | markdownify }}{% if page.speaker3.company %}
-> {{ page.speaker3.company }}{% endif %}  ([@{{ page.speaker3.twt_name }}](https://twitter.com/{{ page.speaker3.twt_name }}))  
-> <img src="{{ site.baseurl }}{{ page.speaker3.bio_img_path }}" alt="headshot" class="headshot">
-> {{ page.speaker3.bio_desc | markdownify }}  
+{% if page.speaker3.name  %}
+  **{{ page.speaker3.presentation_type | uppercase }}**  
+  {{ page.speaker3.presentation_title | uppercase }}  
+
+  {{ page.speaker3.presentation_desc | markdownify }}
+  <blockquote>
+  <h3> {{ page.speaker3.name | markdownify }} </h3>
+
+  {% if page.speaker3.company %}<strong>{{ page.speaker3.company }}</strong>{% endif %} {% if page.speaker3.twt_name %}<a href="https://twitter.com/{{ page.speaker3.twt_name }}">Twitter: @{{ page.speaker3.twt_name }}</a>{% endif %}
+  {% if page.speaker3.ig_name %}<a href="https://www.instagram.com/{{ page.speaker3.ig_name }}">Instagram: @{{ page.speaker3.ig_name }}</a>{% endif %}
+  <img src="{{ site.baseurl }}{{ page.speaker3.bio_img_path }}" alt="headshot" class="headshot">
+  {{ page.speaker3.bio_desc | markdownify }}  
+  </blockquote>
 {% endif %}
+
 
 
 
@@ -122,7 +141,7 @@ We have prizes!  Want to win?  Help us connect with more local tech folk by shar
 
 ## SPONSORS
 
-Our sponsors help make our meetups awesome! They feed us, provide a place to gather, share, & learn from eachother, and some even give us cool things to giveaway!  Take a moment to thank them, click their logo to visit their twitter/facebook account... and thank them publicly.  *(Please, use hash __#WAPRO__)*
+Our sponsors help make our meetups awesome! They feed us, provide a place to gather, share, & learn from each other, and some even give us cool things to giveaway!  Take a moment to thank them, click their logo to visit their twitter/facebook account... and thank them publicly.  *(Please, use hash __#WAPRO__)*
 
 ### FOOD & BEVERAGES
 
