@@ -1,13 +1,35 @@
 # [WAPRO website repo](https://uncoded.github.io)
 
-The Web and Application Professionals (WAPRO) website is based on, [Jekyll-now](https://github.com/jekyll/jekyll) which is also based on ([Jekyll](https://github.com/jekyll/jekyll)).  This repo is for our website, http://www.waprolb.org, and for communication within the group.  New posts are in the `_posts` folder, in markdown format.
+## Deployment Info
+We utilize [Travis CI](https://travis-ci.org/profile/uncodedlb) to for automated testing before deployment.
 
-## How we Work Together
-We adhere to the [Uncoded Code of Conduct](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/CODE_OF_CONDUCT.md) based on the [Contributor Covenant](http://contributor-covenant.org), version 1.0.0, available at [http://contributor-covenant.org/version/1/0/0/](http://contributor-covenant.org/version/1/0/0/).  Before contributing, please review the [Uncoded Code of Conduct](https://github.com/uncodedlb/uncodedlb.github.io/blob/master/CODE_OF_CONDUCT.md)
+### Current Status
 
-## How to Help
-Want to contribute ideas, design, fixes, enhancements, or just a place to work on some shared code?  Join us. How?  [Post an issue in the queue](https://github.com/uncodedlb/uncodedlb.github.io/issues) and request access.  Any member can then give you full access to the Uncoded organization on github to help out or share.  From there, follow your passion and help the ways you can. Please [be considerate](https://www.drupal.org/dcoc#consideration), [be respectful](https://www.drupal.org/dcoc#respect), and [be collaborative](https://www.drupal.org/dcoc#collaboration).  When you're unsure, [ask for help](https://www.drupal.org/dcoc#ask-for-help).  When we disagree, we [consult others](https://www.drupal.org/dcoc#conflict-resolution).  And please, when you can no longer help, [step away considerately](https://www.drupal.org/dcoc#stepping-down).
+[![Build Status](https://travis-ci.org/uncodedlb/waprolb.svg?branch=gh-pages)](https://travis-ci.org/uncodedlb/waprolb)
 
-For realtime chat, join us on [IRC #uncodedlb](http://webchat.freenode.net/?nick=Uncoded-guest&channels=%23css%2C%23sass%2C%23less%2C%23atom%2C%23node.js%2C%23io.js%2C%23drupal%2C%23nginx%2C%23uncodedlb&prompt=1&uio=OT10cnVlJjEwPXRydWU3a) (on [Freenode](http://freenode.net/))
+This information (and link) is based on the last commit to the repository.  A failed status will not be published.
 
-Then, add changes, create a repo to share code for a `code & coffee` or for a `WAPRO meetup`, etc.
+## About
+The website is built using [Jekyll](http://jekyllrb.com/).  Github hosts static HTML and Jekyll based websites for free.  Github uses a default naming scheme for repositories, and as a result our site can be viewed at  [http://waprolb.github.io/](http://uncodedlb.github.io/waprolb/) -- but it is setup for its own domain: **waprolb.org.**  Github allows us to utilize our custom domain by adding a [CNAME file and configuring our DNS](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider/).  Therefore our website is best accessed at:  [http://www.waprolb.org](http://www.waprolb.org/)
+
+
+
+## Get Involved
+
+Getting involved is easy.  You don't even *NEED* Jekyll installed locally, but it helps.  Changes and pull requests are encouraged.  Want to fix a typo.  Add some info?  Add a page, or more?  Go for it.  
+
+### Here's How
+
+1. `Fork` the repository: [How to Fork](https://help.github.com/articles/fork-a-repo/).
+1. Make changes.
+1. Optionally, enable Travis for yourself (on your forked) repo: `https://travis-ci.org/profile/**username**`.  [Read more](http://jekyllrb.com/docs/continuous-integration/)
+1.  Create a `Pull Request` to share:  [How to create a Pull Request](https://help.github.com/articles/using-pull-requests/)
+
+#### Workflow Notes
+
+1. Optionally, view your github fork locally or on Github (`gh-pages` branch).  To find this, click your repo settings and look for the URL where it's published:  `https://github.com/**YOURUSERNAME**/uncodedlb.github.io/settings`
+
+
+ ### Who Can Get Invovled?
+
+ Anyone can create a Pull Request.  In addition, we'll also allow anyone in our community to join our team for direct access.  We do ask that you adhere to [Uncoded  Policies](https://github.com/uncodedlb/uncoded-policies).
