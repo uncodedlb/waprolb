@@ -2,7 +2,7 @@
 # Fill-in Speaker1, Speaker2, & speaker1 info below.
 # Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
 title: "Web & Application Professionals Meetup – Mar"
-tags: ["", "", "", ""]
+tags: ["AngularJS", "Pedanco", "Webflow", "Django", "Nelson Abalos Jr", "Karim Amer", "Loc Nguyen", "Aaron Pedersen"]
 meeting_time: "7-9p"
 venue: "WELABS" # WELABS || GJ
 venue_image: "/images/WAPRO_2016_03.jpg"
