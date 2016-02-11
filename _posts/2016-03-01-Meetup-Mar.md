@@ -41,6 +41,17 @@ speaker3:
   bio_img_path: "/images/people/loc-nguyen.jpeg"
   presentation_title: "Stair stepping ES6 and TypeScript into an Angular App"
   presentation_desc: "Read the source of your favorite libraries and you may get lost. JavaScript illuminati and tutorial authors are talking another language now. You need to catch up while it's easy. We'll cover Webpack, the most useful syntactic sugar from ES6/TS, and refactor a 'real' Angular app."
+speaker4:
+  name: "Aaron Pedersen"
+  twt_name: "aaronpedersen"
+  company: "DevelopmentArc"
+  presentation_type: "PRESENTATION"
+  bio_desc: "As co-founder and principle at [DevelopmentArc](http://www.developmentarc.com/), a boutique development firm and parent company of [Pedanco](https://pedanco.com/), Aaron Pedersen’s passion lies in helping businesses streamline process making teams work more effectively through innovative technology solutions. A published author, expert speaker, and sought-after business consultant and trainer, Aaron works with a wide range of companies, from Fortune 500 corporations and multi-chain hospitality companies to emerging brands and seed-round startups including Toyota Motor Sports, DHAP Digital, Adobe, KitchenNetwork, CoreLogic, PWC, Yahoo, and FitStar."
+  bio_img_path: "/images/people/aaron-pedersen.jpg"
+  presentation_title: "Two men's goal to create a monolithic application but..."
+  presentation_desc: "...it turns out its harder todo these days. Aaron Pedersen will provide a deep dive and detail the ecosystem of his software, Pedanco. Pedanco is a Guest Feedback and Recovery platform for the hospitality industry. Built using Rails and Heroku, the software's ecosystem has expanded over it's 4 years of development to include many  services and technologies, making it less like a monolithic application, and more robust and distributed. Service and technology including Postgres, ElasticSearch, NewRelic, Postmark and many more."
+
+
 
 ---
 
@@ -53,6 +64,7 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 {% if page.speaker1.presentation_title  %}1. <strong>{{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}]({{ site.base.twitter }}{{ page.speaker1.twt_name }}))</strong> – {{ page.speaker1.presentation_title }}  {% endif %}
 {% if page.speaker2.presentation_title  %}1. <strong>{{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}]({{ site.base.twitter }}{{ page.speaker2.twt_name }}))</strong> – {{ page.speaker2.presentation_title }}  {% endif %}
 {% if page.speaker3.presentation_title  %}1. <strong>{{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }}))</strong> – {{ page.speaker3.presentation_title }}  {% endif %}
+{% if page.speaker4.presentation_title  %}1. <strong>{{ page.speaker4.name }} ([@{{ page.speaker4.twt_name }}]({{ site.base.twitter }}{{ page.speaker4.twt_name }}))</strong> – {{ page.speaker4.presentation_title }}  {% endif %}
 1. [PLEASE R.S.V.P.]({{ page.rsvp }})
 
 ## VALUE
@@ -131,8 +143,20 @@ If you have interest or work in Web or Application Development, add our meetup t
   </blockquote>
 {% endif %}
 
+{% if page.speaker4.name  %}
+  **{{ page.speaker4.presentation_type | uppercase }}**  
+  {{ page.speaker4.presentation_title | uppercase }}  
 
+  {{ page.speaker4.presentation_desc | markdownify }}
+  <blockquote>
+  <h3> {{ page.speaker4.name | markdownify }} </h3>
 
+  {% if page.speaker4.company %}<strong>{{ page.speaker4.company }}</strong>{% endif %} {% if page.speaker4.twt_name %}<a href="https://twitter.com/{{ page.speaker4.twt_name }}">Twitter: @{{ page.speaker4.twt_name }}</a>{% endif %}
+  {% if page.speaker4.ig_name %}<a href="https://www.instagram.com/{{ page.speaker4.ig_name }}">Instagram: @{{ page.speaker4.ig_name }}</a>{% endif %}
+  <img src="{{ site.baseurl }}{{ page.speaker4.bio_img_path }}" alt="headshot" class="headshot">
+  {{ page.speaker4.bio_desc | markdownify }}  
+  </blockquote>
+{% endif %}
 
 {% if page.prizes %}
   ### PRIZES!  
