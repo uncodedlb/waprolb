@@ -6,8 +6,8 @@ tags: ["AngularJS", "Pedanco", "Webflow", "Django", "Nelson Abalos Jr", "Karim A
 meeting_time: "7-9p"
 venue: "WELABS" # WELABS || GJ
 venue_image: "/images/WAPRO_2016_03.jpg"
-rsvp: "http://www.meetup.com/uncoded/events/" # "http://www.meetup.com/Uncoded/events/225429587/"
-#redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
+rsvp: "http://www.meetup.com/Uncoded/events/228760530/" # "http://www.meetup.com/Uncoded/events/225429587/"
+redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true
