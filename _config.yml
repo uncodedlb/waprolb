@@ -29,19 +29,19 @@ avatar: /images/WAPRO.png
 footer-links:
   dribbble:
   email: wapro@MediaDoneRight.com
-  facebook: groups/uncodedlb
+  facebook: waprolb
   flickr:
   github: uncodedlb
-  instagram:
+  instagram: waprolb
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: waprolb # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: waprolb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 irc:
-  channels: uncodedlb
-  nick: wapro
+  channels: #uncodedlb
+  nick: #wapro
 
 future: true # allow posts in the future
 
