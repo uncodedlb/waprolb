@@ -19,3 +19,9 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+notifications:
+  slack:
+    rooms:
+      - uncodedlb:s2Mn0lGejO984tqltMZE9Q3W#general
+      - uncodedlb:s2Mn0lGejO984tqltMZE9Q3W#barnraising
