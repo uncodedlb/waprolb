@@ -23,5 +23,5 @@ env:
 notifications:
   slack:
     rooms:
-      - uncodedlb:s2Mn0lGejO984tqltMZE9Q3W#general
       - uncodedlb:s2Mn0lGejO984tqltMZE9Q3W#barnraising
+#      - uncodedlb:s2Mn0lGejO984tqltMZE9Q3W#general
