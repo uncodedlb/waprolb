@@ -59,7 +59,7 @@ google_analytics: UA-60220524-5
 # Enable slaask support -- https://slaask.com
 slaask:
   enabled: true
-  key: cd5c54c305b606f179fdc0cba063b365
+  key: 8ba73c88043c561731fc28cdb6fbfa19
 
 # WAPRO data
 
