@@ -12,8 +12,9 @@ This site is hosted from our [github repository](https://github.com/uncodedlb/un
 
 We're open to all kinds of feedback.  Do you like what we're doing?  Don't like something?  Want to get involved and help?  Mike organizes the monthly WAPRO meetup.  Please connect with him if you're interested in presenting, have an announcement, or other feedback.
 
-Mike Stewart [@MediaDoneRight](https://twitter.com/MediaDoneRight)
-<a href="tel:+15629992724">562-999-2724</a> voice / text  
+Twitter [@waprolb](https://twitter.com/waprolb)  
+Organizer: Mike Stewart ‒ [@mdrmike_](https://twitter.com/mdrmike_)  
+voice / text <a href="tel:+15629992724">562-999-2724</a>  
 
 
 ## Get Involved!
