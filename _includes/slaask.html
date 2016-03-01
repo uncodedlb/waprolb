@@ -1,0 +1,8 @@
+{% if site.slaask.enabled %}
+	<!-- slaask support-->
+	<script src='https://cdn.slaask.com/chat.js'></script>
+	<script>
+	    _slaask.init('{{ site.slaask.key }}');
+	</script>
+	<!-- End slaask support-->
+{% endif %}
