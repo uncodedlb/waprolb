@@ -3,4 +3,4 @@ set -e # halt script on error
 
 bundle exec jekyll build
 # need to find a way to fix #vision link.  seems to appear due to Intro.md, but works in naviation include.  hmm
-bundle exec htmlproof --disable-external ./_site
+bundle exec htmlproofer --disable-external ./_site
