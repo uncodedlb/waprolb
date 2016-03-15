@@ -40,7 +40,6 @@ speaker3:
   presentation_desc: ""  # Full Description of talk.  markdown ok.
 ---
 
-**Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
 {% if page.venue_image != "" %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
 ## TALKS THIS MONTH  

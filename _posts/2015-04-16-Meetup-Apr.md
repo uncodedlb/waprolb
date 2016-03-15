@@ -8,8 +8,6 @@ published: true
 ---
 
 
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
-
 The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  Our meetup is FREE and everyone is welcome.  **Website:** http://www.waprolb.org
 
 
@@ -25,7 +23,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 - Community News and Job Announcements (10min)
 - Presentations - details below (90min)
 - Networking and post-meetup venue dubya (20min)  
-
+<!--more-->
 
 ![GunnJerkins Offices]({{ site.baseurl }}/images/GunnJerkins-Offices.jpg)  
 

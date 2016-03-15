@@ -7,20 +7,18 @@ layout: post
 published: true
 ---
 
-
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org/about
 
 ### TALKS THIS MONTH
 * Aaron Pederson - Let's talk about SASS  
 * Mariano Crivello - Digital Effin Strategy  
+<!--more-->
 
 Our kickoff meeting was January at [WE Labs](http://welabs.us).  We had presentations and sharing from people that discussed their work utilizing **Drupal, Jekyll, Node.js, Yeoman, Varnish, PHP, CME, and Bootstrap**, on projects for **SpaceX.com, Riot Games League of Legends, X Prize, and others**. It was a great way to start 2015, but, we're just getting started in Long Beach!  **What I know from experience:** Some of my best projects and connections have come through my involvement in community events.  Don't miss out!
 
 This Month we change venue to [Gunn-Jerkins](http://gunnjerkins.com) (near LGB airport).  We'll be back to WE Labs soon enough, but this month is an opportunity to visit one of best creative agency's in Long Beach while we wow you with at least two more great talks, and everything the community brings to share.
-
-![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
 
 **MAIN PRESENTATION**  
 Let's talk about SASS _|  Presentation by [Aaron Pedersen](http://twitter.com/aaronpedersen)_  

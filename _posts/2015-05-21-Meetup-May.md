@@ -8,8 +8,6 @@ published: true
 ---
 
 
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
-
 The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
 ### RSVP
@@ -26,7 +24,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 ### PRIZES
 
 - We have prizes!  Join us for your chance to win books!  Examples: **"Mastering iOS Frameworks: Beyond the Basics", "Learning AngularJS", "Apache Cordova 4 Programming", "Swift for Programmers", "NoSQL for Mere Mortals", "Ruby Way, The: Solutions and Techniques", "Practical Guide to Ubuntu", "iOS 8 Application Development"
-
+<!--more-->
 
 
 --------

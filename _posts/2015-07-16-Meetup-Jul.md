@@ -8,7 +8,6 @@ published: true
 ---
 
 
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
@@ -17,7 +16,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 - Greg Gerber [@gerbz](https://twitter.com/gerbz) - ZAPIER, AUTOMATE EVERYTHING
 - Chris Charlton [@charltonweb](https://twitter.com/charltonweb) - GITFLOW -- I THINK YOU'RE DOING IT WRONG (part2)  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
-
+<!--more-->
 
 ### AGENDA  
 - Setup and Introductions (10min)  

@@ -8,7 +8,7 @@ published: true
 ---
 
 
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
 
 The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.
 
@@ -16,7 +16,7 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 
 * Frank Anderson - How to not use Drupal + custom PHP = Highly available, Highly customizable, and Fast!
 * Chris Charlton - Yeoman (Yo + Grunt + Bower = fast!)
-
+<!--more-->
 
 >  MAIN PRESENTATION  
 >  How to not use Drupal ||  Presentation by [Frank Anderson](http://twitter.com/frobdfas  
@@ -33,8 +33,6 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 ---
 
 
-
-![awesome](http://i.imgur.com/J4SoDeM.png?delhash=6W4vfcnAxJBVn0j)  
 
 
 ### AGENDA

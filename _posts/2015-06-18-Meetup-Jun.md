@@ -8,8 +8,6 @@ published: true
 ---
 
 
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
-
 The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and share the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
 
@@ -18,7 +16,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 - Chris Charlton - GITflow, I THINK YOU'RE DOING IT WRONG
 
 RSVP:  [j.mp/WAPRO-1506-rsvp](http://www.meetup.com/lbtech/events/222329526/)
-
+<!--more-->
 ### AGENDA
 - Setup and Introductions (10min)
 - Community News and Job Announcements (10min)

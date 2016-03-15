@@ -4,6 +4,7 @@
 title: "Web & Application Professionals Meetup – Mar"
 tags: ["AngularJS", "Pedanco", "Webflow", "Django", "Nelson Abalos Jr", "Karim Amer", "Loc Nguyen", "Aaron Pedersen"]
 meeting_time: "7-9p"
+meeting_start: "19:00"
 venue: "WELABS" # WELABS || GJ
 venue_image: "/images/WAPRO_2016_03.jpg"
 rsvp: "http://www.meetup.com/Uncoded/events/228760530/" # "http://www.meetup.com/Uncoded/events/225429587/"
@@ -55,7 +56,6 @@ speaker4:
 
 ---
 
-**Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
 {% if page.venue_image %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
 ## TALKS THIS MONTH  
@@ -66,6 +66,8 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 {% if page.speaker3.presentation_title  %}1. <strong>{{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }}))</strong> – {{ page.speaker3.presentation_title }}  {% endif %}
 {% if page.speaker4.presentation_title  %}1. <strong>{{ page.speaker4.name }} ([@{{ page.speaker4.twt_name }}]({{ site.base.twitter }}{{ page.speaker4.twt_name }}))</strong> – {{ page.speaker4.presentation_title }}  {% endif %}
 1. [PLEASE R.S.V.P.]({{ page.rsvp }})
+
+<!--more-->  
 
 ## VALUE
 

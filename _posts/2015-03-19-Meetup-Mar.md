@@ -7,8 +7,7 @@ layout: post
 published: true
 ---
 
-
-**Meetup Date: {{ page.date | date: "%B %-d, %Y" }}**  
+![long beach](http://www.ccpe.csulb.edu/ali/Images/spImages/Featured_Items_128_2889_Rainbow_Harbor_revised-by_Bob_Maguglin2.jpg)  
 
 The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) group meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the **values** of open source software (F/OSS).  We strive to do this in a professional, relaxed, respectful, and open venue for _all people_ in our community.  **Website:** http://www.waprolb.org
 
@@ -19,8 +18,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 * Frank Andersen - Go Beach!  [CSULB](http://csulb.edu) has a new website. It's beautiful.  Frank will share how it was built.
 * TBD - interested in presenting?  [contact me](/about)
 
-![long beach](http://www.ccpe.csulb.edu/ali/Images/spImages/Featured_Items_128_2889_Rainbow_Harbor_revised-by_Bob_Maguglin2.jpg)  
-
+<!--more-->
 **MAIN PRESENTATION**  
 Digital Effin Strategy _|  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)_  
 

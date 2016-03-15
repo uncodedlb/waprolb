@@ -4,6 +4,7 @@
 title: "Web & Application Professionals Meetup – Nov 10 (Date Change!)"
 tags: ["docker", "bootstrap", "Tom Friedhof", "Mike Stewart"]
 meeting_time: "6:30-9p"
+meeting_start: "18:30"
 venue: "WELABS" # WELABS || GJ
 venue_image: ""
 rsvp: "http://www.meetup.com/Uncoded/events/" # "http://www.meetup.com/Uncoded/events/225429587/"
@@ -56,7 +57,6 @@ sponsors:
       extra: ""
 ---
 
-**Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
 {% if page.venue_image != "" %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
 ## TALKS THIS MONTH  
@@ -66,7 +66,7 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 {% if page.speaker2.presentation_title != ""  %}- {{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }})) – {{ page.speaker2.presentation_title }}  {% endif %}
 {% if page.speaker3.presentation_title != ""  %}- {{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }})) – {{ page.speaker3.presentation_title }}  {% endif %}
 - [PLEASE R.S.V.P.]({{ page.rsvp }})
-
+<!--more-->
 ##VALUE
 
 Tech moves too fast to keep up on everything yourself.  There's always someone faster, better, or smarter than you.  Come meet them, connect, and lean on community.  If you're a local business or agency, join us and encourage staff to come.  It's a great way to expand your network of folks active and connected, which leads to both new business and potential new recruits.  Everyone wins!

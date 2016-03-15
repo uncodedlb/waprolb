@@ -4,6 +4,7 @@
 title: "Web & Application Professionals Meetup – October"
 tags: ["accessibility", "php", "Patrick Wall", "John Arroyo"]
 meeting_time: "6:30-9p"
+meeting_start: "18:30"
 venue: "GJ" # WELABS || GJ
 venue_image: "/images/GunnJerkins-Offices-Door.jpg"
 rsvp: "http://www.meetup.com/Uncoded/events/225429587/"
@@ -40,7 +41,6 @@ speaker3:
   presentation_desc: ""  # Full Description of talk.  markdown ok.
 ---
 
-**Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
 <img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">
 
 ## TALKS THIS MONTH  
@@ -50,6 +50,7 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 {% if page.speaker2.presentation_title != ""  %}- {{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }})) – {{ page.speaker2.presentation_title }}  {% endif %}
 {% if page.speaker3.presentation_title != ""  %}- {{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}](https://twitter.com/{{ page.speaker3.twt_name }})) – {{ page.speaker3.presentation_title }}  {% endif %}
 - [PLEASE R.S.V.P.]({{ page.rsvp }})
+<!--more-->
 
 ##VALUE
 

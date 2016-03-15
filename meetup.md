@@ -21,7 +21,8 @@ published: true
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
-        {{ post.content | truncatewords:99}}
+        <time datetime='{{ post.date | date: "%F" }}T{{ post.meeting_start }}{{ post.date | date: "%z" }}'><h3>{{ post.date | date: "%Y %B" }} Meetup</h3></time>
+        {{ post.excerpt }}
       </div>
 
       <em class="convince">Still need convincing it's going to be great?  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more</a></em>

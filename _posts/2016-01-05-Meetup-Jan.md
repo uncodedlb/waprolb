@@ -4,6 +4,7 @@
 title: "Web & Application Professionals Meetup"
 tags: ["Patrick Goddard", "Drupal", "John Boranprasit", "Charity Distribution"]
 meeting_time: "7-9p"
+meeting_start: "19:00"
 venue: "WELABS" # WELABS || GJ
 venue_image: ""
 #redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
@@ -55,7 +56,6 @@ sponsors:
       extra: ""
 ---
 
-**Meetup: {{ page.date | date: "%B %-d, %Y" }}**  
 {% if page.venue_image != "" %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
 ## TALKS THIS MONTH  
@@ -65,6 +65,8 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 {% if page.speaker2.presentation_title != ""  %}- {{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}](https://twitter.com/{{ page.speaker2.twt_name }})) – {{ page.speaker2.presentation_title }}  {% endif %}
 {% if page.speaker3.presentation_title != ""  %}- {{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }})) – {{ page.speaker3.presentation_title }}  {% endif %}
 - [PLEASE R.S.V.P.]({{ page.rsvp }})
+
+<!--more-->
 
 ##VALUE
 

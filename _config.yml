@@ -13,10 +13,10 @@ url: http://www.waprolb.org/
 baseurl: ""
 
 # Name of your site (displayed in the header)
-name: WAPRO
+name: Web and Application Development Professionals—Long Beach
 signin-link: false
 # Short bio or description (displayed in the header)
-description: "Web and Application Development Professionals—Long Beach"
+description: "WAPRO meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  The technology and projects we discuss is typically directed towards the professionals that build websites and mobile applications.  Although we don't cater to beginners, we welcome everyone to join us."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://avatars2.githubusercontent.com/u/10619762?v=3&s=200
@@ -107,6 +107,7 @@ base:
 #markdown: redcarpet
 highlighter: rouge
 permalink: /:categories/:year/:month/
+excerpt_separator: "<!--more-->"
 
 # The release of Jekyll Now that you're using
 version: v1.0.0
