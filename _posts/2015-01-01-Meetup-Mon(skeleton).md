@@ -1,5 +1,5 @@
 ---
-# Fill-in Speaker1, Speaker2, & Speaker3 info below.
+# Fill-in Speaker1, Speaker2, & speaker1 info below.
 # Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
 title: "Web & Application Professionals Meetup – Month"
 tags: ["", "", "", ""]
