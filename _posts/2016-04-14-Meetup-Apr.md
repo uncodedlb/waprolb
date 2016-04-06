@@ -33,27 +33,15 @@ speaker2:
   presentation_title: "WTFlux"
   presentation_desc: "A quick dive into react to understand what flux is, when/why you should use it, and how to implement it on a  very basic level."
 speaker3:
-  name: ""  
-  twt_name: ""
-  ig_name: ""
-  company: ""
-  bio_desc: ""
-  bio_img_path: ""
+  name: "Mike Stewart"  
+  twt_name: "mdrmike_"
+  ig_name: "mdrmike"
+  company: "Media Done Right"
+  bio_desc: "A long time open source evangelist, community organizer, and resident of Long Beach. Stewart started his career in enterprise I.T. implementing projects such as: Customer Relationship Management, Engineering Document Management, and ERP Systems. His knowledge of Microsoft technologies, ERP, and manufacturing led him to employers focused on Warehouse Management Systems, Time & Attendance, and Management Execution Systems. The latter projects utilized early Microsoft web technologies which eventually led him to consulting building websites and web based applications. Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and free software in general."
+  bio_img_path: "/images/people/mike-stewart.jpg"
   presentation_type: "PRESENTATION"
-  presentation_title: ""
-  presentation_desc: ""
-speaker4:
-  name: ""  
-  twt_name: ""
-  ig_name: ""
-  company: ""
-  bio_desc: ""
-  bio_img_path: ""
-  presentation_type: "PRESENTATION"
-  presentation_title: ""
-  presentation_desc: ""
-
-
+  presentation_title: "Don't wait, Automate!"
+  presentation_desc: "A show & tell of tools to help automate your frontend and backend development environment, using best-practices, and utilizing help from giants. Tech: `Yeoman, Grunt, Gulp, Bower, NPM, and maybe Virtualbox/Docker` and why you should use them regardless of your tech stack."
 
 ---
 
@@ -64,10 +52,7 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 
 {% if page.speaker1.presentation_title  %}1. <strong>{{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}]({{ site.base.twitter }}{{ page.speaker1.twt_name }}))</strong> – {{ page.speaker1.presentation_title }}  {% endif %}
 {% if page.speaker2.presentation_title  %}1. <strong>{{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}]({{ site.base.twitter }}{{ page.speaker2.twt_name }}))</strong> – {{ page.speaker2.presentation_title }}  {% endif %}
-{% comment %}
 {% if page.speaker3.presentation_title  %}1. <strong>{{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }}))</strong> – {{ page.speaker3.presentation_title }}  {% endif %}
-{% if page.speaker4.presentation_title  %}1. <strong>{{ page.speaker4.name }} ([@{{ page.speaker4.twt_name }}]({{ site.base.twitter }}{{ page.speaker4.twt_name }}))</strong> – {{ page.speaker4.presentation_title }}  {% endif %}
-{% endcomment %}
 1. [PLEASE R.S.V.P.]({{ page.rsvp }})
 
 <!--more-->  
@@ -91,7 +76,7 @@ Every month we come together to:
 
 We have a preference for open-source software, especially server-side.  This year we have meetups focused on the life-cycle and technologies related to website and application development.  We will especially try to delve into situations where mobile and web technologies converge.  The meeting topics we cover will vary monthly and will be tailored to, and by, our community.  Want to see something in particual?  Let us know by tweeting using the hash #WAPRO.  
 
-**Future meetup dates:**  🌤 5/12  🌣 6/9 🌣 7/14 🌤
+**Future meetup dates:**  🌤 5/12 ⛵ 6/9 🌊 7/14 🌤
 
 If you have interest or work in Web or Application Development, add our meetup to your calendar now and join us! Our meetups are FREE and open to [EVERYONE](https://github.com/uncodedlb/uncoded-policies).
 
@@ -132,7 +117,6 @@ If you have interest or work in Web or Application Development, add our meetup t
   </blockquote>
 {% endif %}
 
-{% comment %}
 {% if page.speaker3.name  %}
   **{{ page.speaker3.presentation_type | uppercase }}**  
   {{ page.speaker3.presentation_title | uppercase }}  
@@ -148,21 +132,15 @@ If you have interest or work in Web or Application Development, add our meetup t
   </blockquote>
 {% endif %}
 
-{% if page.speaker4.name  %}
-  **{{ page.speaker4.presentation_type | uppercase }}**  
-  {{ page.speaker4.presentation_title | uppercase }}  
 
-  {{ page.speaker4.presentation_desc | markdownify }}
-  <blockquote>
-  <h3> {{ page.speaker4.name | markdownify }} </h3>
+### AFTER HOURS + AWESOME PRIZES
 
-  {% if page.speaker4.company %}<strong>{{ page.speaker4.company }}</strong>{% endif %} {% if page.speaker4.twt_name %}<a href="https://twitter.com/{{ page.speaker4.twt_name }}">Twitter: @{{ page.speaker4.twt_name }}</a>{% endif %}
-  {% if page.speaker4.ig_name %}<a href="https://www.instagram.com/{{ page.speaker4.ig_name }}">Instagram: @{{ page.speaker4.ig_name }}</a>{% endif %}
-  <img src="{{ site.baseurl }}{{ page.speaker4.bio_img_path }}" alt="headshot" class="headshot">
-  {{ page.speaker4.bio_desc | markdownify }}  
-  </blockquote>
-{% endif %}
-{% endcomment %}
+![Reservation](/images/exibitionrm_reservation_2016_04.png)
+We have a reservation at [Exhibition Room](http://www.theexhibitionroom.com/), arguably *the best speakeasy in California.*  If you'd like to join, please [tweet your RSVP](https://twitter.com/intent/tweet?text=Sounds%20awesome%20to%20spend%20%40waprolb%20%23afterhours%20%40ExhibitionRm%20speakeasy.%20I%27ll%20dress%2020%27s%20themed%20or%20biz%20casual!%20%23ThisIsLB%20%23uncoded%20%23wapro) to [@waprolb](https://twitter.com/waprolb) [@ExhibitionRm](https://twitter.com/ExhibitionRm) using hashtag #afterhours.  Be sure to wear 1920's themed attire or business casual.  (no shorts, flip-flops, t-shirts, etc).  
+
+We'll also have prizes for those that RSVP and join us at either Exhibition room, or the larger venue, [Roxanne's Cocktail Lounge & New Latin Grill ](http://www.roxanneslounge.com/) (all ages + relaxed dress code).
+
+
 
 {% if page.prizes %}
   ### PRIZES!  
