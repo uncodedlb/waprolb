@@ -36,7 +36,7 @@ In the future we'll cover everything we can related to web or app development, e
 
 >  The __Web & App Professionals meetup__ (#wapro) is a community intiative of [Uncoded](http://uncoded.org).  
 
-
+{% comment %}
 ## Get Connected
 
 We need your help. We've already had some amazing talks in our short history.  But we only know so many folks locally.  We believe a vibrant tech community shares and talk socially.  
@@ -50,3 +50,4 @@ If you're really excited to help us spread the word to connect with other locals
 3. Finally, post it in a public place.  For example, post in your favorite cafe, or campus commons, or a workplace breakroom.  _But always be sure to obtain permission to post._  😄
 
 [![flyer]({{ site.baseurl }}/images/wapro-promotion-flyer-base.svg)]({{ site.baseurl }}/images/wapro-promotion-flyer.pdf)
+{% endcomment %}
