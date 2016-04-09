@@ -11,7 +11,7 @@ rsvp: "http://www.meetup.com/Uncoded/" # "http://www.meetup.com/Uncoded/events/2
 #redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
-published: true
+published: false
 speaker1:
   name: ""  
   twt_name: ""
