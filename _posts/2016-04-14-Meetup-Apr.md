@@ -8,7 +8,7 @@ meeting_start: "19:00"
 venue: "GJ" # WELABS || GJ
 venue_image: "/images/WAPRO_2016_04.jpg"
 rsvp: "http://www.meetup.com/Uncoded/events/228760530/" # "http://www.meetup.com/Uncoded/events/225429587/"
-redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
+redirect_from: #["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true
@@ -32,16 +32,6 @@ speaker2:
   presentation_type: "PRESENTATION"
   presentation_title: "WTFlux"
   presentation_desc: "A quick dive into react to understand what flux is, when/why you should use it, and how to implement it on a  very basic level."
-speaker3:
-  name: "Mike Stewart"  
-  twt_name: "mdrmike_"
-  ig_name: "mdrmike"
-  company: "Media Done Right"
-  bio_desc: "A long time open source evangelist, community organizer, and resident of Long Beach. Stewart started his career in enterprise I.T. implementing projects such as: Customer Relationship Management, Engineering Document Management, and ERP Systems. His knowledge of Microsoft technologies, ERP, and manufacturing led him to employers focused on Warehouse Management Systems, Time & Attendance, and Management Execution Systems. The latter projects utilized early Microsoft web technologies which eventually led him to consulting building websites and web based applications. Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and free software in general."
-  bio_img_path: "/images/people/mike-stewart.jpg"
-  presentation_type: "PRESENTATION"
-  presentation_title: "Don't wait, Automate!"
-  presentation_desc: "A show & tell of tools to help automate your frontend and backend development environment, using best-practices, and utilizing help from giants. Tech: `Yeoman, Grunt, Gulp, Bower, NPM, and maybe Virtualbox/Docker` and why you should use them regardless of your tech stack."
 
 ---
 
