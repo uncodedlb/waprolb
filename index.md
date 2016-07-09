@@ -5,7 +5,30 @@ permalink: /
 published: true
 ---
 
-_the geeks that make the **apps** and the **interwebz** congregate monthly to showcase, **learn**, **share**, & network. we meet the **1st Tuesday** at alternating venues in long beach. come._
+<div class="posts">
+  {% for post in site.posts %}
+    {% if forloop.first == true %}
+    <article class="post">
+
+      <h2>News</h2>
+
+      <div class="entry">
+
+        <time datetime='{{ post.date | date: "%F" }}T{{ post.meeting_start }}{{ post.date | date: "%z" }}'></time>
+        {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
+      </div>
+    </article>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+---
+
+_the geeks that make the **apps** and the **interwebz** congregate monthly to
+showcase, **learn**, **share**, & network. we meet the **1st Tuesday** at
+alternating venues in long beach. come._
 
 We call ourselves **Web & Application Professionals** ... #WAPRO
 
