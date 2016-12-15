@@ -52,7 +52,7 @@ speaker3:
 
 ## It's 2017, Let's Geek Out!
 
-January is almost here. It's been awhile since we got together to geek out... Let's do this!  
+Ok, as I write this, it's not quite 2017.  But January *is* almost here. And  it's been a while since we all came together to geek out... Let's do this!
 
 **Topics:**  TBD.  
 **Venue:**  TBD.  
