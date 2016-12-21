@@ -10,7 +10,7 @@ published: true
     {% if forloop.first == true %}
     <article class="post">
 
-      <h2>News</h2>
+      <h2>Next Meetup + News</h2>
 
       <div class="entry">
 
