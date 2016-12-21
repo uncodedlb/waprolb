@@ -10,13 +10,11 @@ published: true
     {% if forloop.first == true %}
     <article class="post">
 
-      <h2>Next Meetup + News</h2>
+      <h2>Upcoming</h2>
 
       <div class="entry">
-
+        <h3>Next Meetup: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}  @{{ post.meeting_start | date: "%l%P" }}</a></h3>
         <time datetime='{{ post.date | date: "%F" }}T{{ post.meeting_start }}{{ post.date | date: "%z" }}'></time>
-        {{ post.excerpt }}
-        <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
       </div>
     </article>
     {% endif %}
@@ -27,7 +25,7 @@ published: true
 ---
 
 _the geeks that make the **apps** and the **interwebz** congregate monthly to
-showcase, **learn**, **share**, & network. we meet the **1st Tuesday** at
+showcase, **learn**, **share**, & network. we meet the **3rd Tuesday** at
 alternating venues in long beach. come._
 
 We call ourselves **Web & Application Professionals** ... #WAPRO

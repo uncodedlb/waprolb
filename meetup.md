@@ -10,7 +10,7 @@ published: true
 
 <h2>Meetups</h2>
 <div class="twitter-embedded">{{ site.twitter.highlight }}</div></div>
-<p>We congregate monthly to showcase, learn, share, & network. We meet on the <strong>1st Tuesday</strong> of every month in Long Beach. Please, join us.</p>
+<p>We congregate monthly to showcase, learn, share, & network. We meet on the <strong>3rd Tuesday</strong> of every month in Long Beach. Please, join us.</p>
 
 
 <h2>{{page.title}}</h2>
