@@ -54,8 +54,8 @@ speaker3:
 
 Ok, as I write this, it's not quite 2017.  But January *is* almost here. And  it's been a while since we all came together to geek out... Let's do this!
 
-**Topics:**  TBD.  
-**Venue:**  TBD.  
-**Day/Week:**  TBD.  
+**Topics:**  Web Development 2017 + Lightning Talks.  
+**Venue:**  WE Labs.  
+**Day/Week:**  Tue/Thu (depending on venue).  
 
 Do you have a preference on Topics or day/week?  Shout out on FB or Twitter.  Even if we can't do it in Jan, we'll absolutely consider as we move forward in 2017.  If you're interested in presenting on a topic, please [contact](/about/) the organizer, Mike Stewart.
