@@ -13,25 +13,25 @@ categories: meetup
 layout: post
 published: true
 speaker1:
-  name:
-  twt_name:
-  ig_name:
-  company:
-  bio_desc:
-  bio_img_path:
-  presentation_type:
-  presentation_title:
-  presentation_desc:
+  name: "Mike Stewart"  
+  twt_name: "mdrmike_"
+  ig_name: "mdrmike"
+  company: "Media Done Right"
+  bio_desc: "Open Source evangelist, community organizer, Long Beach native. From enterprise I.T. to consulting.  Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and more generally the promotion and use of freedom software."
+  bio_img_path: "/images/people/mike-stewart.jpg"
+  presentation_type: "PRESENTATION"
+  presentation_title: "Web Development 2017"
+  presentation_desc: "A review of the tech that's influencing the landscape in 2017.  Come prepared to learn about the trends, tools, processes, and tech affecting web and app development in 2017 ... and beyond."
 speaker2:
-  name:
-  twt_name:
-  ig_name:
-  company:
+  name: Lightning Talks
+  twt_name: waprolb
+  ig_name: waprolb
+  company: WAPRO Community
   bio_desc:
-  bio_img_path:
-  presentation_type:
-  presentation_title:
-  presentation_desc:
+  bio_img_path: "/images/WAPRO.png"
+  presentation_type: DEMO
+  presentation_title: Community Lightning Talks
+  presentation_desc: Show us something cool you've created or discovered that you think we should know in *5 minutes or less.*
 speaker3:
   name:
   twt_name:
