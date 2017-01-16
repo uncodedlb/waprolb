@@ -33,15 +33,15 @@ speaker2:
   presentation_title: Community Lightning Talks
   presentation_desc: Show us something cool you've created or discovered that you think we should know in *5 minutes or less.*
 speaker3:
-  name:
-  twt_name:
-  ig_name:
-  company:
-  bio_desc:
+  name: "Roger Howard"
+  twt_name: "rogerhoward"
+  ig_name: "rogerxhoward"
+  company: ""
+  bio_desc: "I spent over 15 years in large organizations such as Playboy, Fox, The Getty, and Blizzard Entertainment providing technology leadership, hands on engineering, and process innovation. My specialties generally center around the design and delivery of large collections of data and digital media in museums, photo agencies, video game studios, and other high-volume media environments. These days I work independently as a programmer, consultant, and occasional technical writer."
   bio_img_path:
-  presentation_type:
-  presentation_title:
-  presentation_desc:
+  presentation_type: "PRESENTATION"
+  presentation_title: "Long Beach Open Data - DataLB and HackLB"
+  presentation_desc: "The City of Long Beach has recently made its first major splash in the civic open data world with the launch of DataLB. Roger will bring you up to speed with civic open data, take you on a tour of DataLB, and show some of his open data work launched under the HackLB project."
 speaker4:
   name:
   twt_name:
