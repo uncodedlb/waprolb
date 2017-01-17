@@ -67,7 +67,7 @@ With luck and your suggestions we'll <!--more-->  improve the WAPRO format in 20
 
 
 
-## TALKS THIS MONTH: TBD
+## TALKS THIS MONTH
 
 The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)) group meets monthly to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!
 
