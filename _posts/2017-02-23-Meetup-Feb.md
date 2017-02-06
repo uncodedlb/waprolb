@@ -1,47 +1,47 @@
 ---
 # Fill-in Speaker1, Speaker2, & speaker1 info below.
 # Add tag(s) related to your presentation. Use lowercase tags. Also add "Your Name" as a tag.
-title: "Web & Application Professionals Meetup – Jan"
-tags: ["Design", "CSS", "Jekyll"]
+title: "Web & Application Professionals Meetup – Feb"
+tags: []
 meeting_time: "7-9p"
 meeting_start: "19:00"
-venue: "WELABS" # WELABS || GJ
-venue_image: "/images/2017/WAPRO_2017_01.jpg"
-rsvp: "https://www.meetup.com/Uncoded/events/236383830/"
-#redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
+venue: "GJ" # WELABS || GJ
+venue_image: "/images/GunnJerkins-Offices-Door.jpg"
+rsvp: ""
+redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true
 speaker1:
-  name: "Mike Stewart"  
-  twt_name: "mdrmike_"
-  ig_name: "mdrmike"
-  company: "Media Done Right"
-  bio_desc: "Open Source evangelist, community organizer, Long Beach native. From enterprise I.T. to consulting.  Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and more generally the promotion and use of freedom software."
-  bio_img_path: "/images/people/mike-stewart.jpg"
-  presentation_type: "PRESENTATION"
-  presentation_title: "Web Development 2017"
-  presentation_desc: "A review of the tech that's influencing the landscape in 2017.  Come prepared to learn about the trends, tools, processes, and tech affecting web and app development in 2017 ... and beyond."
-speaker2:
-  name: "Roger Howard"
-  twt_name: "rogerhoward"
-  ig_name: "rogerxhoward"
-  company: ""
-  bio_desc: "I spent over 15 years in large organizations such as Playboy, Fox, The Getty, and Blizzard Entertainment providing technology leadership, hands on engineering, and process innovation. My specialties generally center around the design and delivery of large collections of data and digital media in museums, photo agencies, video game studios, and other high-volume media environments. These days I work independently as a programmer, consultant, and occasional technical writer."
-  bio_img_path: /images/people/roger-howard.jpg
-  presentation_type: "PRESENTATION"
-  presentation_title: "Long Beach Open Data - DataLB and HackLB"
-  presentation_desc: "The City of Long Beach has recently made its first major splash in the civic open data world with the launch of DataLB. Roger will bring you up to speed with civic open data, take you on a tour of DataLB, and show some of his open data work launched under the HackLB project."
-speaker3:
-  name: Lightning Talks
-  twt_name: waprolb
-  ig_name: waprolb
-  company: WAPRO Community
+  name:
+  twt_name:
+  ig_name:
+  company:
   bio_desc:
-  bio_img_path: "/images/WAPRO.png"
-  presentation_type: DEMO
-  presentation_title: Community Lightning Talks
-  presentation_desc: Show us something cool you've created or discovered that you think we should know in *5 minutes or less.*
+  bio_img_path:
+  presentation_type:
+  presentation_title:
+  presentation_desc:
+speaker2:
+  name:
+  twt_name:
+  ig_name:
+  company:
+  bio_desc:
+  bio_img_path:
+  presentation_type:
+  presentation_title:
+  presentation_desc:
+speaker3:
+  name:
+  twt_name:
+  ig_name:
+  company:
+  bio_desc:
+  bio_img_path:
+  presentation_type:
+  presentation_title:
+  presentation_desc:
 speaker4:
   name:
   twt_name:
@@ -52,18 +52,15 @@ speaker4:
   presentation_type:
   presentation_title:
   presentation_desc:
-
 ---
 
 {% if page.venue_image %}<img src="{{ base.url }}{{ page.venue_image }}" alt="monthly promotional picture">{% endif %}
 
-We're baaack!!  ... though planning to ease into 2017.  This month will be a little more informal and hopefully something for everyone.  As always we'll have some time for presentations, networking, plus free food & drink!  
+We had a great meetup in January and hoping for more good times & sharing at Gunn-Jerkins (near Long Beach Airport).  I'm still putting together details for this month... more info posted soon! But I could use your help and input as we continue to work out details for presentations, venues, topics, etc.  If you or someone you know would like to come share about App or Web development either this month or in the future, please contact us: [www.waprorlb.org/contact/](/contact)
 
-We need your help and input as we continue to work out details for presentations, venues, topics, etc.  If you or someone you know would like to come share about App or Web development either this month or in the future, please contact us: www.waprorlb.org/contact/
+With your suggestions we'll continue to improve the WAPRO format in 2017.  Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
 
-With luck and your suggestions we'll <!--more-->  improve the WAPRO format in 2017.  Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
-
-**Future meetup dates:**  ☔ 1/17 ☃ 2/21 ⛵ 3/21 🌷 4/18 🌤 5/16 ⛵ 6/20 🌊
+**Upcoming meetup dates:**  ☃ 2/23 ⛵ 3/21 🌷 4/20 🌤 5/16 ⛵ 6/22 🌊 <!--more-->
 
 
 
