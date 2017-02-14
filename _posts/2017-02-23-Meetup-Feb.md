@@ -6,7 +6,7 @@ tags: []
 meeting_time: "7-9p"
 meeting_start: "19:00"
 venue: "GJ" # WELABS || GJ
-venue_image: "/images/GunnJerkins-Offices-Door.jpg"
+venue_image: "/images/2017/WAPRO_2017_02.jpg"
 rsvp: ""
 redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
