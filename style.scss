@@ -77,6 +77,19 @@ a {
   }
 }
 
+a[target='_blank'] {
+  //line-height: 250%;
+  &:hover, &:active, &:focus {
+    &::after {
+      content: '  \29C9\279A';
+      //vertical-align: super;
+      position: relative;
+      top: -0.5em;
+      font-size-adjust: 70%;
+    }
+  }
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
