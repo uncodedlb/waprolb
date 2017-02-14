@@ -7,7 +7,7 @@ meeting_time: "7-9p"
 meeting_start: "19:00"
 venue: "GJ" # WELABS || GJ
 venue_image: "/images/2017/WAPRO_2017_02.jpg"
-rsvp: ""
+rsvp: "https://www.meetup.com/Uncoded/events/237710317/"
 redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
@@ -60,7 +60,7 @@ We had a great meetup in January and hoping for more good times & sharing at Gun
 
 With your suggestions we'll continue to improve the WAPRO format in 2017.  Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
 
-**Upcoming meetup dates:**  ☃ 2/23 ⛵ 3/21 🌷 4/20 🌤 5/16 ⛵ 6/22 🌊 <!--more-->
+**Upcoming meetup dates:**  ☃ 2/23 ⛵ 3/21 🌷 4/20 🌤 5/16 ⛵ 6/22 🌊<!--more-->
 
 
 
