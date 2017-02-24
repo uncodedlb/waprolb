@@ -16,11 +16,11 @@ speaker1:
   name: Hector Soto
   twt_name:
   ig_name:
-  company: A Major World Seaport 
+  company: A Major World Seaport
   bio_desc: Accomplished, results-oriented Information Security professional with industry certifications and specialized training in Incident Response, Incident Handling, Malware Analysis, Network Analysis, Penetration Testing, Vulnerability Assessments, and Organizational Leadership with over seven years of cybersecurity experience and eight years of progressive leadership experience.
   bio_img_path: "/images/people/hsoto.jpg"
   presentation_type:
-  presentation_title: Security Tools - demo’s and tools
+  presentation_title: Analyzing Malicious Files & URLs using Web-Based Tools
   presentation_desc: Hector Soto will be presenting a talk/demo related to security, strategies and useful tools.  Hector consults for a major local seaport as a Senior IT Security Consultant - Incident Response. Presentation details forthcoming.
 speaker2:
   name:
