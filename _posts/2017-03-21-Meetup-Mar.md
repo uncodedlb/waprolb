@@ -1,25 +1,33 @@
 ---
-title: 'Web & Application Professionals Meetup – Feb'
+title: 'Web & Application Professionals Meetup – Mar'
 tags: []
 meeting_time: 7-9p
 meeting_start: '19:00'
-venue: GJ
-venue_image: /images/2017/WAPRO_2017_02.jpg
-rsvp: 'https://www.meetup.com/Uncoded/events/237710317/'
+venue: WELABS # WELABS || GJ
+venue_image:
+rsvp: https://www.meetup.com/Uncoded/events/238251035/
 redirect_from:
+  - /next/
+  - /meetup/next/
+  - /meetups/next/
+  - /events/next/
 categories: meetup
 layout: post
 published: true
 speaker1:
-  name: Hector Soto
-  twt_name:
+  name: Kyle Taborski
+  twt_name: ktabors
   ig_name:
-  company: A Major World Seaport
-  bio_desc: 'Accomplished, results-oriented Information Security professional with industry certifications and specialized training in Incident Response, Incident Handling, Malware Analysis, Network Analysis, Penetration Testing, Vulnerability Assessments, and Organizational Leadership with over seven years of cybersecurity experience and eight years of progressive leadership experience.'
-  bio_img_path: /images/people/hsoto.jpg
-  presentation_type:
-  presentation_title: 'Analyzing Malicious Files & URLs using Web-Based Tools'
-  presentation_desc: 'Hector Soto will be presenting a talk/demo related to security, strategies and useful tools.  Hector consults for a major local seaport as a Senior IT Security Consultant - Incident Response. Presentation details forthcoming.'
+  company: Adobe (Livefyre)
+  bio_desc: Kyle Taborski has been a web software engineer for fifteen years working at a variety of small to large companies. I've mostly done Java and JavaScript development.
+  bio_img_path: /images/people/kyle-taborski.png
+  presentation_type: PRESENTATION
+  presentation_title: Adobe (Livefyre) - Displaying User Gnereated Content (UGC)
+  presentation_desc: "At Adobe (Livefyre) we help publishers and marketers engage with their audiences via user generated content (UGC). Starting with conversations using our comments, reviews and rating apps and moving into Media Walls, Carousels, Maps, Live Blogs, Sidenotes, etc. In most of these we display third party UGC from places like Twitter, Facebook, Instagram, Tumblr, and YouTube.
+
+I'll walk though how the data from diverse sources is normalized and how different apps display the UGC. We display the UGC within our curation tools as well as our frontend apps. There is an evolution to how we've tried to best display UGC. I'll talk about what works and what doesn't work. This is a Javascript talk.
+
+Livefyre is Adobe's UGC content platform. We are deployed on some of the most trafficked news sites. We have curate rules pulling in specific client defined content from the Twitter firehouse, Facebook API, Instagram API, etc. We deal with massive amounts of data and page views. For example 2.5B requests per day to via stream API, 1MM pieces of content added to apps dally, and 2.1MM documents indexed to search daily. We will look at how we display all this content to users."
 speaker2:
   name:
   twt_name:
@@ -54,11 +62,11 @@ speaker4:
 
 {% if page.venue_image %}![monthly promotional picture]({{ base.url }}{{ page.venue_image }}){% endif %}
 
-We had a great meetup in January and hoping for more good times & sharing at Gunn-Jerkins (near Long Beach Airport). I'm still putting together details for this month... more info posted soon! But I could use your help and input as we continue to work out details for presentations, venues, topics, etc. If you or someone you know would like to come share about App or Web development either this month or in the future, please contact us: [www.waprorlb.org/contact/](/contact)
+... more info posted soon! As always, I could use your help and input as we continue to work out details for presentations, venues, topics, etc. If you or someone you know would like to come share about App or Web development either this month or in the future, please contact us: [www.waprorlb.org/contact/](/contact)
 
 With your suggestions we'll continue to improve the WAPRO format in 2017\. Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
 
-**Upcoming meetup dates:** ☃ 2/23 ⛵ 3/21 🌷 4/20 🌤 5/16 ⛵ 6/22
+**Upcoming meetup dates:** ⛵ 3/21 🌷 4/20 🌤 5/16 ⛵ 6/22
 
 <!--more-->
 
@@ -110,71 +118,6 @@ If you have interest or work in Web or Application Development, add our meetup t
   </blockquote>
 {% endif %}
 
-
-### Notes from Presentation
-
-After the presentation by Hector, folks in attendance asked about the resources for security. Here is a comprehensive list of **web based security tools.**
-
-#### Web Resources
-
-Tools that are web based and better at hiding your identity.
-
-  *  [https://www.virustotal.com/](https://www.virustotal.com/)
-  *  [http://urlquery.net/](http://urlquery.net/)
-  *  [https://sitecheck.sucuri.net/](https://sitecheck.sucuri.net/)
-  *  [https://quttera.com/](https://quttera.com/)
-  *  [https://www.url-analyzer.net/](https://www.url-analyzer.net/)
-  *  [http://www.unmaskparasites.com/](http://www.unmaskparasites.com/)
-  *  [http://desenmascara.me/](http://desenmascara.me/)
-  *  [http://www.isithacked.com/](http://www.isithacked.com/)
-  *  [http://vms.drweb.com/](http://vms.drweb.com/)
-  *  [https://csi.forcepoint.com/](https://csi.forcepoint.com/)
-  *  [http://www.siteadvisor.com/sites/](http://www.siteadvisor.com/sites/)
-  *  [https://safeweb.norton.com/](https://safeweb.norton.com/)
-  *  [http://app.webinspector.com/](http://app.webinspector.com/)
-  *  [https://wget.alanreed.org/](https://wget.alanreed.org/)
-  *  [http://vurl.mysteryfcm.co.uk/](http://vurl.mysteryfcm.co.uk/)
-  *  [http://whois.domaintools.com/](http://whois.domaintools.com/)
-  *  [https://www.robtex.com/](https://www.robtex.com/)
-  *  [https://mxtoolbox.com/](https://mxtoolbox.com/)
-  *  [http://www.ip-tracker.org](http://www.ip-tracker.org)
-  *  [https://www.iplocation.net/](https://www.iplocation.net/)
-  *  [http://www.ipligence.com/iplocation](http://www.ipligence.com/iplocation)
-  *  [http://www.infobyip.com/ipbulklookup.php](http://www.infobyip.com/ipbulklookup.php)
-  *  [https://myip.ms/](https://myip.ms/)
-  *  [http://www.monitis.com/traceroute/](http://www.monitis.com/traceroute/)
-  *  [http://www.reputationauthority.org/index.php](http://www.reputationauthority.org/index.php)
-  *  [https://www.threatminer.org/](https://www.threatminer.org/)
-  *  [https://www.passivetotal.org/](https://www.passivetotal.org/)
-  *  [https://exchange.xforce.ibmcloud.com/new](https://exchange.xforce.ibmcloud.com/new)
-  *  [https://otx.alienvault.com/](https://otx.alienvault.com/)
-  *  [http://www.senderbase.org/](http://www.senderbase.org/)
-  *  [http://www.phishtank.com/](http://www.phishtank.com/)
-  *  [http://www.urlvoid.com/](http://www.urlvoid.com/)
-  *  [https://archive.org/](https://archive.org/)
-  *  [https://www.base64decode.org/](https://www.base64decode.org/)
-  *  [https://urldecode.org/](https://urldecode.org/)
-  *  [http://www.asciitohex.com/](http://www.asciitohex.com/)
-  *  [http://ddecode.com/](http://ddecode.com/)
-  *  [http://jsbeautifier.org/](http://jsbeautifier.org/)
-  *  [https://jsfiddle.net/](https://jsfiddle.net/)
-
-
-#### Hybrid
-
-Hybrid tools might include web based analysis, but may need to be combined with local tools.
-
-  * [https://www.reverse.it/](https://www.reverse.it/)
-  * [http://www.pdfexaminer.com/](http://www.pdfexaminer.com/)
-  * [https://www.malwaretracker.com/pdf.php](https://www.malwaretracker.com/pdf.php)
-  * [https://www.quicksand.io/](https://www.quicksand.io/)
-  * [https://www.document-analyzer.net/](https://www.document-analyzer.net/)
-  * [https://www.file-analyzer.net/](https://www.file-analyzer.net/)
-  * [http://www.cryptam.com/](http://www.cryptam.com/)
-  * [https://www.networktotal.com](https://www.networktotal.com)
-  * [http://firmware.re/](http://firmware.re/)
-  * [https://www.apk-analyzer.net/](https://www.apk-analyzer.net/)
-  * [http://jsunpack.jeek.org ](http://jsunpack.jeek.org )
 
 {% if page.prizes %}
 
