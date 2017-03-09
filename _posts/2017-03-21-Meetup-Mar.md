@@ -2,9 +2,9 @@
 title: 'Web & Application Professionals Meetup – Mar'
 tags: []
 meeting_time: 7-9p
-meeting_start: '19:00'
+meeting_start: 19:00
 venue: WELABS # WELABS || GJ
-venue_image:
+venue_image: /images/2017/WAPRO_2017_03--social.jpg
 rsvp: https://www.meetup.com/Uncoded/events/238251035/
 redirect_from:
   - /next/
@@ -22,22 +22,31 @@ speaker1:
   bio_desc: Kyle Taborski has been a web software engineer for fifteen years working at a variety of small to large companies. I've mostly done Java and JavaScript development.
   bio_img_path: /images/people/kyle-taborski.png
   presentation_type: PRESENTATION
-  presentation_title: Adobe (Livefyre) - Displaying User Gnereated Content (UGC)
+  presentation_title: Displaying User Generated Content (UGC)—This is a Javascript talk
   presentation_desc: "At Adobe (Livefyre) we help publishers and marketers engage with their audiences via user generated content (UGC). Starting with conversations using our comments, reviews and rating apps and moving into Media Walls, Carousels, Maps, Live Blogs, Sidenotes, etc. In most of these we display third party UGC from places like Twitter, Facebook, Instagram, Tumblr, and YouTube.
 
 I'll walk though how the data from diverse sources is normalized and how different apps display the UGC. We display the UGC within our curation tools as well as our frontend apps. There is an evolution to how we've tried to best display UGC. I'll talk about what works and what doesn't work. This is a Javascript talk.
 
 Livefyre is Adobe's UGC content platform. We are deployed on some of the most trafficked news sites. We have curate rules pulling in specific client defined content from the Twitter firehouse, Facebook API, Instagram API, etc. We deal with massive amounts of data and page views. For example 2.5B requests per day to via stream API, 1MM pieces of content added to apps dally, and 2.1MM documents indexed to search daily. We will look at how we display all this content to users."
 speaker2:
-  name:
-  twt_name:
-  ig_name:
-  company:
-  bio_desc:
-  bio_img_path:
-  presentation_type:
-  presentation_title:
-  presentation_desc:
+  name: Josh Rencher
+  twt_name: joshrencher
+  ig_name: joshrencher
+  company: Globalcentric & Ironfire
+  bio_desc: Founder of Ironfire and 20-year veteran of SaaS startups.
+  bio_img_path: /images/people/josh-rencher.jpg
+  presentation_type: PRESENTATION
+  presentation_title: "The story and tech behind Scriptworthy, a cloud-based screenwriting app made in Long Beach"
+  presentation_desc: "[Scriptworthy](https://scriptworthy.co) started as a
+ hobby project a year ago and has since grown into a secure,
+ subscription-based service quietly launched in early 2017. With a little
+ marketing, it's already become a useful tool for hundreds of
+ screenwriters and continues to evolve based on their usage patterns and
+ direct feedback. Come hear the story of how it began, see how it works,
+ and share your thoughts on how far it could go. This talk will cover the
+ pragmatic approach to building SaaS apps and the various technologies
+ involved: in this case, PHP, Javascript, CSS, MySQL, cloud servers, and
+ more. Q&A to follow, depending on audience interest and time allotted."
 speaker3:
   name:
   twt_name:
@@ -74,8 +83,10 @@ With your suggestions we'll continue to improve the WAPRO format in 2017\. Our g
 
 The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tweet?text=I%27m%20excited%20for%20the%20%23WAPRO%20meetup%20this%20month!%20meetup.com%2Funcoded%2Fevents%2F%20%40uncodedlb%20%23uncoded)) group meets monthly to share and learn about the technology that ignites our imagination, builds our skill-set, expands our network, and grows community!
 
-{% if page.speaker1.presentation_title %}1\. **{{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}]({{ site.base.twitter }}{{ page.speaker1.twt_name }}))** – {{ page.speaker1.presentation_title }} {% endif %} {% if page.speaker2.presentation_title %}1\. **{{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}]({{ site.base.twitter }}{{ page.speaker2.twt_name }}))** – {{ page.speaker2.presentation_title }} {% endif %} {% if page.speaker3.presentation_title %}1\. **{{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }}))** – {{ page.speaker3.presentation_title }} {% endif %} {% if page.speaker4.presentation_title %}1\. **{{ page.speaker4.name }} ([@{{ page.speaker4.twt_name }}]({{ site.base.twitter }}{{ page.speaker4.twt_name }}))** – {{ page.speaker4.presentation_title }} {% endif %}
-
+{% if page.speaker1.presentation_title  %}1. <strong>{{ page.speaker1.name }} ([@{{ page.speaker1.twt_name }}]({{ site.base.twitter }}{{ page.speaker1.twt_name }}))</strong> – {{ page.speaker1.presentation_title }}  {% endif %}
+{% if page.speaker2.presentation_title  %}1. <strong>{{ page.speaker2.name }} ([@{{ page.speaker2.twt_name }}]({{ site.base.twitter }}{{ page.speaker2.twt_name }}))</strong> – {{ page.speaker2.presentation_title }}  {% endif %}
+{% if page.speaker3.presentation_title  %}1. <strong>{{ page.speaker3.name }} ([@{{ page.speaker3.twt_name }}]({{ site.base.twitter }}{{ page.speaker3.twt_name }}))</strong> – {{ page.speaker3.presentation_title }}  {% endif %}
+{% if page.speaker4.presentation_title  %}1. <strong>{{ page.speaker4.name }} ([@{{ page.speaker4.twt_name }}]({{ site.base.twitter }}{{ page.speaker4.twt_name }}))</strong> – {{ page.speaker4.presentation_title }}  {% endif %}
 1. [PLEASE R.S.V.P.]({{ page.rsvp }})
 
 ### ABOUT WAPRO
@@ -118,6 +129,20 @@ If you have interest or work in Web or Application Development, add our meetup t
   </blockquote>
 {% endif %}
 
+{% if page.speaker2.name %}
+  **{{ page.speaker2.presentation_type | uppercase }}**  
+  {{ page.speaker2.presentation_title | uppercase }}  
+
+  {{ page.speaker2.presentation_desc | markdownify }}
+  <blockquote>
+  <h3> {{ page.speaker2.name | markdownify }} </h3>
+
+  {% if page.speaker2.company %}<strong>{{ page.speaker2.company }}</strong>{% endif %}  {% if page.speaker2.twt_name %}<a href="https://twitter.com/{{ page.speaker2.twt_name }}">Twitter: @{{ page.speaker2.twt_name }}</a>{% endif %}
+  {% if page.speaker2.ig_name %}<a href="https://www.instagram.com/{{ page.speaker2.ig_name }}">Instagram: @{{ page.speaker2.ig_name }}</a>{% endif %}  
+  <img src="{{ site.baseurl }}{{ page.speaker2.bio_img_path }}" alt="headshot" class="headshot">
+  {{ page.speaker2.bio_desc | markdownify }}  
+  </blockquote>
+{% endif %}
 
 {% if page.prizes %}
 
