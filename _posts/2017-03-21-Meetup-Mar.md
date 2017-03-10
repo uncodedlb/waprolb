@@ -71,9 +71,9 @@ speaker4:
 
 {% if page.venue_image %}![monthly promotional picture]({{ base.url }}{{ page.venue_image }}){% endif %}
 
-... more info posted soon! As always, I could use your help and input as we continue to work out details for presentations, venues, topics, etc. If you or someone you know would like to come share about App or Web development either this month or in the future, please contact us: [www.waprorlb.org/contact/](/contact)
+This month we've two great talks, both loosely based around javascript and full stack HTML technologies.  Please bring an appetite to consume cool tech, as well as food and drink.  Plus we'll have time to meet and network with other local nerds. Also, we really like folks who share, please come prepared to show us a five minute informal glimpse into something cool or interesting you've recently discovered.
 
-With your suggestions we'll continue to improve the WAPRO format in 2017\. Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
+With your suggestions we'll continue to improve the WAPRO format in 2017. Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
 
 **Upcoming meetup dates:** ⛵ 3/21 🌷 4/20 🌤 5/16 ⛵ 6/22
 
