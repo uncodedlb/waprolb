@@ -2,7 +2,7 @@
 title: 'Web & Application Professionals Meetup – Mar 23'
 tags: []
 meeting_time: 7-9p
-meeting_start: 19:00
+meeting_start: '19:00'
 venue: GJ # WELABS || GJ
 venue_image: /images/2017/WAPRO_2017_03--social-changed.jpg
 rsvp: https://www.meetup.com/Uncoded/events/238251035/

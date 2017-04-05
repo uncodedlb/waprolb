@@ -2,7 +2,7 @@
 title: 'Web & Application Professionals Meetup – Apr 20'
 tags: []
 meeting_time: 7-9p
-meeting_start: 19:00
+meeting_start: '19:00'
 venue: WELABS # WELABS || GJ
 venue_image: /images/2017/WAPRO_2017_04--social.jpg
 rsvp: https://www.meetup.com/Uncoded/events/238985549/
@@ -24,6 +24,18 @@ speaker1:
   presentation_title: "Going Serverless — AWS + S3 + Amazon API"
   presentation_desc: "Join Jeff Algera as he describes his experiences with building an API for his new startup, Stereo.  Using Serverless on the AWS platform with Node and DynamoDB and WWW content served off of S3 buckets."
 speaker2:
+  name: Roger Howard
+  twt_name: rogerhoward
+  ig_name:
+  company: Consultant
+  bio_desc: "Roger Howard is an accomplished technology architect and software developer with a focus on  the intersection of creative media and technology. After more than fifteen years in senior roles at iconic organizations such as The Getty, Blizzard, and Playboy, Roger traded in the comfortable confines of corporate culture to follow his passions and need for self-determination.
+
+  He currently serves as the CTO for Critique­it, a hometown startup, and provides strategic technology consulting and software development services to non­profits such as museums and charities. Roger has too many side projects and interests, and not enough hours in the day."           # Speaker Biography. markdown ok.
+  bio_img_path: "/images/people/roger-howard.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
+  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
+  presentation_title: An Intro to Serverless Application Architecture
+  presentation_desc: A framework for easily creating beautiful presentations using HTML
+speaker3:
   name: Dan Lundmark
   twt_name: danboarder
   ig_name:
@@ -33,16 +45,6 @@ speaker2:
   presentation_type: PRESENTATION
   presentation_title: "Responsive web design for VR"
   presentation_desc: "In the new web, we won't always have a screen in front of us but we can have apps, browsers, and even a VR window to the reality surrounding us. Let's discuss the elements of responsive web design for VR and dive into some of the aspects of 2D web as an immersive experience in VR. The hardware to achieve this, while still in infancy, is here. HD cameras, 360° cameras, drones, fast graphical processors and VR handsets are the pathfinders to a new era. Expensive, bulky and sluggish at this time, as the rate of adoption will rise, the hardware will get cheaper, smaller and faster.  Come, let's explore some of this tech and what it could mean for both the future, and now, together."
-speaker3:
-  name:
-  twt_name:
-  ig_name:
-  company:
-  bio_desc:
-  bio_img_path:
-  presentation_type:
-  presentation_title:
-  presentation_desc:
 speaker4:
   name:
   twt_name:
@@ -129,6 +131,21 @@ If you have interest or work in Web or Application Development, add our meetup t
   {% if page.speaker2.ig_name %}<a href="https://www.instagram.com/{{ page.speaker2.ig_name }}">Instagram: @{{ page.speaker2.ig_name }}</a>{% endif %}  
   <img src="{{ site.baseurl }}{{ page.speaker2.bio_img_path }}" alt="headshot" class="headshot">
   {{ page.speaker2.bio_desc | markdownify }}  
+  </blockquote>
+{% endif %}
+
+{% if page.speaker3.name %}
+  **{{ page.speaker3.presentation_type | uppercase }}**  
+  {{ page.speaker3.presentation_title | uppercase }}  
+
+  {{ page.speaker3.presentation_desc | markdownify }}
+  <blockquote>
+  <h3> {{ page.speaker3.name | markdownify }} </h3>
+
+  {% if page.speaker3.company %}<strong>{{ page.speaker2.company }}</strong>{% endif %}  {% if page.speaker3.twt_name %}<a href="https://twitter.com/{{ page.speaker3.twt_name }}">Twitter: @{{ page.speaker3.twt_name }}</a>{% endif %}
+  {% if page.speaker3.ig_name %}<a href="https://www.instagram.com/{{ page.speaker3.ig_name }}">Instagram: @{{ page.speaker3.ig_name }}</a>{% endif %}  
+  <img src="{{ site.baseurl }}{{ page.speaker3.bio_img_path }}" alt="headshot" class="headshot">
+  {{ page.speaker3.bio_desc | markdownify }}  
   </blockquote>
 {% endif %}
 
