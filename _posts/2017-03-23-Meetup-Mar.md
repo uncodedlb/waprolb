@@ -6,11 +6,6 @@ meeting_start: 19:00
 venue: GJ # WELABS || GJ
 venue_image: /images/2017/WAPRO_2017_03--social-changed.jpg
 rsvp: https://www.meetup.com/Uncoded/events/238251035/
-redirect_from:
-  - /next/
-  - /meetup/next/
-  - /meetups/next/
-  - /events/next/
 categories: meetup
 layout: post
 published: true
@@ -76,7 +71,7 @@ This month we've two great talks, both loosely based around javascript and full 
 
 With your suggestions we'll continue to improve the WAPRO format in 2017. Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
 
-**Upcoming meetup dates:** ⛵ 3/21 🌷 4/20 🌤 5/16 ⛵ 6/22
+**Upcoming meetup dates:** ⛵ 3/23 🌷 4/20 🌤 5/16 ⛵ 6/22
 
 <!--more-->
 
