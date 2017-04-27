@@ -1,45 +1,49 @@
 ---
-title: 'Web & Application Professionals Meetup – Apr 20'
+title: 'Web & Application Professionals Meetup – Thu May 18'
 tags: []
 meeting_time: 7-9p
 meeting_start: '19:00'
-venue: WELABS # WELABS || GJ
-venue_image: /images/2017/WAPRO_2017_04--social.jpg
-rsvp: https://www.meetup.com/Uncoded/events/238985549/
+venue: GJ # WELABS || GJ
+venue_image: #/images/2017/WAPRO_2017_04--social.jpg
+rsvp: https://www.meetup.com/Uncoded/events/
+redirect_from:
+  - /next/
+  - /meetup/next/
+  - /meetups/next/
+  - /events/next/
 categories: meetup
 layout: post
 published: true
 speaker1:
-  name: "Jeff Algera"               # Speaker Full Name
-  twt_name: "jeffalgera"           # Twitter Handle, sans @
-  company: "Principal.la"            # Speakers Employer
-  bio_desc: "Jeff Algera is a software developer turned entrepreneur.  Founding [Principal](http://principal.la) in 2014, Jeff has been active in the startup community to deliver new mobile apps to market."  # Speaker Biography. markdown ok.
-  bio_img_path: "/images/people/jeff-algera.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: "Going Serverless — AWS + S3 + Amazon API"
-  presentation_desc: "Join Jeff Algera as he describes his experiences with building an API for his new startup, Stereo.  Using Serverless on the AWS platform with Node and DynamoDB and WWW content served off of S3 buckets."
+  name:
+  twt_name:
+  ig_name:
+  company:
+  bio_desc:
+  bio_img_path:
+  presentation_type:
+  presentation_title:
+  presentation_desc:
 speaker2:
-  name: Roger Howard
-  twt_name: rogerhoward
+  name:
+  twt_name:
   ig_name:
-  company: Consultant
-  bio_desc: "Roger Howard is an accomplished technology architect and software developer with a focus on  the intersection of creative media and technology. After more than fifteen years in senior roles at iconic organizations such as The Getty, Blizzard, and Playboy, Roger traded in the comfortable confines of corporate culture to follow his passions and need for self-determination.
-
-  He currently serves as the CTO for Critique­it, a hometown startup, and provides strategic technology consulting and software development services to non­profits such as museums and charities. Roger has too many side projects and interests, and not enough hours in the day."           # Speaker Biography. markdown ok.
-  bio_img_path: "/images/people/roger-howard.jpg"       # Path to image, ex: '/images/people/foobar.jpg'
-  presentation_type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  presentation_title: An Intro to Serverless Application Architecture
-  presentation_desc: A framework for easily creating beautiful presentations using HTML
+  company:
+  bio_desc:
+  bio_img_path:
+  presentation_type:
+  presentation_title:
+  presentation_desc:
 speaker3:
-  name: Dan Lundmark
-  twt_name: danboarder
+  name:
+  twt_name:
   ig_name:
-  company: Lundmark newmedia
-  bio_desc: "Dan Lundmark, web & interaction designer, exploring new media technologies and platforms, currently deep into the intersection of Virtual Reality (VR), Augmented Reality (AR), drones, 360° video, 3D printing, and the web."
-  bio_img_path: /images/people/dan-lundmark-in.jpg
-  presentation_type: PRESENTATION
-  presentation_title: "Responsive web design for VR"
-  presentation_desc: "In the new web, we won't always have a screen in front of us but we can have apps, browsers, and even a VR window to the reality surrounding us. Let's discuss the elements of responsive web design for VR and dive into some of the aspects of 2D web as an immersive experience in VR. The hardware to achieve this, while still in infancy, is here. HD cameras, 360° cameras, drones, fast graphical processors and VR handsets are the pathfinders to a new era. Expensive, bulky and sluggish at this time, as the rate of adoption will rise, the hardware will get cheaper, smaller and faster.  Come, let's explore some of this tech and what it could mean for both the future, and now, together."
+  company:
+  bio_desc:
+  bio_img_path:
+  presentation_type:
+  presentation_title:
+  presentation_desc:
 speaker4:
   name:
   twt_name:
@@ -54,13 +58,12 @@ speaker4:
 
 {% if page.venue_image %}![monthly promotional picture]({{ base.url }}{{ page.venue_image }}){% endif %}
 
-Wow!!!  Each month of WAPRO 2017 we've had a wide variety of interesting topics.  This month looks to continue the trend.  Two presentations from folks that run local startups will join us to share about some of the fun & fascinating tech they use daily.  If you're interested in mobile apps or the tech of serverless AWS, or the intersection of Virtual Reality (VR) and the web, don't miss this month!
+At the moment we need someone to volunteer to share something cool.  Interested in speaking or know someone?  [Contct us](/contact)
 
-Please bring an appetite to consume cool tech, as well as food and drink.  (R.S.V.P. or we won't plan for enough). In addition to talks we'll set aside time to meet and network with other local nerds.  Plus, we really like folks who share, so please, come prepared to show us a five minute informal glimpse into something cool or interesting you've recently discovered!
 
-With your suggestions we'll continue to improve the WAPRO format in 2017. Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
 
-**Upcoming meetup dates:** ⛵ 4/20 🌤 5/16 ⛵ 6/22
+**Upcoming meetup dates:** ⛵ 🌤 5/18 ⛵ 6/22 7/20
+
 
 <!--more-->
 
