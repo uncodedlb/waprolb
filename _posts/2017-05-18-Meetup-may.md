@@ -15,15 +15,15 @@ categories: meetup
 layout: post
 published: true
 speaker1:
-  name:
-  twt_name:
+  name: "Jason Ritzke"
+  twt_name: "Rtzq0"
   ig_name:
-  company:
-  bio_desc:
-  bio_img_path:
-  presentation_type:
-  presentation_title:
-  presentation_desc:
+  company: "Taos"
+  bio_desc: "Jason Ritzke is a senior systems engineer with Taos. He specializes in secure, effective deployments of open-source software that help businesses and individuals achieve their goals and dreams. He helps run DC562 and is a maintainer of the Reclass external node classifier."
+  bio_img_path: "/images/people/jason-ritzke.jpg"
+  presentation_type: "PRESENTATION"
+  presentation_title: "IAM unable to come up with a creative title"
+  presentation_desc: "A talk about AWS IAM: what it can do, what it can't do, and why you should care (probably more than a little)."
 speaker2:
   name:
   twt_name:
