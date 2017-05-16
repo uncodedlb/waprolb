@@ -62,7 +62,7 @@ At the moment we need someone to volunteer to share something cool.  Interested 
 
 
 
-**Upcoming meetup dates:** ⛵ 🌤 5/18 ⛵ 6/22 7/20
+**Upcoming meetup dates:** ⛵ 🌤 5/25 ⛵ 6/22 7/20
 
 
 <!--more-->
