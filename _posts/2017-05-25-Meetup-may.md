@@ -1,5 +1,5 @@
 ---
-title: 'Web & Application Professionals Meetup – Thu May 18'
+title: 'Web & Application Professionals Meetup – Thu May 25'
 tags: []
 meeting_time: 7-9p
 meeting_start: '19:00'
