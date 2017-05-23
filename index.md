@@ -13,11 +13,11 @@ published: true
       <h2>Upcoming</h2>
 
       <div class="entry">
-        <h3>Next Meetup: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}  @{{ post.meeting_start | date: "%l%P" }}</a></h3>
-        <time datetime='{{ post.date | date: "%F" }}T{{ post.meeting_start }}{{ post.date | date: "%z" }}'></time>
+        <h3>Next Meetup: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.meeting_start | date: "%B %d, %Y" }}  @{{ post.meeting_start | date: "%l%P" }}</a></h3>
         <figure class="banner">
           <a href="{{ site.baseurl }}{{ post.url }}">{% include mdr/banner_image.html %}</a>
         </figure>
+        <meta property="startDate" content="{{ post.meeting_start | time_tag }}">
       </div>
     </article>
     {% endif %}
