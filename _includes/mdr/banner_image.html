@@ -1,3 +1,5 @@
 {% if page.promo_image %}
 <img src="{{ base.url }}{{ page.promo_image }}" alt="{{ page.promo_image_desc }}">
+{% elsif post.promo_image %}
+<img src="{{ base.url }}{{ post.promo_image }}" alt="{{ post.promo_image_desc }}">
 {% endif %}

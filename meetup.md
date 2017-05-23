@@ -23,6 +23,11 @@ published: true
       <div class="entry">
         <time datetime='{{ post.date | date: "%F" }}T{{ post.meeting_start }}{{ post.date | date: "%z" }}'><h3>{{ post.date | date: "%Y %B" }} Meetup</h3></time>
         <h4><a href="{{ post.rsvp }}" target="_blank" ref="nofollow">Please R.S.V.P. for accurate headcount (food/drink)</a></h4>
+        {% if post.promo_image %}
+        <figure class="banner">
+        {% include mdr/banner_image.html %}
+        </figure>
+        {% endif %}
         {{ post.excerpt }}
       </div>
 
