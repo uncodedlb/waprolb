@@ -1,0 +1,8 @@
+host: "localhost"
+port: "4000"
+baseurl: ""
+url: "http://localhost:4000"
+environment: "" #debug
+keep_files:
+  - style/css/style.css.map
+  - style/css/style.css
