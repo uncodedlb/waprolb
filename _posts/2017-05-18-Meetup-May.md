@@ -13,10 +13,10 @@ promo_image: /images/2017/WAPRO_2017_05--social.jpg
 promo_image_desc: "Banner picture of WAPRO meetup"
 rsvp: https://www.meetup.com/Uncoded/events/240021630/
 redirect_from:
-  - /next/
-  - /meetup/next/
-  - /meetups/next/
-  - /events/next/
+  - next
+  - meetup/next
+  - meetups/next
+  - events/next
 categories: meetup
 layout: meetup
 published: true
