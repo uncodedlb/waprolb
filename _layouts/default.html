@@ -45,11 +45,7 @@
             <p class="site-description">Web & App Professionals</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/meetup/">Meetups</a>
-            <a href="{{ site.baseurl }}/about/">About</a>
-            {% if site.signin-link %}<a href="{{ site.baseurl }}/hi">I'm Here</a>{% endif %}
-          </nav>
+          {% include navigation.html %}
         </header>
       </div>
     </div>

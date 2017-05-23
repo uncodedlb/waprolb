@@ -1,0 +1,15 @@
+- name: "Meetups"
+  link: /meetup/
+  new_window: false
+  highlight: false
+  published: true
+- name: About
+  link: /about/
+  new_window: false
+  highlight: false
+  published: true
+- name: I'm Here
+  link: /hi
+  new_window: false
+  highlight: false
+  published: true
