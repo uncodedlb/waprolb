@@ -191,4 +191,10 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - CODE_OF_CONDUCT.md
+    - tmp
     - vendor
+    - .gitignore
+    - .git
+    - .c9
+    - foo
