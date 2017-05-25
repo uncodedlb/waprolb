@@ -2,7 +2,6 @@
 title: "Web & Application Professionals Meetup – June"
 tags: [react, gitflow, "James Polanco", "Chris Charlton"]
 categories: meetup
-redirect_from: "/Meetup-Jun/"
 layout: post
 published: true
 ---

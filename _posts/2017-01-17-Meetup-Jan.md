@@ -8,7 +8,6 @@ meeting_start: "19:00"
 venue: "WELABS" # WELABS || GJ
 venue_image: "/images/2017/WAPRO_2017_01.jpg"
 rsvp: "https://www.meetup.com/Uncoded/events/236383830/"
-#redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true

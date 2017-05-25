@@ -9,7 +9,6 @@ venue: # WELABS || GJ
 venue_image: #"/images/WAPRO_2016_04.jpg"
 rsvp: "https://www.meetup.com/Uncoded/events/236383830/"
 # "http://www.meetup.com/Uncoded/events/225429587/"
-#redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true

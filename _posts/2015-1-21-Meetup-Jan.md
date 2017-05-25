@@ -2,7 +2,6 @@
 title: "Web & Application Professionals Meetup – January"
 tags: [php, drupal, yeoman, grunt, bower, jekyll, "Chris Charlton", "Frank Andersen"]
 categories: meetup
-redirect_from: "/Meetup-Jan/"
 layout: post
 published: true
 ---

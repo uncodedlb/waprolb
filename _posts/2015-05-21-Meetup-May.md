@@ -2,7 +2,6 @@
 title: "Web & Application Professionals Meetup – May"
 tags: [MeteorJS, demo, django, python, swift, iOS, "Mike Land", "Roger Howard", "Daniel Romero", "Allen Eubank"]
 categories: meetup
-redirect_from: "/Meetup-May/"
 layout: post
 published: true
 ---

@@ -2,7 +2,6 @@
 title: "Web & Application Professionals Meetup – March"
 tags: [strategy, symfony, twig, sass, sculpin, bundler, iOS, "Mariano Crivello", "Mike Stewart", "James Hall"]
 categories: meetup
-redirect_from: "/Meetup-Mar/"
 layout: post
 published: true
 ---

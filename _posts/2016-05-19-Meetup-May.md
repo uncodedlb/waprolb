@@ -8,7 +8,6 @@ meeting_start: "19:00"
 venue: "WELABS" # WELABS || GJ
 venue_image: "/images/WE_Labs2.jpeg"
 rsvp: "http://www.meetup.com/Uncoded/events/231080180/"
-#redirect_from: ["/next/", "/meetup/next/", "/meetups/next/", "/events/next/"]
 categories: meetup
 layout: post
 published: true

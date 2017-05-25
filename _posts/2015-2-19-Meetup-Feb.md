@@ -2,7 +2,6 @@
 title: "Web & Application Professionals Meetup – February"
 tags: [sass, strategy, "Aaron Pederson", "Mariano Crivello"]
 categories: meetup
-redirect_from: "/Meetup-Feb/"
 layout: post
 published: true
 ---
