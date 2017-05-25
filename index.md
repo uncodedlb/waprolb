@@ -3,6 +3,8 @@ layout: default
 title:  Web & Applications Professionals – Long Beach, CA
 permalink: /
 published: true
+date: "2015-01-21 14:16:51 PST"                                                 # posted date
+last_modified_at: "2017-05-23 01:15:20 PDT"                                     # last_modified_at date
 ---
 
 <div class="posts">
@@ -37,24 +39,11 @@ We call ourselves **Web & Application Professionals** ... #WAPRO
 
 WAPRO [meets monthly](/meetups/) to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  The technology and projects we discuss is typically directed towards the professionals that build websites and mobile applications.  Although we don't cater to beginners, we welcome everyone to join us, we actively work with CSULB and LBCC students, and often revisit _IT fundamentals_ in our talks.  We strive to meet in a professional, relaxed, respectful, and open venue for [all people](https://github.com/uncodedlb/uncoded-policies/blob/master/UCC.md) in our community.
 
+
+<aside>
 ## What topics do we cover?
-
-We've had presentations on a variety of tech and projects that use cool tech, such as:  
-
-[Bootstrap](http://getbootstrap.com/),
-[Bower](http://bower.io),
-[Browserfy](http://browserify.org/),
-[Headless Drupal](https://github.com/davidhwang/horseman),
-[iOS](https://developer.apple.com/ios/),
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript),
-[Jekyll](http://jekyllrb.com),
-[Node.js](http://nodejs.org),
-[Meteor](https://www.meteor.com/),
-[Python](https://www.python.org/),
-[SASS](http://sass-lang.com/),
-[Sculpin](http://sculpin.io),
-[Swift](https://developer.apple.com/swift/),
-and more.
+{% include boilerplate/meeting_topics.html %}
+</aside>
 
 In the future we'll cover everything we can related to web or app development, especially convergent technologies.  We also hope to cover associated topics, such as design, UX, testing, workflows, tools, and more. Interested in sharing a talk? Yes! [Contact us](/about/)!
 

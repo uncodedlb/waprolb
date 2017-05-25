@@ -1,7 +1,9 @@
 ---
+title: woot
 layout: page
-title:
 permalink: /hi/
+date: "2015-01-21 00:00:00 PST"                                                  # posted date
+last_modified_at: "2015-03-19 15:34:40 PDT"                                     # last_modified_at date
 published: true
 ---
 
