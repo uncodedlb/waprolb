@@ -160,7 +160,7 @@ permalink: /:categories/:year/:month/
 
 
 # The release of Jekyll Now that you're using
-version: v1.0.0
+#version: v1.0.0
 
 # Set the Sass partials directory, as we're using @imports
 sass:
