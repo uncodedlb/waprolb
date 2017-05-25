@@ -24,7 +24,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 ### PRIZES
 
 - We have prizes!  Join us for your chance to win books!  Examples: **"Mastering iOS Frameworks: Beyond the Basics", "Learning AngularJS", "Apache Cordova 4 Programming", "Swift for Programmers", "NoSQL for Mere Mortals", "Ruby Way, The: Solutions and Techniques", "Practical Guide to Ubuntu", "iOS 8 Application Development"
-<!--more-->
+<!--break-->
 
 
 --------

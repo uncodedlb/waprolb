@@ -73,7 +73,7 @@ With your suggestions we'll continue to improve the WAPRO format in 2017. Our go
 
 **Upcoming meetup dates:** ⛵ 3/23 🌷 4/20 🌤 5/16 ⛵ 6/22
 
-<!--more-->
+<!--break-->
 
 ## TALKS THIS MONTH
 

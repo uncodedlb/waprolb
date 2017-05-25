@@ -23,7 +23,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 - Community News and Job Announcements (10min)
 - Presentations - details below (90min)
 - Networking and post-meetup venue dubya (20min)  
-<!--more-->
+<!--break-->
 
 ![GunnJerkins Offices]({{ site.baseurl }}/images/GunnJerkins-Offices.jpg)  
 

@@ -97,7 +97,56 @@ sponsors:
       desc: "**PEARSON:** Helping to build a better world through education. **PEACHPIT:** Peachpit offers unique learning experiences in photography, graphic design, Web design & development, & more.  **InformIT:** is home to the world's leading technology publishers."
       extra: "Prizes are provided to *WAPRO* free of charge as an opportunity for our members to sample thier quality learning materials and in the process for the publisher to improve their materials.  To do this, all they ask in return is for our winners to please share a review.  Good examples of reviews can be found [here](http://www.amazon.com/review/R1YE2E39KV55DM/ref=cm_cr_rdp_perm?ie=UTF8&ASIN=0735683204), [here](http://www.amazon.com/review/R38DIMKQM0HR4A/ref=cm_cr_rdp_perm?ie=UTF8&ASIN=0133892387) and [here](http://www.amazon.com/review/R173FKSQ80UWS2/ref=cm_cr_rdp_perm). **Note:** Pearson is looking for open, honest and constructive reviews. If you dig the title, cool. If you don't dig it, also cool. Honesty and constructive feedback is what matters. Please send a link of the review using [contact info](/contact/) so it can be documented, possibly shared by uncoded.org, and help us maintain relations to obtain future prizes"
 
+# Defaults
+#                     ██████  ███████ ███████  █████  ██    ██ ██   ████████ ███████
+#                     ██   ██ ██      ██      ██   ██ ██    ██ ██      ██    ██
+#                     ██   ██ █████   █████   ███████ ██    ██ ██      ██    ███████
+#                     ██   ██ ██      ██      ██   ██ ██    ██ ██      ██         ██
+#                     ██████  ███████ ██      ██   ██  ██████  ███████ ██    ███████
 
+# Content Types  (aka Jekyll Collection)
+collections:
+  news:
+    output: true
+    permalink: /:collection/:title
+
+defaults:
+  -
+    scope:
+      type: "posts" # posts was previously `post` in Jekyll 2.2.
+      path: "" # an empty string here means all files in the project
+      output: true
+    values:
+      layout: "post"
+      excerpt_separator: <!--break-->
+      category: meetup
+      permalink: /:categories/:year/:month/
+      author: wapro
+      meeting_time: 7-9p
+      share_message_wapro: "I'm going to the #WAPRO meetup this month! Details: meetup.com/uncoded/events/"
+      share_message_uncoded: "I'm excited for the #WAPRO meetup this month! meetup.com/uncoded/events/ @uncodedlb #uncoded"
+  -
+    scope:
+      type: "pages" # pages was previously `page` in Jekyll 2.2.
+      path: "_pages" # an empty string here means all files in the project
+    values:
+      layout: "page" # overrides previous default layout
+      permalink: /:categories/:title/
+      excerpt_separator: <!--break-->
+      author: wapro
+      sitemap: true
+  -                                                                           # Collections  -
+    scope:
+      type: "news"
+      path: "_news"
+      output: true
+    values:
+      category: news
+      layout: "post"
+      excerpt_separator: <!--break-->
+      author: wapro
+      sitemap: true
+      #last_modified_at: 2017-01-30 09:09:09 -0800
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -108,7 +157,7 @@ base:
 #markdown: redcarpet
 highlighter: rouge
 permalink: /:categories/:year/:month/
-excerpt_separator: "<!--more-->"
+
 
 # The release of Jekyll Now that you're using
 version: v1.0.0

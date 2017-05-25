@@ -16,7 +16,7 @@ The Long Beach __Web & App dev Professionals (WAPRO)__ group meets monthly to sh
 
 * Frank Anderson - How to not use Drupal + custom PHP = Highly available, Highly customizable, and Fast!
 * Chris Charlton - Yeoman (Yo + Grunt + Bower = fast!)
-<!--more-->
+<!--break-->
 
 >  MAIN PRESENTATION  
 >  How to not use Drupal ||  Presentation by [Frank Anderson](http://twitter.com/frobdfas  

@@ -16,7 +16,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 - Chris Charlton - GITflow, I THINK YOU'RE DOING IT WRONG
 
 RSVP:  [j.mp/WAPRO-1506-rsvp](http://www.meetup.com/lbtech/events/222329526/)
-<!--more-->
+<!--break-->
 ### AGENDA
 - Setup and Introductions (10min)
 - Community News and Job Announcements (10min)

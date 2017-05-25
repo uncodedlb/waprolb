@@ -18,9 +18,9 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 * Frank Andersen - Go Beach!  [CSULB](http://csulb.edu) has a new website. It's beautiful.  Frank will share how it was built.
 * TBD - interested in presenting?  [contact me](/about)
 
-<!--more-->
 **MAIN PRESENTATION**  
 Digital Effin Strategy _|  Presentation by [Mariano Crivello](https://twitter.com/MarianoCrivello)_  
+<!--break-->
 
 We have been called architects, developers, designers, guru's, nerds, The IT gal or guy, code monkey, marketing dude, seo wiz and more...   but who we are...  at our core...  is a digital strategist.
 

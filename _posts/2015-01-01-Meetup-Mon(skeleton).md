@@ -69,7 +69,7 @@ The _Long Beach Web & App Professionals_ ([#WAPRO](https://twitter.com/intent/tw
 {% if page.speaker4.presentation_title  %}1. <strong>{{ page.speaker4.name }} ([@{{ page.speaker4.twt_name }}]({{ site.base.twitter }}{{ page.speaker4.twt_name }}))</strong> – {{ page.speaker4.presentation_title }}  {% endif %}
 1. [PLEASE R.S.V.P.]({{ page.rsvp }})
 
-<!--more-->  
+<!--break-->
 
 ## VALUE
 
