@@ -17,5 +17,5 @@ end_of_line = lf
 insert_final_newline=false
 
 # Markdown customizations
-[*.md]
+[*.{md,markdown}]
 trim_trailing_whitespace = false
