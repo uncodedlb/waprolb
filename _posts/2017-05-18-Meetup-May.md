@@ -1,27 +1,34 @@
 ---
 title: 'Web & Application Professionals Meetup – Thu May 25'
-date: "2017-05-12 9:21:08 PDT"                                                 # posted date
-updated: "2017-05-22 8:31:00 PDT"                                               # updated date
+date: "2017-05-12 9:21:08 PDT"                                                  # posted date
+last_modified_at: "2017-05-25 12:43:44 PDT"                                     # last_modified_at date
+published: true
 
 meeting_start: "2017-05-25 19:00:00 PDT"                                         # meeting start date
 meeting_end: "2017-05-25 21:00:00 PDT"                                           # meeting end date
-meeting_time: 7-9p
+#meeting_time: 7-9p
 venue: GJ # WELABS || GJ
 
-tags: [AWS, IAM]
-promo_image: /images/2017/WAPRO_2017_05--social.jpg
-promo_image_desc: "Banner picture of WAPRO meetup"
-rsvp: https://www.meetup.com/Uncoded/events/240021630/
-redirect_from:
-  - next
-  - meetup/next
-  - meetups/next
-  - events/next
-categories: meetup
+#categories: meetup
 layout: meetup
-published: true
-share_message_wapro: "I'm going to the #WAPRO meetup this month! Details: meetup.com/uncoded/events/"
-share_message_uncoded: "I'm excited for the #WAPRO meetup this month! meetup.com/uncoded/events/ @uncodedlb #uncoded"
+redirect_from:
+  - next/
+  - meetup/next/
+
+image: /images/2017/WAPRO_2017_05--social.jpg
+image_desc: "Banner picture of WAPRO meetup"
+rsvp: https://www.meetup.com/Uncoded/events/240021630/
+#share_message_wapro: "I'm going to the #WAPRO meetup this month! Details: meetup.com/uncoded/events/"
+#share_message_uncoded: "I'm excited for the #WAPRO meetup this month! meetup.com/uncoded/events/ @uncodedlb #uncoded"
+
+prizes:
+- name:
+  description:
+  image:
+  image_desc:
+  published:
+
+tags: [AWS, IAM]
 presentations:
 - name: "Jason Ritzke"
   company: "Taos"
@@ -35,21 +42,17 @@ presentations:
     instagram:
 - name: "Mike Stewart"
   company: "Media Done Right"
-  type: "PRESENTATION"  # PRESENTATION || SHOWCASE || DEMO || PANEL
-  title: "Lead Community Discussion"
-  description: "A discussion about the state of technology, types of projects going on locally, and time for general Q & A."
-  bio: "Open Source evangelist, community organizer, Long Beach native. From enterprise I.T. to consulting.  Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and more generally the promotion and use of freedom software."
-  headshot: "/images/people/mike-stewart.jpg"
+  type: PRESENTATION # PRESENTATION || SHOWCASE || DEMO || PANEL
+  title: Lead Community Discussion
+  description: >
+    A discussion about the state of technology, types of projects going on locally, and time for general Q & A.
+  bio: >
+    Open Source evangelist, community organizer, Long Beach native. From enterprise I.T. to consulting.  Ultimately, licensing independence for his clients plus the discovery of the principles behind free software, led him to Drupal as a veritable swiss-army-knife for the web, and more generally the promotion and use of freedom software.
+  headshot: /images/people/mike-stewart.jpg
   social:
     twitter: mdrmike_
-    instagram:
+    instagram: mdrmike
 
-prizes:
-- name:
-  description:
-  promo_image:
-  promo_image_desc:
-  published:
 ---
 
 
