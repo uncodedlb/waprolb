@@ -4,19 +4,21 @@
 //
 
 // Colors
-$blue: #4183C4; 
+$blue: #4183C4;
+$highlight: lighten(#4183C4, 40%);
 
 // Grays
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
+$darker-gray: #222;
+$dark-gray: #333;
 $gray: #666;
-$lightGray: #eee;
+$grayish: #ccc;
+$light-gray: #eee;
 $white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helvetica-neue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
