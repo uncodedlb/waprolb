@@ -13,10 +13,10 @@ url: http://www.waprolb.org/
 baseurl: ""
 
 # Name of your site (displayed in the header)
-name: Web and Application Development Professionals—Long Beach
+name: 「 WAPRO 」 Web and Application Professionals—Long Beach
 signin-link: true
 # Short bio or description (displayed in the header)
-description: "WAPRO meets monthly to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  The technology and projects we discuss is typically directed towards the professionals that build websites and mobile applications.  Although we don't cater to beginners, we welcome everyone to join us."
+description: "WAPRO is a Long Beach tech group that meets monthly to learn, share, and network.  We come together to showcase our cool tech projects, share best practices, network with each other, help newcomers, and the values of open source software (F/OSS).  The technology and projects we discuss is typically directed towards the professionals that build websites and mobile applications.  Although we don't cater to beginners, we welcome everyone to join us."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://avatars2.githubusercontent.com/u/10619762?v=3&s=200
