@@ -120,7 +120,7 @@ defaults:
       excerpt_separator: <!--break-->
       category: meetup
       permalink: /:categories/:year/:month/
-      author: wapro
+      author: waprolb
       meeting_time: 7-9p
       share_message_wapro: "I'm going to the #WAPRO meetup this month! Details: meetup.com/uncoded/events/"
       share_message_uncoded: "I'm excited for the #WAPRO meetup this month! meetup.com/uncoded/events/ @uncodedlb #uncoded"
@@ -132,7 +132,7 @@ defaults:
       layout: "page" # overrides previous default layout
       permalink: /:categories/:title/
       excerpt_separator: <!--break-->
-      author: wapro
+      author: waprolb
       sitemap: true
   -                                                                           # Collections  -
     scope:
@@ -143,7 +143,7 @@ defaults:
       category: news
       layout: "post"
       excerpt_separator: <!--break-->
-      author: wapro
+      author: waprolb
       sitemap: true
       #last_modified_at: 2017-01-30 09:09:09 -0800
 
