@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% assign rsvp = page.rsvp | uri_escape %}
 <article class="post">
 
 
@@ -13,9 +13,9 @@ layout: default
 
     <ol>
     {% for presentation in page.presentations %}
-      <li><strong>{{ presentation.name }}</strong> (<a href="{{ site.base.twitter }}{{ presentation.social.twitter | url_encode }}" alt="twitter handle of {{ presentation.name }}">@{{ presentation.social.twitter }}</a>) – {{ presentation.title }}</li>
+      <li><strong>{{ presentation.name }}</strong> (<a href="{{ site.base.twitter }}{{ presentation.social.twitter | url_encode }}" alt="twitter handle of {{ presentation.name }}" rel="nofollow">@{{ presentation.social.twitter }}</a>) – {{ presentation.title }}</li>
       {% if forloop.last %}
-        <li><a href="{{ page.rsvp | url_encode }}" alt="RSVP link">PLEASE R.S.V.P.</a></li>
+        <li><a href="{{ rsvp }}" alt="RSVP link" target="_blank" rel="nofollow">PLEASE R.S.V.P.</a></li>
       {% endif %}
     {% endfor %}
     </ol>
@@ -61,7 +61,7 @@ layout: default
   <strong>Posted:</strong> {{ page.date | time_tag }}
 </time>
 <time class="date" temprop="dateModified" datetime="{{ page.update | time_tag  }}">
-  <strong>Updated:</strong> {{ page.updated | time_tag }}
+  <strong>Updated:</strong> {{ page.last_modified_at | time_tag }}
 </time>
 {% if jekyll.environment == "production" %}
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
