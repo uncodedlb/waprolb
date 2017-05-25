@@ -127,18 +127,18 @@ Our sponsors help make our meetups awesome! They feed us, provide a place to gat
 
 ### FOOD & BEVERAGES
 
-{% if site.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.food.logo }}' alt='{{ site.sponsors.food.name }}'></a>{% endif %}
-<p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank">{{ site.sponsors.food.name }}</a>.  {{ site.sponsors.food.desc }}</p>
+{% if site.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank" rel="nofollow"><img class="logo" src='{{ site.sponsors.food.logo }}' alt='{{ site.sponsors.food.name }}'></a>{% endif %}
+<p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ site.sponsors.food.twitter }}" target="_blank" rel="nofollow">{{ site.sponsors.food.name }}</a>.  {{ site.sponsors.food.desc }}</p>
 {% if site.sponsors.food.extra %}<p>{{ site.sponsors.food.extra }}</p>{% endif %}
 
 ### VENUE SPONSOR
 
-{% if site.sponsors.venues.gj.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.venues.gj.logo }}' alt='{{ site.sponsors.venues.gj.name }}'></a>{% endif %}
-<p>Our venue host this month is courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank">{{ site.sponsors.venues.gj.name }}</a>.  {{ site.sponsors.venues.gj.desc }}</p>
+{% if site.sponsors.venues.gj.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank" rel="nofollow"><img class="logo" src='{{ site.sponsors.venues.gj.logo }}' alt='{{ site.sponsors.venues.gj.name }}'></a>{% endif %}
+<p>Our venue host this month is courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank" rel="nofollow">{{ site.sponsors.venues.gj.name }}</a>.  {{ site.sponsors.venues.gj.desc }}</p>
 {% if site.sponsors.venues.gj.extra %}<p>{{ site.sponsors.venues.gj.extra }}</p>{% endif %}
 
 ### PRIZES
 
-{% if site.sponsors.prize.pearson.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank"><img class="logo" src='{{ site.sponsors.prize.pearson.logo }}' alt='{{ site.sponsors.prize.pearson.name }}'></a>{% endif %}
-<p>Prizes this month are being provided courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.prize.pearson.twitter }}" target="_blank">{{ site.sponsors.prize.pearson.name }}</a>.  {{ site.sponsors.prize.pearson.desc }}</p>
+{% if site.sponsors.prize.pearson.logo != "" %}<a href="{{ site.base.twitter }}{{ site.sponsors.venues.gj.twitter }}" target="_blank" rel="nofollow"><img class="logo" src='{{ site.sponsors.prize.pearson.logo }}' alt='{{ site.sponsors.prize.pearson.name }}'></a>{% endif %}
+<p>Prizes this month are being provided courtesy of <a href="{{ site.base.twitter }}{{ site.sponsors.prize.pearson.twitter }}" target="_blank" rel="nofollow">{{ site.sponsors.prize.pearson.name }}</a>.  {{ site.sponsors.prize.pearson.desc }}</p>
 {% if site.sponsors.prize.pearson.extra %}<p>{{ site.sponsors.prize.pearson.extra }}</p>{% endif %}

@@ -138,6 +138,6 @@ Our sponsors help make our meetups awesome! They feed us, provide a place to gat
 {% if page.sponsors.food.name != "" %}
 ### FOOD & BEVERAGES
 {% endif %}
-{% if page.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ page.sponsors.food.twitter }}" target="_blank"><img class="logo" src='{{ page.sponsors.food.logo }}' alt='{{ page.sponsors.food.name }}'></a>
-<p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ page.sponsors.food.twitter }}" target="_blank">{{ page.sponsors.food.name }}</a>.  {{ page.sponsors.food.desc }}</p>{% endif %}
+{% if page.sponsors.food.logo != "" %}<a href="{{ site.base.twitter }}{{ page.sponsors.food.twitter }}" target="_blank" rel="nofollow"><img class="logo" src='{{ page.sponsors.food.logo }}' alt='{{ page.sponsors.food.name }}'></a>
+<p>Come hungry & thirsty! This month food and beverage will be graciously provided by <a href="{{ site.base.twitter }}{{ page.sponsors.food.twitter }}" target="_blank" rel="nofollow">{{ page.sponsors.food.name }}</a>.  {{ page.sponsors.food.desc }}</p>{% endif %}
 {% if page.sponsors.food.extra %}<p>{{ page.sponsors.food.extra }}</p>{% endif %}
