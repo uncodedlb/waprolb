@@ -4,9 +4,17 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    <title>{% if page.title %}{{ page.title }} | {% endif %} {{ site.name }}</title>
-
+    {% if page.url == "/" %}
+        {% capture seo_text %}{% seo %}{% endcapture %}<!-- Extract extra <title> tag. -->
+        {% assign open_tag = "<title>" %}
+        {% assign close_tag = "</title>" %}<!-- Remove <title> tag and contents from `seo_text` -->
+        {% assign extract = seo_text | split: open_tag | last | split: close_tag | first | prepend: open_tag | append: close_tag %}
+        {% assign seo_text = seo_text | remove: extract %}
+        <title>{% unless page.url == "/" %}{% if page.title %}{{ page.title }} | {% endif %} {% endunless %}{{ site.name }}</title>
+        {{ seo_text }}
+    {% else %}
+      {% seo %}
+    {% endif %}
     <meta name="author" content="{{ site.name }}" />
     <meta name="description" content="{{ site.description }}">
     <link href='http://fonts.googleapis.com/css?family=Archivo+Black|Aldrich|Droid+Sans' rel='stylesheet' type='text/css'>
