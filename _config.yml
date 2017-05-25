@@ -148,6 +148,7 @@ defaults:
       sitemap: true
       #last_modified_at: 2017-01-30 09:09:09 -0800
 
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -167,11 +168,23 @@ sass:
   sass_dir: _scss
   style: :compressed # You might prefer to minify using :compressed
 
+
+
+# Gem configs
+jekyll-mentions:
+  base_url: https://twitter.com
+
+
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-redirect-from # 301 redirects - https://help.github.com/articles/redirects-on-github-pages/
   - jemoji
+  - jekyll-seo-tag                        # Add metadata tags for search engines and social networks to better index and display your site's content.
+  - jekyll-feed                           # https://github.com/jekyll/jekyll-feed/
+  - jekyll-mentions                       # https://github.com/jekyll/jekyll-mentions/
+  - jekyll-relative-links                 # https://github.com/benbalter/jekyll-relative-links/
+#   - jekyll-pagination
 
 # Exclude these files from your production _site
 exclude:
