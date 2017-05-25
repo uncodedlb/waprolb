@@ -13,7 +13,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 ### TALKS THIS MONTH
 * Aaron Pederson - Let's talk about SASS  
 * Mariano Crivello - Digital Effin Strategy  
-<!--more-->
+<!--break-->
 
 Our kickoff meeting was January at [WE Labs](http://welabs.us).  We had presentations and sharing from people that discussed their work utilizing **Drupal, Jekyll, Node.js, Yeoman, Varnish, PHP, CME, and Bootstrap**, on projects for **SpaceX.com, Riot Games League of Legends, X Prize, and others**. It was a great way to start 2015, but, we're just getting started in Long Beach!  **What I know from experience:** Some of my best projects and connections have come through my involvement in community events.  Don't miss out!
 

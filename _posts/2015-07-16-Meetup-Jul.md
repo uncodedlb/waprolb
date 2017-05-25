@@ -15,7 +15,7 @@ The Long Beach [Web & App dev Professionals (WAPRO)](http://www.waprolb.org) gro
 - Greg Gerber [@gerbz](https://twitter.com/gerbz) - ZAPIER, AUTOMATE EVERYTHING
 - Chris Charlton [@charltonweb](https://twitter.com/charltonweb) - GITFLOW -- I THINK YOU'RE DOING IT WRONG (part2)  
 - TBD - interested in presenting, sponsoring, or addressing the group?  [Contact Mike Stewart](/about)  
-<!--more-->
+<!--break-->
 
 ### AGENDA  
 - Setup and Introductions (10min)  

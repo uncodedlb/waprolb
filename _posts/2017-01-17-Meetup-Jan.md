@@ -60,7 +60,7 @@ We're baaack!!  ... though planning to ease into 2017.  This month will be a lit
 
 We need your help and input as we continue to work out details for presentations, venues, topics, etc.  If you or someone you know would like to come share about App or Web development either this month or in the future, please contact us: www.waprorlb.org/contact/
 
-With luck and your suggestions we'll <!--more-->  improve the WAPRO format in 2017.  Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
+With luck and your suggestions we'll <!--break-->  improve the WAPRO format in 2017.  Our goals are to entice locals and guests to come share and inspire with best practices, interesting and/or fun projects, and cool tech tricks.
 
 **Future meetup dates:**  ☔ 1/17 ☃ 2/21 ⛵ 3/21 🌷 4/18 🌤 5/16 ⛵ 6/20 🌊
 
