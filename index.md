@@ -1,27 +1,30 @@
 ---
 layout: default
-title:  Web & Applications Professionals – Long Beach, CA
+title:  #Web & Applications Professionals – Long Beach, CA
 permalink: /
 published: true
 date: "2015-01-21 14:16:51 PST"                                                 # posted date
-last_modified_at: "2017-05-23 01:15:20 PDT"                                     # last_modified_at date
+last_modified_at: "2017-05-25 02:28:20 PDT"                                     # last_modified_at date
 ---
 
 <div class="posts">
   {% for post in site.posts %}
     {% if forloop.first == true %}
-    <article class="post">
+    <aside class="post">
 
-      <h2>Upcoming</h2>
+      <h2>Next Meetup Event</h2>
 
       <div class="entry">
-        <h3>Next Meetup: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.meeting_start | date: "%B %d, %Y" }}  @{{ post.meeting_start | date: "%l%P" }}</a></h3>
         <figure class="banner">
           <a href="{{ site.baseurl }}{{ post.url }}">{% include mdr/banner_image.html %}</a>
         </figure>
         <meta property="startDate" content="{{ post.meeting_start | time_tag }}">
+
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.meeting_start | date: "%B %d, %Y" }}  @{{ post.meeting_start | date: "%l%P" }}</a></h3>
+
       </div>
-    </article>
+    </aside>
+
     {% endif %}
   {% endfor %}
 </div>

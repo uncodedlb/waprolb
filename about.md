@@ -1,5 +1,5 @@
 ---
-title:  About – Web & Application Professionals
+title:  About Us
 permalink: /about/
 date: "2015-01-29 22:59:44 PST"                                                  # posted date
 last_modified_at: "2016-02-29 23:45:02 PDT"                                     # last_modified_at date
