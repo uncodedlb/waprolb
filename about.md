@@ -3,6 +3,7 @@ title:  About Us
 permalink: /about/
 date: "2015-01-29 22:59:44 PST"                                                  # posted date
 last_modified_at: "2016-02-29 23:45:02 PDT"                                     # last_modified_at date
+redirect_from: [ "contact/" ]
 ---
 
 This site is hosted from our [github repository](https://github.com/uncodedlb/uncodedlb.github.io).  We use it because we like _all things internet_ ... plus its an easy way for us to collaborate and learn together.  Want to join us?  Find [our next meeting](/meetups/) or visit the [Uncoded meetup.com page](http://meetup.com/uncoded).  Or, [Fork one of our repos](https://github.com/uncodedlb), and submit a pull request.  You could also just share your github user to someone listed on our [github organization](https://github.com/uncodedlb).
