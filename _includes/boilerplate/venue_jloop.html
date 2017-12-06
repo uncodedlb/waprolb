@@ -1,0 +1,21 @@
+<h2 id="venue--meetup-info">VENUE & MEETUP INFO</h2>
+<img src="/images/logo-jloop-share.jpg" alt="jloop logo">
+
+<p><div class="event-date" property="startDate" content="{{ page.meeting_start | time_tag }}">
+   <strong>DATE:</strong>  {{ page.meeting_start | date: '%B %d, %Y — %A' }}<br>
+<div class="event-time"><strong>START TIME:</strong> {{ page.meeting_start | date: "%-I:%M %P" }}</div><br>
+<strong>LOCATION:</strong></p>
+
+<div class="event-venue" property="location" typeof="Place">
+  <img class="logo" src="/images/logos/jloop.png" alt="JLOOP"><br>
+  <span property="name">JLOOP</span></a><br>
+  <div class="address" property="address" typeof="PostalAddress">
+    <span property="streetAddress">425 E. 4th Street, Unit C</span><br>
+    <span property="addressLocality">Long Beach</span>,
+    <span property="addressRegion">CA</span>
+    <span property="postalCode">90802</span>
+  </div>
+</div>
+
+<p><strong>MAP LINK:</strong> <a href="https://www.google.com/maps/place/JLOOP/@33.772047,-118.186833,15z" target="_blank" rel="nofollow">Map</a><br>
+<strong>Instructions:</strong>  JLOOP is in downtown long beach on 4th street near Fingerprints Music.  The gate (and phone to be let in) to unit C is to the right of the building itself. If you have any trouble, please call: 562-547-2956.</p>
