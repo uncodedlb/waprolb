@@ -31,9 +31,10 @@ last_modified_at: "2017-05-25 01:31:54 PDT"                                     
       <div class="entry">
 
         {% if post.image %}
+        <a href="{{ site.baseurl }}{{ post.url }}">
         <figure class="banner">
         {% include mdr/banner_image.html %}
-        </figure>
+        </figure></a>
         {% endif %}
         {% if secondloop == "true" %}<h4><a href="{{ post.rsvp }}" target="_blank" ref="nofollow">{{ rsvp_text }}</a></h4>{% endif %}
         {{ post.excerpt }}
