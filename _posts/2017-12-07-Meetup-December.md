@@ -12,8 +12,8 @@ meeting_end: "2017-12-07 21:00:00 PDT"                                          
 #categories: meetup
 layout: meetup
 redirect_from:
-  - next/
-  - meetup/next/
+#  - next/
+#  - meetup/next/
 
 image: /images/2017/WAPRO_2017_12--social.jpg
 image_desc: "Banner picture of WAPRO meetup"
