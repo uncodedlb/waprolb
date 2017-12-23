@@ -1,0 +1,21 @@
+<h2 id="venue--meetup-info">VENUE & MEETUP INFO</h2>
+<img src="/images/logos/ironfire-blk.png" alt="ironfire logo">
+
+<p><div class="event-date" property="startDate" content="{{ page.meeting_start | time_tag }}">
+   <strong>DATE:</strong>  {{ page.meeting_start | date: '%B %d, %Y — %A' }}<br>
+<div class="event-time"><strong>START TIME:</strong> {{ page.meeting_start | date: "%-I:%M %P" }}</div><br>
+<strong>LOCATION:</strong></p>
+
+<div class="event-venue" property="location" typeof="Place">
+  <img class="logo" src="/images/logos/ironfire-blk.png" alt="Ironfire logo"><br>
+  <!-- @FIXME span property="name">Ironfire</span></a><br -->
+  <div class="address" property="address" typeof="PostalAddress">
+    <span property="streetAddress">4195 N Viking Way, #D</span><br>
+    <span property="addressLocality">Long Beach</span>,
+    <span property="addressRegion">CA</span>
+    <span property="postalCode">90808</span>
+  </div>
+</div>
+
+<p><strong>MAP LINK:</strong> <a href="https://www.google.com/maps/place/Ironfire/@33.6724747,-117.9319712,10z" target="_blank" rel="nofollow">Map</a><br>
+<strong>Instructions:</strong>  Ironfire is near LBCC near the intersection of Belflower and Carson.</p>
