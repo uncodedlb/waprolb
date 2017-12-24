@@ -1,12 +1,12 @@
 ---
 title: "Web & Application Professionals Meetup – Thu Jan 11"
-date: "2017-12-23 9:39:08 PST"                                                 # posted date
+date: "2018-01-01 01:01:08 PST"                                                 # posted date
 last_modified_at: "2017-12-23 9:39:08 PST"                                     # last_modified_at date
 published: true
 
 venue: IRONFIRE #JLOOP # WELABS || GJ
-meeting_start: "2017-01-11 19:00:00 PDT"                                        # meeting start date
-meeting_end: "2017-01-11 21:00:00 PDT"                                          # meeting end date
+meeting_start: "2018-01-11 19:00:00 PDT"                                        # meeting start date
+meeting_end: "2018-01-11 21:00:00 PDT"                                          # meeting end date
 #meeting_time: 7-9p
 
 #categories: meetup
