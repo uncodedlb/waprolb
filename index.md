@@ -33,7 +33,7 @@ last_modified_at: "2017-05-25 02:28:20 PDT"                                     
 ---
 
 _the geeks that make the **apps** and the **interwebz** congregate monthly to
-showcase, **learn**, **share**, & network. we meet the **3rd Tuesday** at
+showcase, **learn**, **share**, & network. we meet at
 alternating venues in long beach. come._
 
 We call ourselves **Web & Application Professionals** ... #WAPRO

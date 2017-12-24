@@ -10,7 +10,7 @@ last_modified_at: "2017-05-25 01:31:54 PDT"                                     
 
 <div class="info">
 <h2>Meetups</h2>
-<p>We congregate monthly to showcase, learn, share, & network. Most recently we've been meeting on either the last Thursday of the month.  But depending on venue restrictions, we mix it up.  Please, join us.</p>
+<p>We congregate monthly to showcase, learn, share, & network. Most recently we've been meeting on either a Wed or Thu each month.  But depending on venue restrictions, we mix it up.  Please, join us.</p>
 
 <div class="posts">
   {% assign secondloop = "false" %}

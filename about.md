@@ -15,7 +15,7 @@ We're open to all kinds of feedback.  Do you like what we're doing?  Don't like 
 
 Twitter [@waprolb](https://twitter.com/waprolb)  
 Organizer: Mike Stewart ‒ [@mdrmike_](https://twitter.com/mdrmike_)  
-voice / text <a href="tel:+15629992724">562-999-2724</a>  
+voice / text <a href="tel:+15625472956">562-547-2956</a>  
 
 
 ## Get Involved!
