@@ -1,7 +1,7 @@
 ---
 title: "Web & Application Professionals Meetup – Thu Jan 11"
 date: "2018-01-01 01:01:08 PST"                                                 # posted date
-last_modified_at: "2017-12-23 9:39:08 PST"                                     # last_modified_at date
+last_modified_at: "2017-12-26 18:19:08 PST"                                     # last_modified_at date
 published: true
 
 venue: IRONFIRE #JLOOP # WELABS || GJ
@@ -37,7 +37,7 @@ presentations:
   description: >
     Bryan Amburgey and his team have recently built and launched the Augmented Reality app, StickUp®. Come learn about StickUp and more information about broader trends in AR for 2018. Please download the app now as you can use it to decorate your Christmas tree with photos and 3d ornaments.  It is available for free now on IOS and Android. Try it, then come learn how this cool app was built, and how it represents the new era of Augmented Reality.  
   bio: >           # Speaker Biography. markdown ok
-    
+    Bryan moved to Los Angeles to pursue a career in film and television production. He worked on set as well as a freelance editor-- a skillset that led him to create augmented reality experiences starting 7 years ago. Seeing AR as a transformative technology, Bryan invested in his own app and backend, called ARLB, where he collaborated with local entrepreneurs, DLBA, the Long Beach Innovation Team, Harvey Milk Committee, Molaa, and the Belmont Shore Business Association. During the day he works in project management/sales at local solar contractor Solar Source, and spends his free time at night and on weekends working on his latest AR project StickUp.
   headshot: /images/people/bryan-amburgey.jpg       # Path to image, ex: /images/people/foobar.jpg
   social:
     twitter: 
